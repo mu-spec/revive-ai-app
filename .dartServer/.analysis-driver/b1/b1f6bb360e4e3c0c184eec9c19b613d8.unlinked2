@@ -1,0 +1,1448 @@
+OcompositeCallbackenabledcreateRenderObjectupdateRenderObject_cancelCallback_enabledpainttextvaluebuildTextSpan	selectionclearclearComposingisSelectionWithinTextBounds _isSelectionWithinComposingRangeemptycopycutpaste	selectAllonContentInsertedallowedMimeTypesiOSBlinkingCaretKeyFramestimemaxDuration
+_keyFramesdxisDone_lastKeyFrameIndexx
+controller	focusNodeobscuringCharacterobscureTexttextHeightBehaviortextWidthBasisreadOnly	forceLinetoolbarOptionsshowSelectionHandles
+showCursorautocorrectsmartDashesTypesmartQuotesTypeenableSuggestionsstyleundoController
+strutStyle_strutStyle	textAligntextDirectiontextCapitalizationlocaletextScaleFactor
+textScalercursorColorautocorrectionTextRectColorbackgroundCursorColormaxLinesminLinesexpands	autofocusselectionColorselectionControlskeyboardTypetextInputAction	onChangedonEditingCompleteonSubmittedonAppPrivateCommandonSelectionChangedonSelectionHandleTappedonTapOutsideinputFormattersmouseCursorrendererIgnoresPointercursorWidthcursorHeightcursorRadiuscursorOpacityAnimatescursorOffsetpaintCursorAboveTextselectionHeightStyleselectionWidthStylekeyboardAppearancescrollPaddingenableInteractiveSelectiondebugDeterministicCursordragStartBehaviorscrollControllerscrollPhysicsscribbleEnabledselectionEnabledautofillHintsautofillClientclipBehaviorrestorationIdscrollBehaviorenableIMEPersonalizedLearningcontentInsertionConfigurationcontextMenuBuilderspellCheckConfigurationmagnifierConfiguration_userSelectionEnabledgetEditableButtonItems_inferKeyboardTypecreateStatedebugFillProperties_cursorTimer_cursorBlinkOpacityController$_backingCursorBlinkOpacityController_iosBlinkCursorSimulation_cursorVisibilityNotifier_editableKeyclipboardStatus_liveTextInputStatus_textInputConnection_hasInputConnection_selectionOverlay_scrollableKey_internalScrollController_scrollController_toolbarLayerLink_startHandleLayerLink_endHandleLayerLink_didAutoFocus_currentAutofillScopecurrentAutofillScope_effectiveAutofillClient_spellCheckConfiguration_stylespellCheckEnabledspellCheckResults_spellCheckResultsReceived_processTextService_processTextActions_shouldCreateInputConnection_floatingCursorResetTime_floatingCursorResetController_lastOrientationwantKeepAlive_cursorColor
+cutEnabledcopyEnabledpasteEnabledselectAllEnabledlookUpEnabledsearchWebEnabledshareEnabledliveTextInputEnabled_onChangedClipboardStatus_onChangedLiveTextInputStatus%_textEditingValueforTextLayoutMetricscopySelectioncutSelection_allowPaste	pasteText
+_pasteTextlookUpSelectionsearchWebForSelectionshareSelection_startLiveTextInputfindSuggestionSpanAtCursorIndex_inferSpellCheckConfigurationbuttonItemsForToolbarOptions_getGlyphHeightscontextMenuAnchorscontextMenuButtonItems _textProcessingActionButtonItems	initState_initProcessTextActions_tickersEnableddidChangeDependenciesdidUpdateWidgetdispose _lastKnownRemoteTextEditingValuecurrentTextEditingValueupdateEditingValue_checkNeedsAdjustAffinityperformActionperformPrivateCommandinsertContent_startCaretCenter_lastTextPosition_pointOffsetOrigin_lastBoundedOffset_floatingCursorOffsetupdateFloatingCursor_onFloatingCursorResetTick_finalizeEditing_batchEditDepthbeginBatchEditendBatchEdit!_updateRemoteEditingValueIfNeeded_value	_hasFocus_isMultiline_getOffsetToRevealCaret_needsAutofill_openInputConnection_closeInputConnectionIfNeeded#_openOrCloseInputConnectionIfNeeded_restartConnectionScheduled_scheduleRestartConnection_restartConnectionIfNeededdidChangeInputControlconnectionClosed_nextFocusChangeIsInternal_flagInternalFocus_unflagInternalFocusrequestKeyboard(_updateOrDisposeSelectionOverlayIfNeeded_onEditableScroll_createSelectionOverlay_handleSelectionChanged_caretAnimationDuration_caretAnimationCurve_showCaretOnScreenScheduled_scheduleShowCaretOnScreen_lastBottomViewInsetdidChangeMetrics_performSpellCheck_formatAndSetValue_bringIntoViewBySelectionState_onCursorColorTick_showBlinkingCursorcursorCurrentlyVisiblecursorBlinkIntervalselectionOverlay_obscureShowCharTicksPending_obscureLatestCharIndex_startCursorBlink_onCursorTick_stopCursorBlink_startOrStopCursorTimerIfNeeded_didChangeTextEditingValue_handleFocusChanged_adjustedSelectionWhenFocused_compositeCallback_updateSizeAndTransform#_schedulePeriodicPostFrameCallbacks_scribbleCacheKey_updateSelectionRects_updateComposingRectIfNeeded_updateCaretRectIfNeeded_textDirectionrenderEditabletextEditingValue_devicePixelRatiouserUpdateTextEditingValuebringIntoViewshowToolbarhideToolbartoggleToolbar showSpellCheckSuggestionsToolbarshowMagnifierhideMagnifier_placeholderLocationinsertTextPlaceholderremoveTextPlaceholderperformSelector
+autofillIdtextInputConfigurationautofill_currentPromptRectRangeshowAutocorrectionPromptRect_semanticsOnCopy_semanticsOnCut_semanticsOnPaste_moveBeyondTextBoundary_moveToTextBoundary_characterBoundary_nextWordBoundary
+_linebreak_paragraphBoundary_documentBoundary_makeOverridable_transposeCharacters_transposeCharactersAction_replaceText_replaceTextAction_scrollToDocumentBoundary_scroll_extendSelectionByPage_updateSelection_updateSelectionAction_verticalSelectionUpdateAction_hideToolbarIfVisible_defaultOnTapOutside_actionsbuild
+inlineSpanstartHandleLayerLinkendHandleLayerLinkhasFocusoffsettextSelectionDelegatedevicePixelRatiopromptRectRangepromptRectColorstructStyleplaceholdersizecomparechildeditableKeyupdateSelectionRects_nextElementIdentifier_elementIdentifierelementIdentifieronScribbleFocusisInScribbleRectbounds_text_breaksSurrogatePairgetLeadingTextBoundaryAtgetTrailingTextBoundaryAtstategetTextBoundary_applyTextBoundaryinvokeisActionEnabledignoreNonCollapsedSelectionisExpandextentAtIndexapplyTextBoundaryNEWLINE_CODE_UNIT_isAtWordwrapUpstream_isAtWordwrapDownstream_verticalMovementRun_runSelection(stopCurrentVerticalRunIfSelectionChangesstartendupdateSelectionChangedCallbackAppPrivateCommandCallbackEditableTextContextMenuBuilder_ApplyTextBoundary_kCursorBlinkHalfPeriod"_kObscureShowLatestCharCursorTicks!kDefaultContentInsertionMimeTypes_CompositionCallback_RenderCompositionCallbackTextEditingControllerToolbarOptionsContentInsertionConfiguration	_KeyFrame_DiscreteKeyFrameSimulationEditableTextEditableTextState	_Editable_ScribbleCacheKey_ScribbleFocusable_ScribbleFocusableState_ScribblePlaceholder_CodePointBoundary_DeleteTextAction_UpdateTextSelectionAction$_UpdateTextSelectionVerticallyAction_SelectAllAction_CopySelectionAction_GlyphHeights_WebClipboardStatusNotifierƒn	TextStyleCharacterRangeStringCharactersDragStartBehaviorKeyboardInsertedContentSelectionChangedCauseSmartDashesTypeSmartQuotesTypeTextEditingValueTextInputTypeTextSelectionvoidStringMapdynamic"SelectableRegionContextMenuBuilderSelectableRegionWidgetBuildContextTextPositionboolTextBoundaryDurationmillisecondsintListSingleChildRenderObjectWidgetCompositionCallbackoverrideRenderObjectupdateRenderObjectcompositeCallbackenabledRenderProxyBoxVoidCallbackcallmarkNeedsPaintPaintingContextOffsetaddCompositionCallbackpaintTextInputFormatterdispose	TextFieldValueNotifieremptytext	composingisValidisComposingRangeValidnotifyListenerscopyWith	selection	collapsedoffset	TextRangevalueTextSpanwithComposingstylemerge
+decorationTextDecoration	underlinechildren
+textBefore
+textInside	textAfterFlutterErrorisCollapsedstartlengthend
+DeprecatedreadOnlycontentInsertionConfiguration
+isNotEmptyValueChangeddouble
+Simulation_iOSBlinkingCaretKeyFrameslasttimei	TextInputCupertinoTextFieldTextInputActiondoneAutomaticKeepAliveClientMixinwantKeepAliveFormIntentActionActionsinvokemaybeInvoke	ShortcutsoverridableDeleteCharacterIntentDeleteToNextWordBoundaryIntentextentDeleteToLineBreakIntentbaseSelectAllTextIntent%DoNothingAndStopPropagationTextIntentReplaceTextIntentUpdateSelectionIntentCopySelectionTextIntentPasteTextIntent#TextSelectionGestureDetectorBuilderSemanticsServiceannounceStatefulWidget	multiline
+StrutStyle	TextAlignTextWidthBasisparentTextCapitalizationnoneBoxHeightStyletightBoxWidthStyleall
+BrightnesslightCliphardEdgeTextMagnifierConfigurationdisabledTextSelectionHandleControls	selectAllpastecopycutmisspelledTextStyleautofillHintsmaxLinesFilteringTextInputFormattersingleLineFormatterIterable	FocusNodeTextHeightBehaviorUndoHistoryControllerforceStrutHeightinheritFromTextStylefromTextStyleTextDirectionltrrtlDirectionalityRenderEditablelocaleLocaleMediaQueryDatatextScaleFactor
+MediaQuery
+TextScalerColorCupertinoThemeDataprimaryColorCupertinoColorsinactiveGrayTextFormFieldExpandedSizedBoxDefaultSelectionStyleTextSelectionThemeDataselectionColorTextSelectionControlsbuildToolbar	ThemeDataplatformaddListener
+ListenableTextInputClientperformPrivateCommandTextFieldTapRegionunfocusPointerDownEvent	TapRegionTapRegionCallbackSystemMouseCursorsMouseCursorignorePointerpreferredLineHeightRadius
+Scrollable
+EdgeInsetsScrollController
+controllerScrollPhysicsphysicsScrollBehaviorselectionEnabledAutofillClientAutofillScopeAutofillHintsnameemailemailAddressRestorationBucketRestorationScopeRestorableTextEditingControllerRestorationManager	ScrollbarScrollConfigurationonContentInsertedallowedMimeTypesAdaptiveTextSelectionToolbargetAdaptiveButtonsContextMenuButtonItemBrowserContextMenuSpellCheckServiceDefaultSpellCheckServiceSpellCheckConfigurationcontextMenuButtonItemsgetSelectableButtonItemsbuttonItemsClipboardStatusonPasteclipboardStatusunknowndefaultTargetPlatformTargetPlatformandroidaddAllonCut	onPressedtypeContextMenuButtonTypeonCopyonShareshareonSelectAllonLookUplookUponSearchWeb	searchWebonLiveTextInputaddliveTextInputisEmptyfirstkIsWebiOSmacOSaddressCityaddressCityAndStateaddressStatecountryNamecreditCardNumbernumber
+familyNamefullStreetAddress	givenNamejobTitlelocation
+middleName
+namePrefix
+nameSuffixnewPasswordnewUsernamenicknameoneTimeCodeorganizationNamepassword
+postalCodestreetAddressLine1streetAddressLine2sublocalitytelephoneNumberurlusernameiOSKeyboardTypefuchsialinuxwindowsstreetAddressbirthdaydatetimebirthdayDaybirthdayMonthbirthdayYearcountryCodecreditCardExpirationDatecreditCardExpirationDaycreditCardExpirationMonthcreditCardExpirationYearcreditCardFamilyNamecreditCardGivenNamecreditCardMiddleNamecreditCardNamecreditCardSecurityCodecreditCardTypegenderimpplanguagemiddleInitialphotopostalAddresspostalAddressExtendedpostalAddressExtendedPostalCodestreetAddressLevel1streetAddressLevel2streetAddressLevel3streetAddressLevel4streetAddressLine3phonetelephoneNumberAreaCodetelephoneNumberCountryCodetelephoneNumberDevicetelephoneNumberExtensiontelephoneNumberLocaltelephoneNumberLocalPrefixtelephoneNumberLocalSuffixtelephoneNumberNationaltransactionAmountnumberWithOptionsdecimaltransactionCurrencyDiagnosticPropertiesBuilderdebugFillPropertiesDiagnosticsPropertydefaultValueEnumPropertyIntPropertyStateWidgetsBindingObserverTickerProviderStateMixinTextSelectionDelegateTimerAnimationControllervsynciOSBlinkingCaret	GlobalKeyClipboardStatusNotifierLiveTextLiveTextInputStatusNotifierTextInputConnectionattachedTextSelectionOverlaywidgetscrollController	LayerLinkAutofillGroupStateautofillClientvisibleForTestingspellCheckEnabledSpellCheckResultssuggestionSpansProcessTextServiceDefaultProcessTextServiceProcessTextActionOrientation	focusNodehasFocusmincursorColoralphawithOpacityselectionControlstoolbarOptionsobscureText	pasteableenableInteractiveSelectiontrimLiveTextInputStatussetStatecurrentContext
+StateError	ClipboardsetDataClipboardDatatoolbarupdateSchedulerBindinginstanceaddPostFrameCallbackmounted
+debugLabelFuturegetData
+kTextPlainmax
+baseOffsetextentOffsetreplacedSystemChannelsinvokeMethodstartLiveTextInputSuggestionSpanSpellCheckSuggestionsToolbarrangefloorspellCheckServiceWidgetsBindingplatformDispatchernativeSpellCheckServiceDefinedreportErrorFlutterErrorDetails	exceptionlibrarystack
+StackTracecurrent
+InlineSpantoPlainText
+charactersRectgetRectForComposingRangeheightTextSelectionToolbarAnchorslastSecondaryTapDownPositionprimaryAnchorTextSelectionPointgetEndpointsForSelectionfromSelection	renderBoxstartGlyphHeightendGlyphHeightselectionEndpointsgetEditableButtonItemsSelectableRegionStatelabelactionprocessTextActionid	initState
+showCursorspellCheckConfigurationclearqueryTextActionsdidChangeDependencies
+boldTextOfcontext
+fontWeight
+FontWeightboldAutofillGroupmaybeOf
+unregisterregister	autofocushasSize
+FocusScopeof
+TickerModeorientationOfdidUpdateWidgetremoveListenerhandlesVisibleshowSelectionHandles
+autofillIdupdateKeepAliveupdateConfigtextInputConfigurationsetStyle
+fontFamilyfontSizetextDirection	textAligncanPastecancelremoveObserverFocusManagersetEditingStateaffinityscribbleInProgressscribble
+forcePresskeyboardbrieflyShowPasswordresetCharTickswithAnimationnewlineshouldUnfocusgonextprevioussearchsendcontinueActionemergencyCalljoinrouteunspecifiedonAppPrivateCommandcontainsmimeTypeRawFloatingCursorPointstateFloatingCursorDragStateStartisAnimatingstopstartLocationshouldResetOrigincurrentTextPositionstartCaretCentergetLocalRectForCaretcenter$calculateBoundedFloatingCursorOffsetsetFloatingCursorUpdatecenteredPointrawCursorOffsetgetPositionForPointlocalToGlobalEnd	animateTodurationcurveCurves
+decelerate
+centerLeftisCompletedfromPosition
+lerpDoubledxdyresetLerpValuepragmaonEditingCompleteErrorDescriptionclearComposing	nextFocuspreviousFocusonSubmittedRevealedOffsetpositionallowImplicitScrollingrectSizesizewidthclampDoublerightleft
+fromCenterbottomtopminScrollExtentmaxScrollExtentshiftautofillConfigurationattachshowrequestAutofillcloseconsumeKeyboardTokenscheduleMicrotaskcurrentAutofillScopeTextInputControlhideconnectionClosedReceivedrequestFocusupdateForScrollcontextMenuBuilderdebugRequiredFortoolbarLayerLinkstartHandleLayerLinkendHandleLayerLinkrenderObjectselectionDelegatedragStartBehavioronSelectionHandleTappedmagnifierConfigurationisSelectionWithinTextBounds	doubleTapdrag	longPresstapshowHandlesonSelectionChangedCurvefastOutSlowInfindRenderObject
+hasClientsscrollPaddinggetHandleSizekMinInteractiveDimensiongetHandleAnchorTextSelectionHandleTypeTextBoxgetBoxesForSelectiontoRectshowOnScreeninflateRectjumpToFlutterViewView
+viewInsetsLocalizationsmaybeLocaleOffetchSpellCheckSuggestionsinputFormattersfold	formatterformatEditUpdatenewValueuserInteraction	onChangeddebugDeterministicCursorisActivecursorOpacityAnimatesanimateWithwhenCompleteperiodiczero(stopCurrentVerticalRunIfSelectionChangesaddObserverLayerElementdebugIsActiveMatrix4getTransformTosetEditableSizeAndTransformscribbleEnabledScrollDirectionuserScrollDirectionidle
+textScalerlineartextScalerOf
+inlineSpantextHeightBehaviorDefaultTextHeightBehaviorstructStyle
+strutStyleplaceholderRenderComparisonforcelayoutcompareindexSelectionRectincludeSemanticsLabelsmoveNextpaintBoundsbounds	directionsetSelectionRectssetComposingRectsetCaretRectdevicePixelRatioOfshowToolbarhideHandlestoolbarIsVisiblehideToolbar#spellCheckSuggestionsToolbarBuilder showSpellCheckSuggestionsToolbarmagnifierIsVisibleupdateMagnifiershowMagnifierhideMagnifierintentForMacOSSelectorprimaryFocushashCodeTextInputConfigurationtoListgrowableAutofillConfigurationuniqueIdentifiercurrentEditingValue	inputTypekeyboardTypeautocorrectsmartDashesTypesmartQuotesTypeenableSuggestions_userSelectionEnabledinputActiontextInputActiontextCapitalizationkeyboardAppearanceenableIMEPersonalizedLearningcanCopy
+handleCopycanCut	handleCuthandlePastegetTrailingTextBoundaryAtgetLeadingTextBoundaryAtTextAffinityupstream
+downstreamCharacterBoundarywordBoundariesmoveByWordBoundaryLineBoundaryParagraphBoundaryDocumentBoundarydefaultActionTransposeCharactersIntentatmoveBack
+expandNextcurrentCharactersstringBeforestringAfterstringBeforeLengthCallbackActiononInvokecurrentTextEditingValuereplacementRangereplacementTextcauseScrollToDocumentBoundaryIntentforwardScrollIntentScrollIncrementTypepageScrollPositionScrollableStatecurrentStateScrollActiongetDirectionalIncrementpixelsExtendSelectionByPageIntentAxisDirectiondownupnewSelectionDirectionalCaretMovementIntentObjectDismissIntentonTapOutsidekindPointerDeviceKindtouchmousestylusinvertedStylustrackpadUnimplementedErrorTypeDoNothingActionconsumesKeyDirectionalFocusIntentDirectionalFocusActionforTextField ExtendSelectionByCharacterIntentignoreNonCollapsedSelection'ExtendSelectionToNextWordBoundaryIntent,ExtendSelectionToNextParagraphBoundaryIntent ExtendSelectionToLineBreakIntent-ExtendSelectionVerticallyToAdjacentLineIntent-ExtendSelectionVerticallyToAdjacentPageIntent;ExtendSelectionToNextParagraphBoundaryOrCaretLocationIntent'ExtendSelectionToDocumentBoundaryIntent6ExtendSelectionToNextWordBoundaryOrCaretLocationIntent ExpandSelectionToLineBreakIntentisExpand'ExpandSelectionToDocumentBoundaryIntentextentAtIndexintentdebugCheckHasMediaQuerybuildchildkReleaseModeMouseRegioncursormouseCursoractionsUndoHistoryonTriggeredshouldChangeUndoStackoldValueundoStackModifierundoControllerFocusincludeSemanticskeyexcludeFromSemanticsaxisDirectionscrollPhysicsrestorationIdscrollBehavior
+scrollbars
+overscrollviewportBuilderViewportOffsetCompositedTransformTargetlink	SemanticseditableKeyupdateSelectionRectsbackgroundCursorColor	forceLineminLinesexpandsspellCheckToolbarIsVisiblemisspelledSelectionColortextWidthBasisobscuringCharacterrendererIgnoresPointercursorWidthcursorHeightcursorRadiuscursorOffsetselectionHeightStyleselectionWidthStylepaintCursorAboveTexttextSelectionDelegatedevicePixelRatiopromptRectRangepromptRectColorautocorrectionTextRectColorclipBehaviorSetreplaceRange	substringshrink&buildTextSpanWithSpellCheckSuggestionsbuildTextSpanMultiChildRenderObjectWidget
+WidgetSpanextractFromInlineSpansetPromptRectRange	immutable	identical	compareToScribbleClienttoStringregisterScribbleElementunregisterScribbleElementselectPositionAtfromoverlaps	intersectHitTestResulthitTestInViewviewIdpathanyHitTestEntryentrytarget	RenderBoxMatrixUtilstransformRectfromLTWHTextPainterParagraphBuilder	noScalingPlaceholderDimensionsdebugAssertIsValid	pushStylegetTextStyleaddPlaceholder	alignmentpoprunesisHighSurrogate
+codeUnitAtisLowSurrogateDirectionalTextEditingIntentContextAction_value_characterBoundaryrenderEditablegetLineAtOffsettextEditingValuecollapseSelectioncontinuesAtWrapexpandToextendTocollapseAtReversalVerticalCaretMovementRun%_textEditingValueforTextLayoutMetricsstartVerticalCaretMovementmoveByOffsetmovePreviouscutSelectioncopySelection
+hasStringsSingleChildRenderObjectWidgetRenderProxyBoxValueNotifier
+SimulationStatefulWidgetStateAutomaticKeepAliveClientMixinWidgetsBindingObserverTickerProviderStateMixinTextSelectionDelegateTextInputClientAutofillClientMultiChildRenderObjectWidgetScribbleClient
+WidgetSpanTextBoundaryContextActionClipboardStatusNotifierâè±yÔ5áÁó¹j †B†ÇKeyboardInsertedContentSelectionChangedCauseSmartDashesTypeSmartQuotesTypeTextEditingValueTextInputTypeTextSelection †package:flutter/services.dart,  €¦  
+dart:async  €»  €Ímath€Ğ	dart:math€í€û 	TextStyle €×  €çui€êdart:ui*OCharacterRangeStringCharacters €ÿ  "package:characters/characters.dart  R  package:flutter/foundation.dart¢¸DragStartBehavior |  package:flutter/gestures.dart  »  package:flutter/rendering.dart  ä  package:flutter/scheduler.dart  ‚  package:flutter/services.dart  ‚6  actions.dart  ‚M  autofill.dart  ‚e  automatic_keep_alive.dart  ‚‰  
+basic.dart  ‚  binding.dart  ‚µ  constants.dart  ‚Î  context_menu_button_item.dart  ‚ö  
+debug.dart  ƒ  default_selection_style.dart  ƒ2  #default_text_editing_shortcuts.dart  ƒ`  focus_manager.dart  ƒ}  focus_scope.dart  ƒ˜  focus_traversal.dart  ƒ·  framework.dart  ƒĞ  localizations.dart  ƒí  magnifier.dart  „  media_query.dart  „!  scroll_configuration.dart  „E  scroll_controller.dart  „f  scroll_physics.dart  „„  scroll_position.dart  „£  scrollable.dart  „½  scrollable_helpers.dart  „ß  shortcuts.dart  „ø  spell_check.dart  …  tap_region.dart  …-  	text.dart  …A  text_editing_intents.dart  …e  text_selection.dart  …ƒ  #text_selection_toolbar_anchors.dart  …±  ticker_provider.dart  …Ğ  undo_history.dart  …ì  	view.dart  †   widget_span.dart    	dart:coreÀ™ê Àš@–{ <€†€¤€¥€º€Ö€ı€şQ{ºã‚‚4‚5‚L‚d‚ˆ‚‚´‚Í‚õƒ
+ƒ1ƒ_ƒ|ƒ—ƒ¶ƒÏƒì„„ „D„e„ƒ„¢„¼„Ş„÷……,…@…d…‚…°…Ï…ë…ÿ†††É†Ê†â‡ ‡‡‡n‡“‡ü‡ıˆJˆ§ˆ¨ˆô‰‰‰‰#‰q‰Œ‰Æ‰ŞŠŠŠ	ŠVŠ‘ŠçŠè‹/‹~‹©‹ï‹ğŒ;ŒbŒ”Œ•ŒâŒæ/p­¼ÌÛŞß"‰¸ÎÏÛX\hÃø1r–šœ×‘‘‘L‘m‘n‘‘§‘Æ‘ß‘ô’’1’[’s’y’}’~’Š’Ä’×“$“*“L“P“R“S“€“„“Ã””a”¯”¼”À••M•Q•¢•ï–3–7–…–Î——l—µ˜˜L˜‹˜Ğ˜Ô™!™C™G™•™ß™óš?šŠš®š²›››"›0›4›…›¬›öœ(œÖSY¦´Ş12Œ’ÖöŸ1Ÿ?Ÿ‘Ÿá 2 \ e “ ” Â ã¡4¡‚¡Ï¢¢¢P¢œ¢é££-£I£^£š£¼£Ã£Ç£È£Ô£ı¤	¤N¤Ÿ¤ñ¥¥ ¥<¥@¥A¥u¥{¥Ì¦¦x¦Ï§ §p§¼¨¨¨=¨n¨t¨u¨Ş© ©5©I©e©¥©·©ØªªªZªcªjªnªoª”ªšªê««:«‹«Ù¬&¬d¬j¬§¬î­;­b­h­¶­ã®®G®Š®®³¯¯$¯C¯‘¯•¯–¯¶¯¼°°9°?°°Ş±/±m±~±Ñ±Õ±Ö²²²\²§²µ²»³³Z³«³é´´;´?´@´„´ÂµµµµUµ˜µõµùµûµü¶*¶.¶|¶É¶İ¶á·5·ˆ·”·¡·È·ÿ¸¸¸Q¸W¸š¸©¸Ò¹¹¹(¹?¹U¹m¹‰¹¹¹Ïººº6º<ºUºhºiº–ºœºîºô»»» »O»U»©»¯»È»Ü»İ¼¼¼0¼H¼J¼K¼™¼¼ì½9½\½`½n½r½¥½Ë¾¾¾l¾¾…¾Á¿
+¿,¿Q¿¿¼¿½À @À @6À @<À @À @”À @ªÀ @°À @ıÀ AÀ AÀ A~À AÀ A–À A¦À A¬À AöÀ B7À B8À B‰À BÙÀ BÿÀ CÀ CUÀ C€À C†À CÕÀ D!À D7À D=À DgÀ DmÀ DƒÀ DÑÀ D×À E?À EQÀ EWÀ EgÀ EmÀ E·À EÌÀ EóÀ EõÀ EöÀ F8À FJÀ FtÀ FŸÀ FçÀ GÀ G/À GSÀ GwÀ G›À G¿À GãÀ HÀ H+À HOÀ HtÀ HyÀ HzÀ H»À HĞÀ HæÀ HèÀ HéÀ I À IƒÀ IÆÀ IëÀ JÀ J0À JlÀ J©À JÃÀ JÏÀ JÙÀ JîÀ K,À K-À KIÀ KJÀ KnÀ KoÀ K{À KšÀ K›À K§À KÚÀ KÛÀ L'À LEÀ LFÀ LRÀ LlÀ L–À L—À LæÀ M0À MTÀ MiÀ MÀ M·À NÀ N#À N:À N_À NlÀ N”À N­À N³À N´À NıÀ OKÀ OtÀ O¨À OâÀ P À PÀ PÀ P/À P5À P6À P\À PÀ P‘À P“À P”À P²À P¶À QÀ QNÀ Q\À Q`À QªÀ QõÀ R/À R3À RNÀ RRÀ R¢À RóÀ S=À SAÀ S†À SŠÀ SÚÀ T%À T)À TlÀ TpÀ T…À T‰À TÔÀ U#À UBÀ UFÀ U”À UÛÀ V&À VtÀ VÁÀ WÀ WZÀ W©À WÏÀ WÓÀ X
+À XÀ XÀ XpÀ XŒÀ XÀ XÜÀ Y)À YTÀ YXÀ Y™À YÀ YêÀ Z,À Z0À ZyÀ ZÈÀ [À [À [À [mÀ [½À [áÀ [åÀ \À \#À \oÀ \¼À ] À ]PÀ ]—À ]¹À ]½À ^À ^TÀ ^£À ^ÏÀ ^ÓÀ _À _À `À `¬À aWÀ b2À c(À c,À cƒÀ c‡À dqÀ e[À f\À g[À h À iŸÀ jÊÀ kõÀ lÁÀ lÅÀ lòÀ löÀ màÀ nÊÀ oˆÀ p7À q~À r'À rîÀ sµÀ tbÀ tŸÀ t£À t¹À t½À u$À u‹À v&À vñÀ wŸÀ xÀ x¼À xÀÀ xßÀ xãÀ y2À yÀ yªÀ y®À yşÀ zMÀ z›À zÆÀ zÊÀ {	À {4À {8À {‡À {ÒÀ {ÖÀ |À |jÀ |À |ÇÀ |ÚÀ |ŞÀ }À }LÀ }PÀ }‹À }À }ÙÀ ~À ~:À ~>À ~„À ~ÑÀ À fÀ ±À ùÀ ıÀ €	À €+À €KÀ €˜À € À €¦À €®À €²À €ÅÀ €ÉÀ €×À €ÛÀ *À hÀ ”À ¾À ÄÀ ‚À ‚bÀ ‚¢À ‚¨À ‚÷À ƒHÀ ƒ…À ƒĞÀ ƒÖÀ „%À „YÀ „jÀ „yÀ „—À „´À „ÏÀ „òÀ …À …-À …SÀ …yÀ …œÀ …µÀ …ÑÀ …ğÀ †À †?À †WÀ †hÀ †yÀ †šÀ ‡	À ‡EÀ ‡KÀ ‡eÀ ‡zÀ ‡‘À ‡¤À ‡¾À ‡ÙÀ ‡öÀ ˆ'À ˆCÀ ˆYÀ ˆ€À ˆ™À ˆµÀ ˆÖÀ ˆğÀ ‰'À ‰;À ‰WÀ ‰mÀ ‰‹À ‰¨À ‰ÊÀ ‰áÀ ŠÀ Š&À ŠOÀ ŠkÀ Š‚À Š™À ŠÁÀ ŠØÀ ŠÿÀ ‹8À ‹oÀ ‹¤À ‹ÔÀ Œ
+À Œ0À ŒKÀ ŒcÀ Œ‰À ŒšÀ ŒÅÀ  À À *À UÀ nÀ •À ­À ÆÀ çÀ À >À [À }À ÄÀ İÀ À |À ìÀ À ,À yÀ ­À ·À ÆÀ ‘À ‘HÀ ‘RÀ ‘¨À ’À ’•À ’­À ’ÈÀ “À “:À “dÀ “’À “½À “åÀ ”	À ”!À ”<À ”kÀ ”–À ”¾À ”áÀ ”øÀ •&À •QÀ •tÀ •–À •¾À •âÀ •üÀ –À –8À –‰À –ÈÀ —3À —=À —^À —ÊÀ —ñÀ ˜À ˜TÀ ˜¥À ˜´À ˜ÒÀ ˜ÿÀ ™ À ™&À ™PÀ ™QÀ ™ˆÀ ™¥À ™¦À ™èÀ š*À š0À šWÀ š]À šÀ š¥À šÈÀ šÉÀ ›À ›GÀ ›MÀ ›–À ›âÀ œ2À œEÀ œKÀ œdÀ œyÀ œ“À œ”À œ¾À œîÀ œïÀ *À QÀ RÀ ŠÀ ±À ·À óÀ >À DÀ ]À rÀ ‰À ŠÀ ØÀ ŞÀ Ÿ,À Ÿ]À ŸcÀ Ÿ{À ŸÀ Ÿ‘À Ÿ—À ŸàÀ ŸøÀ ŸùÀ  !À  'À  wÀ  ÆÀ ¡À ¡;À ¡bÀ ¡cÀ ¡ŒÀ ¡’À ¡ŞÀ ¢.À ¢UÀ ¢[À ¢kÀ ¢qÀ ¢µÀ ¢ØÀ ¢ÙÀ £À £1À £7À £‰À £À £¤À £´À £ºÀ ¤À ¤,À ¤-À ¤hÀ ¤À ¤–À ¤®À ¤ÃÀ ¤İÀ ¤ŞÀ ¥%À ¥NÀ ¥OÀ ¥–À ¥¿À ¥ÀÀ ¦	À ¦)À ¦*À ¦]À ¦vÀ ¦wÀ ¦³À ¦¹À §À §0À §1À §kÀ §ŸÀ §¥À §ìÀ ¨/À ¨sÀ ¨¾À ©	À ©À ©[À ©¤À ©ğÀ ©ÿÀ ªÀ ªPÀ ª“À ª™À «À «VÀ «kÀ «qÀ «ÆÀ ¬À ¬XÀ ¬vÀ ¬•À ¬ÛÀ ¬áÀ ­À ­À ­:À ­;À ­tÀ ­§À ­­À ­ÒÀ ­çÀ ®À ®À ®BÀ ®hÀ ®nÀ ®³À ®ÚÀ ®àÀ ¯.À ¯{À ¯ÉÀ °À °bÀ °rÀ °xÀ °°À °ÅÀ °ëÀ °ìÀ ±.À ±uÀ ±À ±•À ±ßÀ ²À ²À ²GÀ ²MÀ ²]À ²cÀ ²µÀ ²»À ²ĞÀ ²ÿÀ ³ À ³@À ³xÀ ³~À ³ÅÀ ´À ´À ´UÀ ´mÀ ´nÀ ´­À ´óÀ µÀ µÀ µMÀ µSÀ µ¤À µÃÀ µÉÀ ¶À ¶[À ¶pÀ ¶À ¶À ·À ·EÀ ·IÀ ·jÀ ·kÀ ·¢À ·ÂÀ ·ÃÀ ·ôÀ ¸À ¸À ¸NÀ ¸TÀ ¸•À ¸åÀ ¹>À ¹LÀ ¹RÀ ¹À ¹•À ¹ÚÀ ºÀ ºÀ ºXÀ ºƒÀ º‰À ºÎÀ ºóÀ ºôÀ »,À »zÀ »€À »ĞÀ ¼À ¼	À ¼SÀ ¼oÀ ¼uÀ ¼ÃÀ ½
+À ½[À ½ƒÀ ½‰À ½ÚÀ ¾+À ¾|À ¾¸À ¾¾À ¿À ¿ZÀ ¿ŠÀ ¿À ¿ÜÀ ¿êÀ ÀÀ ÀÀ ÀÀ ÀaÀ À±À ÀòÀ Á À Á&À Á0À Á6À ÁÀ ÁÂÀ ÁĞÀ ÁóÀ ÁıÀ ÂÀ ÂRÀ ÂÀ ÂÀ Â½À ÂÇÀ ÂÍÀ ÂİÀ ÂãÀ Ã(À Ã=À ÃÀ Ã£À ÃºÀ Ã»À ÃóÀ ÄCÀ ÄIÀ Ä™À ÄÌÀ ÄÒÀ Å$À ÅvÀ Å|À ÅÒÀ ÅØÀ Æ)À ÆtÀ Æ†À ÆŒÀ ÆİÀ Ç,À ÇLÀ ÇRÀ Ç¬À ÇıÀ ÈÀ ÈÀ ÈhÀ ÈŒÀ ÈšÀ È·À ÈÁÀ ÈÇÀ ÉÀ ÉfÀ ÉÀ ÉÀ É¼À ÉÆÀ ÉÌÀ ÉäÀ ÉêÀ ÉúÀ Ê À ÊMÀ Ê˜À Ê´À ÊÉÀ ËÀ Ë/À ËFÀ ËGÀ Ë~À ËÃÀ ËÉÀ ÌÀ ÌLÀ ÌRÀ ÌÀ ÌÂÀ ÌÈÀ ÌáÀ ÌçÀ Í8À ÍÀ Í…À Í¸À ÍÆÀ ÍÜÀ ÎÀ ÎÀ Î'À Î<À ÎRÀ ÎSÀ ÎŒÀ ÎÙÀ ÎèÀ ÎîÀ Ï>À ÏÀ Ï”À Ï­À ÏÂÀ ĞÀ Ğ-À ĞEÀ ĞFÀ ĞzÀ Ğ€À ĞÎÀ ĞíÀ ĞóÀ Ñ4À Ñ„À ÑÏÀ ÑîÀ ÑïÀ Ò0À ÒqÀ ÒwÀ ÒÇÀ ÓÀ Ó\À Ó©À ÓìÀ ÔÀ ÔÀ ÔÀ ÔÀ ÔnÀ ÔºÀ ÔÍÀ ÕÀ ÕlÀ Õ¢À ÕÔÀ ÕÕÀ ÖÀ ÖIÀ ÖOÀ ÖÀ ÖºÀ ÖÏÀ ÖóÀ ÖôÀ ×3À ×]À ×^À ×—À ×ØÀ ØÀ ØÀ ØYÀ Ø À ØäÀ ÙÀ ÙÀ ÙRÀ Ù—À ÙÂÀ ÙÈÀ ÚÀ ÚhÀ Ú·À Ú½À ÚÓÀ Û!À ÛhÀ ÛnÀ ÛÍÀ ÛßÀ ÛôÀ ÛúÀ Ü0À ÜiÀ ÜŒÀ ÜÛÀ İ'À İrÀ İ À İ¦À İéÀ Ş.À ŞvÀ ŞÆÀ ßÀ ß<À ßQÀ ßWÀ ßgÀ ßmÀ ß­À ßóÀ à6À àvÀ àÄÀ áÀ á0À á1À árÀ áÅÀ áäÀ áêÀ â7À â_À âeÀ â´À ãÀ ã À ã&À ãvÀ ãÅÀ äÀ äDÀ äJÀ äœÀ ä±À äÚÀ äÛÀ åÀ åfÀ åsÀ åyÀ åÃÀ æÀ æWÀ æ]À ænÀ æ½À æÃÀ æÑÀ çÀ ç!À ç'À çuÀ ç¿À èÀ è5À èJÀ èuÀ èvÀ è¹À é À éÀ éQÀ éaÀ égÀ é¶À éíÀ éóÀ êÀ ê·À ëÀ ë7À ëÅÀ ìÀ ìCÀ ìXÀ ìÀ ì‘À ìÓÀ í"À í3À íHÀ í~À íÀ íÇÀ íöÀ í÷À î3À î‚À î¨À î®À îÿÀ ïNÀ ï›À ïéÀ ğ9À ğkÀ ğqÀ ğÂÀ ñÀ ñYÀ ñ§À ñ÷À òÀ òÀ òjÀ òµÀ óÀ óAÀ óVÀ ó\À órÀ ó¾À ôÀ ôKÀ ôQÀ ô¡À ôÌÀ ôÒÀ õ+À õ=À õCÀ õSÀ õYÀ õ–À õ¿À õÀÀ õÿÀ ö9À ö?À öÀ öŞÀ ÷)À ÷zÀ ÷«À ÷±À ÷ÁÀ ÷ÇÀ øÀ øXÀ ømÀ ø À ø¡À øíÀ øûÀ ùÀ ùIÀ ùOÀ ù À ùğÀ ú?À ú[À ú}À ú~À úÇÀ û
+À ûÀ ûXÀ û§À ûíÀ ûóÀ üBÀ ü“À üãÀ ıÀ ıÀ ı`À ı•À ı›À ıÄÀ ıÊÀ ıÚÀ ıàÀ ş(À ş{À şœÀ şÁÀ şÂÀ şıÀ ÿ!À ÿ'À ÿ>À ÿDÀ ÿŒÀ ÿÙÀ %À uÀ •À ªÀ ÆÀ ÇÀÀ&À,ÀÀ”À²À³ÀïÀ&À,ÀXÀmÀ‹ÀŒÀÑÀÀ>ÀDÀ”À¸ÀÍÀñÀòÀ.ÀLÀMÀ‘À´ÀµÀÿÀÀDÀtÀuÀ¿ÀÅÀÀ1À2ÀXÀ^À‘À—À½ÀäÀåÀ"À…À‹ÀïÀ#À‘À	À	À	5À	JÀ	lÀ	mÀ	·À	ûÀ
+À
+À
+\À
+šÀ
+ÙÀ
+ßÀ"ÀhÀ‘À—À¯ÀÄÀíÀîÀ;ÀŠÀ¢À¨ÀøÀÀ"ÀcÀ“À”ÀĞÀıÀşÀ>À‡ÀÀÈÀÎÀñÀÀ2À3ÀpÀ¶À¼ÀÀÀ,ÀAÀGÀ’ÀİÀôÀÀÀZÀÀ¤ÀÃÀÉÀáÀöÀÀÀUÀÀ‡À¿ÀèÀıÀ8À9ÀvÀÈÀÚÀàÀ/À~ÀÁÀÀ@ÀFÀ”À½ÀÃÀäÀêÀÀÀ`À”ÀšÀ¸À:ÀŒÀáÀ7À‡ÀÄÀÊÀíÀóÀCÀ”ÀàÀÀÀNÀTÀ¢ÀìÀòÀ?ÀÀÛÀ)ÀwÀÇÀÍÀÀhÀ¶ÀÀWÀhÀnÀ¹ÀÀOÀUÀ¡À¼ÀÂÀ À ^À ¬À úÀ!@À!®À!´À!ÉÀ"À"6À"7À"†À"ŒÀ"ÓÀ#À#?À#@À#vÀ#|À#ŸÀ#ºÀ#»À#ıÀ$À$À$dÀ$©À$¯À$úÀ%FÀ%LÀ%”À%ÙÀ&À&À&)À&/À&|À&À&­À&®À&æÀ'1À'7À'„À'ÈÀ'İÀ'ãÀ((À(wÀ(»À(ÓÀ(ÙÀ)#À)rÀ)€À)¨À)©À)şÀ**À*+À*xÀ*ÇÀ*ÕÀ*ÛÀ+*À+}À+­À+³À,À,NÀ,ŒÀ,’À,¨À,®À,ûÀ-À-À-|À-À-”À-ÙÀ.À.mÀ.”À.šÀ.çÀ/7À/UÀ/jÀ/°À/±À/óÀ07À0=À0À0ØÀ0ŞÀ1,À1?À1EÀ1•À1äÀ21À2@À2FÀ2\À2¬À2óÀ2ùÀ3]À3oÀ3uÀ3‹À3ÛÀ3øÀ3şÀ4bÀ4tÀ4zÀ4ŠÀ4ÜÀ5(À5;À5‰À5ÁÀ5åÀ64À6{À6À6–À6ÌÀ7À7	À7PÀ7–À7œÀ7ëÀ8'À8-À8wÀ8ÇÀ9À9À9eÀ9zÀ9´À9µÀ9ÿÀ:À:4À::À:†À:ÁÀ:ÂÀ;!À;"À;nÀ;­À;³À<À<À<!À<1À<7À<{À<¹À=À=IÀ=šÀ=ÏÀ>À>VÀ>ŸÀ>İÀ?À?;À?cÀ?À?»À?æÀ@À@>À@pÀ@wÀ@ËÀ@ÌÀ@úÀACÀA’ÀAßÀAïÀAğÀB7ÀB”ÀB•ÀBÌÀBçÀCÀC&ÀCSÀC`ÀC|ÀCÀC¼ÀCêÀC÷ÀDÀD5ÀDUÀD„ÀD‘ÀDÊÀDëÀEÀE:ÀEGÀEhÀE‰ÀE­ÀEàÀEíÀFÀF,ÀFMÀF}ÀFŠÀF«ÀFÌÀFğÀG#ÀG0ÀGjÀG‹ÀG«ÀGÚÀGçÀGñÀG÷ÀGøÀH#ÀHFÀHxÀHœÀHÏÀHÙÀHßÀHàÀHıÀIÀIÀIKÀIwÀI¥ÀIÁÀIÈÀJÀJMÀJSÀJTÀJŠÀJ‹ÀJÜÀK/ÀKÀKÕÀKÜÀL-ÀL~ÀLµÀLÈÀLïÀMÀM3ÀMŠÀMÆÀN#ÀN`ÀNœÀNòÀO0ÀOkÀO­ÀOçÀPDÀP¡ÀPşÀQ3ÀQÀQíÀR)ÀReÀRÂÀS ÀS]ÀS–ÀSÑÀTÀTqÀTÎÀUÀUkÀU¤ÀU±ÀU²ÀV ÀV&ÀVGÀVSÀVxÀVÀVÀÀVåÀVöÀVşÀWÀWÀWÀWDÀWJÀWKÀWÀWİÀX$ÀXdÀX›ÀXÕÀYÀYLÀY„ÀYºÀZÀZGÀZÀZÖÀ[À[SÀ[’À[ËÀ\À\KÀ\„À\¼À\ñÀ]6À]gÀ]›À]ÉÀ]üÀ^/À^kÀ^£À^ØÀ_À_<À_qÀ_§À_İÀ`À`FÀ`À`´À`äÀa%ÀanÀaºÀañÀb8ÀbÀbÆÀcÀcSÀc™ÀcßÀdÀdYÀdœÀdâÀe#ÀegÀe§ÀeíÀf3ÀfvÀfÎÀgÀg9ÀglÀgsÀgtÀg·Àg»Àg¼ÀgÈÀhÀhÀhÀhTÀhÀhÙÀi%Ài…ÀißÀj>ÀjåÀkŒÀk÷Àl"Àl{ÀlàÀm7ÀmšÀmâÀn-Àn…ÀnáÀoKÀoÀÀp,Àp›ÀqÀq}Àr Àr}ÀróÀs}ÀtÀtƒÀt…Àt†Àt¦ÀuÀu¦ÀuàÀv)Àv<ÀvdÀvhÀv¥Àw	Àw
+Àw]Àw‹ÀwŒÀw»ÀwôÀxEÀx–ÀxãÀy'ÀyMÀypÀyqÀy§Ày­Ày½ÀzÀzIÀz~ÀzÀz¬Àz÷ÀzøÀ{#À{$À{TÀ{ƒÀ{şÀ{ÿÀ|2À|iÀ|À|ŸÀ|½À|¾À|ëÀ|÷À};À}<À}ŒÀ}À}ÆÀ}ßÀ}àÀ~'À~-À~rÀ~®À~´À~ÄÀÀ'ÀzÀ{À¨À®ÀÿÀ€À€aÀ€bÀ€ À€¦À€íÀ<ÀŒÀ´ÀµÀ‚?À‚@À‚—À‚åÀ‚æÀƒ/Àƒ|Àƒ}ÀƒÌÀƒÚÀƒàÀ„.À„{À„À„ÌÀ…À…À…;À…`À…‚À…¼À†À†À†OÀ†ŒÀ†ÜÀ†İÀ‡À‡À‡6À‡7À‡CÀ‡zÀ‡{À‡–ÀˆÀˆHÀˆLÀˆMÀˆYÀˆqÀˆµÀ‰À‰À‰*À‰IÀ‰}À‰À‰‚À‰À‰§À‰ëÀŠ+ÀŠ1ÀŠPÀŠ„ÀŠˆÀŠ‰ÀŠ•ÀŠ¯ÀŠóÀ‹1À‹7À‹SÀ‹”À‹˜À‹™À‹¥À‹ÃÀŒÀŒ‡ÀŒÀŒÀŒ¹ÀŒÕÀŒûÀÀÀÀ;À\ÀrÀ‘ÀÁÀøÀÀ>À_À‚À²ÀèÀ;ÀAÀEÀFÀRÀmÀ¤À¸À¾ÀİÀÀfÀjÀkÀwÀ•ÀÌÀàÀæÀçÀ‘À‘9À‘À‘“À‘”À‘ À‘ºÀ‘ßÀ’À’!À’DÀ’{À’ÕÀ’öÀ“À“:À“]À“sÀ“yÀ“}À“~À“ŠÀ“¬À“õÀ”À”0À”`À”dÀ”eÀ”ŠÀ”œÀ”æÀ”îÀ”òÀ”óÀ•À•.À•|À•„À•ˆÀ•‰À•ÈÀ–À–7À–mÀ–sÀ–”À–˜À–™À–ÆÀ–ÒÀ—À—FÀ—}À—‹À—‘À—ÀÀ˜À˜:À˜rÀ˜ŒÀ˜À˜´À˜ÕÀ˜øÀ™À™@À™QÀ™vÀ™›À™áÀšÀš%ÀšPÀšªÀš¹ÀšäÀšñÀšùÀšÿÀ›À›!À›"À›NÀ›ZÀ›À›¾À›ÌÀ›ÒÀœÀœAÀœbÀœpÀœvÀœ¾ÀÀ=À‡ÀÂÀÙÀÀÀ\ÀqÀwÀ•À™ÀšÀ³ÀöÀúÀûÀŸÀŸ*ÀŸhÀŸ€ÀŸÀŸ”ÀŸÄÀŸÿÀ NÀ fÀ tÀ zÀ À ¡À ¢À àÀ øÀ¡À¡À¡À¡ZÀ¡qÀ¡±À¢À¢^À¢¤À¢«À¢¬À¢ÌÀ£À£À£À£MÀ£—À£ÒÀ£éÀ¤%À¤/À¤lÀ¤À¤‡À¤‹À¤ŒÀ¤°À¤¼À¤ìÀ¥À¥gÀ¥~À¥ŒÀ¥’À¥²À¥ÓÀ¦0À¦9À¦FÀ¦MÀ¦NÀ¦€À¦§À¦ÌÀ¦íÀ§À§#À§FÀ§iÀ§À§§À§¯À§ÖÀ§ûÀ¨ À¨CÀ¨hÀ¨¤À¨ÇÀ¨èÀ¨ùÀ©À©À©À©À©1À©dÀ©jÀ©œÀ©¢À©àÀª$ÀªEÀªFÀªœÀªÊÀªØÀªŞÀ«À«%À«1À«8À«<À«=À«qÀ«§À«­À«ßÀ«åÀ¬!À¬JÀ¬”À¬µÀ¬ÓÀ¬áÀ¬çÀ¬èÀ­>À­YÀ­‹À­§À­µÀ­¾À­ÄÀ­ÈÀ­ÉÀ®À®9À®?À®}À®ƒÀ®¿À®èÀ¯+À¯LÀ¯jÀ¯xÀ¯~À¯À¯ÕÀ¯ğÀ°"À°:À°HÀ°QÀ°WÀ°[À°\À°–À°·À°ÅÀ°ËÀ°êÀ±À±À±GÀ±\À±bÀ±fÀ±gÀ±´À±ÉÀ±ÏÀ±ßÀ±åÀ²-À²vÀ²±À²öÀ³À³hÀ³¶À³åÀ³øÀ³şÀ³ÿÀ´TÀ´kÀ´œÀ´²À´³À´ÙÀµÀµ\Àµ¢Àµ£ÀµñÀ¶À¶#À¶UÀ¶xÀ¶€À¶À¶¯À¶·À¶½À¶ÎÀ¶ÒÀ¶ÓÀ·À·!À·eÀ·˜À¸À¸TÀ¸ÙÀ¹À¹ÚÀº'ÀºrÀº¥Àº·À»	À»-À»NÀ»uÀ»ÆÀ¼À¼\À¼¬À¼åÀ¼öÀ½À½HÀ½WÀ½dÀ½nÀ½ƒÀ½À½ÆÀ½ÌÀ½ÍÀ¾4À¾8À¾9À¾„À¾“À¾ĞÀ¿	À¿À¿mÀ¿®À¿àÀ¿óÀ¿ùÀÀÀÀIÀÀhÀÀ‚ÀÀ»ÀÀÈÀÀóÀÀşÀÁ,ÀÁKÀÁeÀÁŸÀÁ¬ÀÁØÀÁãÀÂÀÂ2ÀÂLÀÂ‚ÀÂÀÂ¼ÀÂÇÀÂÿÀÃÀÃ8ÀÃnÀÃ{ÀÃ¬ÀÃ·ÀÃ¾ÀÃÂÀÃÃÀÄÀÄ.ÀÄSÀÄ“ÀÄ”ÀÄÙÀÅ#ÀÅsÀÅ»ÀÆ
+ÀÆRÀÆ{ÀÆ­ÀÆİÀÇÀÇ_ÀÇ{ÀÇ®ÀÇßÀÇèÀÇîÀÇïÀÈ4ÀÈ‹ÀÈãÀÉÀÉ;ÀÉCÀÉ˜ÀÉîÀÊ'ÀÊAÀÊIÀÊcÀÊ²ÀÊıÀËÀËÀË	ÀËCÀËÀË–ÀËœÀË¬ÀË²ÀÌÀÌ0ÀÌgÀÌ¦ÀÌĞÀÍÀÍÀÍ$ÀÍ%ÀÍ`ÀÍ ÀÍÌÀÎÀÎ>ÀÎ_ÀÎ‹ÀÎ³ÀÎÕÀÎÜÀÎàÀÎáÀÏ-ÀÏiÀÏoÀÏÀÏ…ÀÏÓÀĞÀĞlÀĞ®ÀĞıÀÑÀÑdÀÑ™ÀÑÍÀÒÀÒiÀÒ¤ÀÒöÀÓ$ÀÓ>ÀÓ}ÀÓÀÓ§ÀÓåÀÓ÷ÀÔÀÔNÀÔ`ÀÔ„ÀÔ¿ÀÔÑÀÔïÀÕ0ÀÕBÀÕfÀÕ­ÀÕ¿ÀÕÛÀÖÀÖ-ÀÖYÀÖÀÖ°ÀÖáÀÖåÀÖæÀ×+À×zÀ×ºÀØÀØ!ÀØ'ÀØ(ÀØjÀØ—ÀØ´ÀØÒÀÙ%ÀÙNÀÙÏÀÚ(ÀÚnÀÚ¦ÀÚîÀÛÀÛ ÀÛ.ÀÛ:ÀÛEÀÛOÀÛUÀÛmÀÛqÀÛrÀÛˆÀÛ‰ÀÛ•ÀÛªÀÛÁÀÜÀÜCÀÜ‚ÀÜ¹ÀÜïÀİ(Àİ†Àİ¥Àİ©ÀİªÀİûÀŞ ÀŞQÀŞrÀŞÀÀŞÄÀŞÅÀßÀß7ÀßVÀßWÀßcÀß„Àß§Àß¨ÀßÔÀàÀà7Àà8Àà‰Àà½ÀàòÀá"ÀácÀáiÀájÀá˜Àá´ÀáïÀâ Àâ@Àâ~ÀâˆÀâ¸Àâ¾Àâ¿ÀãÀã=ÀãlÀã–Àã·ÀãÔÀäÀä-Àä5Àä;Àä<Àä¦Àä´ÀäºÀä»ÀåÀåMÀåqÀå—Àå¥Àå«ÀåÖÀåüÀæ5ÀæQÀæYÀæ–Àæ­ÀæµÀæ»Àæ¿ÀæÀÀæÌÀæıÀç#ÀçXÀçŸÀçàÀèÀèÀèZÀèƒÀè‰ÀèÎÀèÏÀéÀéiÀéªÀé°Àé±ÀéäÀê#Àê\ÀêuÀê{Àê|Àê½Àë!ÀëYÀë_Àë`Àë‰Àë°ÀëâÀì6ÀìtÀì¸ÀìØÀíÀíÀíÀíBÀíuÀíÒÀíÚÀíàÀíáÀî Àî9Àî–ÀîÀî¤Àî¥ÀîĞÀï!Àï@ÀïnÀï»ÀïÕÀïöÀğÀğGÀğlÀğ•Àğ¾ÀğåÀğğÀğøÀğşÀğÿÀñ4Àñ]ÀñcÀñµÀñÌÀò	ÀòHÀòhÀònÀòrÀòsÀòÀò’Àò¼ÀòïÀó1Àó`Àó‹Àó°ÀóÒÀóîÀôÀô<ÀômÀôÀô­ÀôçÀõÀõbÀõ‡ÀõÆÀõåÀöÀöNÀöcÀö±ÀöµÀö¶ÀöÛÀöÜÀ÷'À÷-À÷yÀ÷½ÀøÀø1Àø7Àø‚ÀøµÀøëÀøìÀøøÀù2Àù3Àù?ÀùsÀùÀÀúÀúYÀúZÀú¨ÀúÉÀúòÀû ÀûÀûÀû3Àû›Àû¡Àû¢Àû½ÀüÀü(ÀücÀüiÀü—Àü˜Àü³ÀüÿÀı9Àı{Àı‰ÀıÀıÀıÜÀşÀş(ÀşgÀş—ÀşÆÀÿÀÿDÀÿSÀÿƒÀÿ‹ÀÿÂÀÿÏÀÿöÀ EÀ ‹À åÀÀ	À/À0ÀkÀ¥ÀÀ_À`ÀÃÀÀ^ÀdÀeÀœÀìÀÀ6À<À=ÀŒÀÚÀ'ÀEÀzÀ~ÀÀºÀÀ-ÀrÀ«ÀèÀìÀíÀùÀ(À>ÀbÀ­ÀõÀ	À&À_ÀiÀŠÀ©ÀÊÀïÀ	À	3À	jÀ	•À	¿À	àÀ
+À
+#À
+KÀ
+–À
+ßÀÀÀ!À"À.ÀwÀ«À¯À°À¼ÀôÀ\À§À«À¬ÀöÀÀÀeÀrÀ•À–ÀàÀşÀÿÀ5ÀSÀTÀ¥ÀõÀ;À”À•À¡ÀİÀÀ,À\ÀwÀ¡ÀÜÀÀ6À@ÀwÀ¨ÀÛÀ,ÀNÀyÀzÀ¡ÀÑÀ÷À@ÀkÀÀÚÀëÀÀ™À÷ÀÀÀ0ÀÔÀÀeÀÀÚÀ=À>À¡À,ÀŒÀ´À×ÀôÀ,ÀsÀªÀ"À,À2À6À7À]ÀÚÀÀyÀÂÀÀWÀ¡ÀÁÀÂÀÀaÀ°ÀÿÀCÀDÀÀÖÀÀ`À“À À …À À ­À ÍÀ îÀ!À!À!bÀ!ÂÀ""À"#À"°À"¶À"ºÀ"»À"èÀ#9À#„À#°À#¼À#áÀ$À$:À$ZÀ$rÀ$À$äÀ$ğÀ$øÀ%À%CÀ%“À%ÔÀ%şÀ&À&3À&XÀ&„À&©À&ÌÀ&óÀ'À'GÀ'lÀ'’À'ÀÀ'èÀ(À(5À(_À(ˆÀ(¶À(ÀÀ(ÈÀ(ÎÀ(ÏÀ)À)0À)>À)DÀ)EÀ)ˆÀ)’À)²À)ÓÀ*À*%À*;À*WÀ*£À*­À*³À*´À+À+SÀ+ À+ÍÀ,	À,À,aÀ,±À,ÿÀ-À-&À-JÀ-PÀ-TÀ-UÀ-pÀ-qÀ-ÂÀ.À.À.WÀ.¨À.ÄÀ.ŞÀ.øÀ.üÀ.ıÀ/MÀ/šÀ/ À/íÀ/ùÀ0À0+À07À0SÀ0¢À0©À0ÒÀ0ÖÀ0×À1À1;À1IÀ1OÀ1À1¹À1ÇÀ1ÍÀ2À27À2;À2<À2vÀ2À2ÂÀ2ÆÀ2ÇÀ2úÀ3+À3,À3yÀ3ÈÀ4À4+À40À4|À4ÍÀ5À5,À5bÀ5 À5ëÀ5ñÀ5òÀ6%À6HÀ6eÀ6fÀ6À6¹À6åÀ7À7`À7¡À7éÀ8À8À8kÀ8¼À8òÀ9#À9@À9[À9¦À9¯À9°À9ôÀ:/À:ˆÀ:¯À:µÀ:¶À;À;À;DÀ;wÀ;©À;ÛÀ;âÀ;ãÀ<+À<ˆÀ<ŒÀ<À<İÀ<ìÀ=XÀ=YÀ={À=µÀ=ÕÀ=şÀ>À>À>2À>dÀ>eÀ>´À>ùÀ?À?À?eÀ?²À@À@$À@pÀ@ÎÀA!ÀABÀAoÀA‹ÀAŸÀAÈÀAíÀBÀB?ÀBfÀBpÀB–ÀB¨ÀBÄÀCÀC>ÀCoÀCwÀC¬ÀC¹ÀCİÀCãÀCçÀCèÀDÀD0ÀDUÀDxÀD§ÀDÇÀDæÀDìÀDğÀDñÀE ÀE`ÀE~ÀE›ÀEÂÀEìÀEòÀEöÀE÷ÀF#ÀFIÀFpÀF~ÀF„ÀF¬ÀFßÀFãÀG.ÀG3ÀG€ÀGÍÀGüÀH"ÀHKÀHŒÀHšÀH ÀHÃÀHäÀIÀIÀIuÀIŞÀJ0ÀJZÀJ[ÀJmÀJ|ÀJÀJµÀJØÀJÿÀK&ÀKKÀKSÀKtÀK£ÀK§ÀK¨ÀK©ÀKµÀLÀL<ÀLVÀLpÀLvÀLzÀL{ÀL‡ÀL£ÀLÂÀLúÀMÀMLÀMnÀMtÀMxÀMyÀM½ÀN	ÀNÀNHÀNIÀN–ÀN«ÀNÉÀNğÀO-ÀO1ÀO2ÀORÀOzÀOºÀO¾ÀO¿ÀOøÀOşÀPLÀPšÀPèÀQ7ÀQVÀQqÀQ†ÀQ¤ÀQ±ÀQÍÀRAÀRGÀRKÀRLÀR€ÀR¥ÀR¼ÀRçÀRöÀSÀS>ÀSFÀSLÀSPÀSQÀSnÀS˜ÀS¶ÀSºÀS»ÀSîÀTHÀTÀT¸ÀTĞÀTåÀUÀU0ÀUcÀU’ÀU¶ÀUéÀVÀV;ÀVzÀV¯ÀV¾ÀVáÀWÀWÀW-ÀW:ÀWEÀW‚ÀW‰ÀWŠÀW§ÀW«ÀW¬ÀWÙÀX1ÀX€ÀXÎÀXñÀY6ÀYDÀYJÀYKÀYxÀYyÀY½ÀZÀZEÀZƒÀZ±ÀZÆÀZ×À[À[*À[WÀ[ƒÀ[®À[ÔÀ[şÀ\À\DÀ\]À\zÀ\„À\ŠÀ\ÛÀ\ÿÀ]À],À]SÀ]ŠÀ]™À]ÄÀ]ÌÀ^À^;À^AÀ^À^µÀ^íÀ^÷À_0À_QÀ_…À_£À_¹À_ÕÀ`'À`1À`7À`8À`ˆÀ`¿À`îÀa	ÀaÀaÀaÀaYÀa¨ÀaêÀaëÀbÀbÀb[Àb‚ÀbÀb–Àb¾Àc Àc+ÀcxÀcÃÀcğÀd>Àd_ÀdšÀdÈÀdØÀdàÀdáÀe%Àe&ÀetÀe®ÀeèÀf"ÀflÀf™ÀfÒÀfêÀgÀgÀg]ÀgyÀg¨ÀgÀÀgÍÀhÀh1ÀhgÀh€Àh‹Àh“Àh”ÀhÏÀhùÀhúÀi^Ài¬Ài­ÀiÌÀjÀj1Àj[ÀjjÀjÇÀkÀkbÀkˆÀk®ÀkÚÀkëÀl4Àl~ÀlˆÀlÀl‘Àl¬ÀlÑÀlğÀmÀmDÀmOÀmtÀm¬ÀmÙÀn ÀnÀnÀnQÀnvÀn®Àn¹ÀnÁÀnïÀnóÀnôÀoÀoÀo%ÀoAÀoUÀocÀoiÀo›ÀoÕÀpÀpGÀp}Àp¸ÀqÀqaÀq›Àq£Àq©ÀqÜÀqàÀqáÀrÀr(ÀrŒÀrÀr›ÀrÃÀsÀs"Às#ÀsYÀszÀs˜ÀsàÀsáÀtÀt_ÀtoÀtwÀtxÀt¸ÀtåÀuÀu:ÀuXÀunÀuŠÀuÍÀu×ÀuİÀuáÀuâÀvÀvÀv¯ÀvéÀwHÀw‘Àw’ÀwºÀxÀx_ÀxnÀx½ÀyÀy\Ày¬ÀyæÀyòÀz2ÀzCÀz¸ÀzÌÀzÍÀ{$À{NÀ{XÀ{{À{±À{ÑÀ{éÀ|À|OÀ|[À|cÀ|iÀ|jÀ|±À|²À|ÿÀ}@À}VÀ}jÀ}»À~À~YÀ~iÀ~…À~¡À~ÖÀÀDÀ”ÀšÀÆÀîÀúÀ€'À€JÀ€€À€ À€¸À€ÖÀÀ"À*À0ÀDÀHÀIÀÇÀìÀ‚À‚,À‚dÀ‚—À‚ÅÀ‚ÏÀ‚ğÀƒÀƒ6ÀƒYÀƒŒÀƒĞÀƒşÀ„MÀ„}À„‰À„“À„™À„À„À„¼À…1À…„À†À†À†À†À†À†ÛÀ‡À‡$À‡rÀ‡sÀ‡ÁÀˆÀˆ0ÀˆEÀˆ„Àˆ…Àˆ½ÀˆÒÀ‰À‰À‰>À‰^À‰_À‰|À‰íÀŠÀŠÀŠÀŠ;ÀŠIÀŠOÀŠkÀŠšÀŠËÀŠÙÀŠßÀ‹À‹oÀ‹|À‹ŞÀ‹äÀ‹èÀ‹éÀŒÀŒ.ÀŒ’ÀŒ½ÀŒÊÀŒùÀÀÀ!À"ÀJÀhÀ·ÀÎÀaÀnÀ±ÀÀÀ{ÀÀ…À†ÀÀÀïÀÀ$À>ÀfÀlÀpÀqÀœÀ¼ÀÖÀıÀ‘À‘À‘"À‘#À‘IÀ‘{À‘ÏÀ’!À’FÀ’˜À’ÜÀ“"À“cÀ“iÀ“’À“¹À“éÀ”9À”ZÀ”¡À”ğÀ”ôÀ”õÀ•À•?À•fÀ•–À•«À•ùÀ–*À–kÀ–‰À–ÂÀ–ÊÀ—À—?À—xÀ—€À—À—ÁÀ—ùÀ—ÿÀ˜À˜À˜À˜NÀ˜lÀ˜¯À˜èÀ™À™NÀ™^À™À™–À™ÀÀ™ÉÀ™õÀšIÀšÀš–Àš¬Àš°Àš±ÀšÚÀ›À›fÀ›…À›ÁÀ›ÏÀ›ÕÀ›êÀœÀœ9Àœ=Àœ>Àœ`ÀœšÀœ½ÀœèÀ+ÀsÀwÀxÀ»ÀÛÀéÀïÀÀ0ÀPÀ„À¯ÀãÀêÀîÀŸÀŸÀŸLÀŸÀŸ¬ÀŸ²ÀŸ³À À BÀ PÀ VÀ WÀ À ñÀ¡+À¡}À¡ÍÀ¡ÔÀ¡ÕÀ¢À¢0À¢SÀ¢xÀ¢ŸÀ£À£À£EÀ£nÀ£À£–À£—À£ÅÀ£åÀ¤1À¤mÀ¤{À¤À¤¦À¤§À¤àÀ¤ûÀ¥HÀ¥WÀ¥«À¥ğÀ¦À¦eÀ¦¬À¦ùÀ§À§À§BÀ§[À§˜À§çÀ¨"À¨OÀ¨`À¨jÀ¨³À¨àÀ©À©:À©ŠÀ©÷ÀªÀª	Àª,Àª2ÀªfÀªjÀªkÀª¶Àª»À«
+À«YÀ«‚À«‡À«¬À«ÔÀ¬À¬ À¬sÀ¬¹À¬ÚÀ­À­kÀ­ÄÀ­ÊÀ®À®	À®
+À®QÀ®VÀ®£À®ğÀ¯/À¯4À¯€À¯ÏÀ°À°QÀ°VÀ°À°£À°âÀ±À±#À±)À±}À±ÒÀ²À²	À²
+À²dÀ²eÀ²–À²œÀ²ëÀ³À³À³À³œÀ³ÏÀ³ĞÀ´À´À´'À´À´ÅÀµÀµDÀµpÀµ‰Àµ¤ÀµÛÀµáÀµâÀ¶2À¶À¶ÊÀ¶ïÀ·À·5À·^À·•À·À·«À·±À·²À·ïÀ·óÀ·ôÀ¸ À¸.À¸xÀ¸ÄÀ¸ÅÀ¸øÀ¹2À¹6À¹7À¹€À¹†À¹ÕÀºÀº%Àº<ÀºÀºİÀ»-À»xÀ»¹À»éÀ»ıÀ¼À¼À¼)À¼=À¼CÀ¼gÀ¼…À¼«À¼¼À¼ÀÀ¼ÁÀ¼ÍÀ¼ıÀ½À½?À½`À½ŸÀ½ÓÀ½ûÀ¾À¾À¾À¾3À¾eÀ¾ÈÀ¾ÉÀ¾öÀ¿À¿#À¿8À¿>À¿BÀ¿CÀ¿‘À¿¸À¿äÀÀ0ÀÀ~ÀÀ«ÀÀäÀÁ0ÀÁKÀÁkÀÁ†ÀÁ«ÀÁÒÀÂ1ÀÂ|ÀÂËÀÂßÀÂåÀÂæÀÂòÀÃ>ÀÃ~ÀÃÂÀÃ×ÀÃŞÀÃßÀÃöÀÄÀÄ@ÀÄjÀÄÀÄ´ÀÄÈÀÄÕÀÄàÀÄçÀÄøÀÄüÀÄıÀÅBÀÅjÀÅpÀÅ·ÀÅŞÀÅäÀÆ4ÀÆ\ÀÆŠÀÆ¯ÀÆ½ÀÆÃÀÆÄÀÆõÀÇ/ÀÇ<ÀÇtÀÇzÀÇ~ÀÇÀÇ«ÀÇÄÀÇéÀÇ÷ÀÇıÀÇşÀÈ/ÀÈYÀÈ_ÀÈcÀÈdÀÈ°ÀÈ»ÀÈÀÀÉÀÉQÀÉrÀÉsÀÉÀÉ©ÀÉÌÀÉÚÀÉàÀÉáÀÊÀÊÀÊ%ÀÊ&ÀÊ8ÀÊ‹ÀÊ“ÀÊ—ÀÊ˜ÀÊ¤ÀÊÅÀËÀËÀËÀËÀË-ÀËNÀËVÀËZÀË[ÀËgÀË•ÀËÖÀË×ÀËñÀÌ3ÀÌWÀÌ‡ÀÌÀÌ•ÀÌ™ÀÌšÀÌ¦ÀÌÛÀÌÜÀÌèÀÍÀÍuÀÍÃÀÍâÀÎ
+ÀÎ2ÀÎjÀÎtÀÎœÀÎÀÎÀÀÎæÀÏÀÏ.ÀÏUÀÏ„ÀÏ³ÀÏæÀĞ&ÀĞƒÀĞ¥ÀĞÄÀĞÍÀÑÀÑ7ÀÑkÀÑ¶ÀÑûÀÒÀÒXÀÒ_ÀÒcÀÒdÀÒpÀÒ¶ÀÒ·ÀÒãÀÓ	ÀÓ
+ÀÓÀÓPÀÓbÀÓ¥ÀÓ­ÀÓ±ÀÓ²ÀÓöÀÔÀÔ.ÀÔrÀÔŒÀÔİÀÔêÀÕÀÕDÀÕLÀÕZÀÕ^ÀÕ_ÀÕ¢ÀÕÅÀÕÚÀÖÀÖ7ÀÖ†ÀÖ“ÀÖ¶ÀÖëÀÖóÀ×À×À×À×KÀ×nÀ×ƒÀ×ÇÀ×âÀØ5ÀØuÀØ‚ÀØ§ÀØÙÀØáÀØïÀØóÀØôÀÙFÀÙ’ÀÙ¯ÀÚÀÚ6ÀÚXÀÚ¬ÀÚÿÀÛQÀÛŸÀÛæÀÜÀÜÀÜÀÜbÀÜ˜ÀÜÀÜêÀİ9Àİ‡ÀİÑÀŞ4ÀŞTÀŞoÀŞÀŞ°ÀŞİÀßÀß4Àß>ÀßÀßËÀàÀàCÀà©ÀàßÀáÀá(Àá.ÀávÀá®ÀáúÀâKÀâ’ÀâÜÀã%Àã8ÀãÁÀäÀäÀäÀäoÀäpÀäîÀåqÀåÙÀæ ÀæeÀæfÀæ°ÀçÀçÀçÀçOÀçjÀçpÀç¹ÀçÚÀçàÀè!ÀèaÀèŒÀèµÀèäÀèòÀèøÀèùÀéÀéTÀéÀéæÀé÷ÀêÀê#ÀêPÀêVÀêÀêÀê®ÀêÆÀêíÀëÀëPÀëwÀë£ÀëòÀëıÀìÀì,Àì3Àì7ÀìÎÀìÏÀìÿÀí-Àí|Àí›Àí¹ÀíÀÀíøÀíùÀîDÀî‘ÀîàÀîûÀïÀï?ÀïEÀïIÀïÀÀïÁÀğÀğ1Àğ{Àğ•ÀğÔÀğáÀñÀñÀñÀñ ÀñeÀñ{Àñ¡ÀñÔÀñâÀñèÀñéÀò)ÀòIÀòƒÀò‘Àò—Àò˜ÀòéÀó-Àó{Àó‰ÀóÀóÀóäÀô7ÀôcÀô†Àô¦ÀôÆÀôÍÀô÷ÀõÀõÀõ6Àõ:Àõ;ÀõŠÀõ¦ÀõêÀö
+ÀöÀöÀöÀöFÀö‡Àö¦Àö­À÷À÷DÀ÷RÀ÷fÀ÷±À÷ÙÀ÷âÀ÷éÀø)ÀøCÀø„Àø”ÀøœÀøÂÀùÀùTÀùªÀùßÀúÀúMÀú\ÀúÀú¶Àú¿ÀúÌÀúüÀûÀûÀû:ÀûyÀûÊÀûôÀü$ÀübÀüqÀü¢ÀüËÀüÔÀüÚÀüÛÀıÀı$ÀıUÀı{Àı‚Àı†Àı‡Àı¿ÀıËÀşÀş§Àş®ÀşºÀÿÀÿ”Àÿ›ÀÿœÀÿËÀÿëÀ :À NÀ UÀ YÀ àÀ áÀTÀ¦À§ÀßÀÀ1ÀDÀJÀvÀzÀ{À|À·À½ÀÀFÀÀ¬ÀÑÀôÀÀ6À„ÀÒÀğÀÀ5À_ÀmÀ˜ÀÄÀøÀ%ÀMÀ{ÀÏÀÙÀúÀÀ>ÀbÀhÀlÀmÀ·ÀÀ2ÀeÀ¨ÀûÀüÀ	
+À	”À
+/À
+±À
+²À
+ÏÀœÀÀ÷ÀÜÀœÀÀfÀhÀAÀ8ÀÃÀÀÀÀïÀéÀêÀüÀ?ÀŠÀÀÀ_ÀdÀeÀqÀ˜ÀÆÀÀÀMÀ¯ÀéÀ;À‹À’À“À´ÀáÀÀ&À|À¶ÀÒÀÀ-ÀLÀ~À¦ÀÜÀ/À@ÀŸÀÒÀòÀÀÀ-ÀLÀ^À_ÀÀ»ÀèÀÀDÀsÀ¿À	À-ÀCÀrÀÍÀ)ÀFÀaÀsÀtÀ×ÀèÀ $À vÀ ÊÀ!À!TÀ!ÑÀ!âÀ"À">À"ZÀ"‡À"°À"òÀ#À#<À#jÀ#ÄÀ#õÀ$&À$eÀ$œÀ$ñÀ%CÀ%|À%áÀ&À&6À&KÀ&À&ÔÀ'À'+À'gÀ'¡À'ßÀ(À(IÀ(~À(¹À(îÀ)"À)bÀ)À)«À)ÚÀ*#À*hÀ*¡À*ÌÀ+À+TÀ+—À+ĞÀ,À,8À,oÀ,¦À,ÛÀ-À-yÀ-æÀ.À.\À.•À.ĞÀ/À/|À/¿À0
+À0GÀ0sÀ0ÆÀ1À1BÀ1À1ÏÀ2À2kÀ2ºÀ3À3IÀ3ŠÀ3ĞÀ4!À4`À4}À4˜À4±À4ÈÀ4İÀ4ğÀ5À5À5À5(À51À58À5<À5=À5qÀ5wÀ5¼À6À6%À6&À6DÀ6eÀ6›À6åÀ71À7MÀ7’À7ÊÀ7ÓÀ89À8‘À8²À9À9BÀ9‘À9›À9£À9ÕÀ9ÛÀ:.À:~À:ÏÀ:éÀ;RÀ;³À</À<>À<¦À<®À<ëÀ=4À=OÀ=•À= À=©À=¯À=íÀ>À>fÀ>¸À?À?aÀ?bÀ?ÀÀ?ÁÀ?öÀ@À@)À@9À@pÀ@ŒÀ@•À@›À@œÀ@ÓÀ@ÿÀAÀA,ÀAPÀAWÀA[ÀA]ÀA^ÀA•ÀA£ÀA²ÀAĞÀAéÀBÀB7ÀBMÀBmÀB‹ÀB¨ÀBÄÀBáÀCÀCÀC;ÀCNÀCiÀC~ÀC—ÀCµÀCÒÀCóÀDÀD*ÀDIÀDcÀDŒÀD«ÀDÂÀDÙÀDùÀE!ÀEZÀE‘ÀE½ÀEæÀF
+ÀF$ÀF>ÀF^ÀF°ÀF±ÀFĞÀFğÀGÀG4ÀGZÀG€ÀG¨ÀGÀÀG×ÀGîÀHÀHÀH2ÀHRÀHqÀHÀH­ÀHÒÀHêÀIÀI'ÀIWÀI~ÀIÀIÂÀIŞÀIüÀJÀJ7ÀJZÀJŠÀJ¸ÀJáÀKÀK7ÀK[ÀK{ÀK–ÀK—ÀK£ÀKßÀKúÀLÀL2ÀLdÀL’ÀLÆÀLäÀM ÀMÀM4ÀMNÀMhÀM€ÀMÀMÄÀMâÀMşÀN"ÀN`ÀN‚ÀN˜ÀNÅÀNóÀOÀOAÀOgÀO‡ÀO©ÀOËÀOíÀPÀPQÀPÀP¿ÀPóÀQÀQEÀQmÀQÀQ–ÀQšÀQ›ÀQ§ÀQöÀRÀR!ÀRCÀRwÀR§ÀRİÀRıÀSÀS7ÀSSÀSoÀS‹ÀS¥ÀSÅÀSíÀTÀT+ÀTQÀT‘ÀTµÀTÍÀTüÀU,ÀUTÀU„ÀU¦ÀUÈÀUìÀVÀV4ÀVhÀVšÀVÚÀWÀW<ÀWpÀWšÀW¾ÀWëÀWïÀWñÀWòÀWıÀXÀX4ÀXRÀXoÀXÀX®ÀXÔÀXîÀYÀY,ÀYDÀYJÀYKÀYhÀYÀY¬ÀYÜÀYôÀZÀZ-ÀZ@ÀZ_ÀZ`ÀZ–ÀZ¸ÀZáÀZçÀ[!À[cÀ[ŸÀ\+À\_À\À\ÛÀ]À]gÀ]kÀ]mÀ]nÀ] À]½À]ÖÀ]óÀ^À^:À^UÀ^[À^\À^rÀ^À^®À^ÙÀ^ïÀ^ğÀ^üÀ_BÀ_DÀ_EÀ_¡À_úÀ_ûÀ`À`À`3À`MÀ`À`•À`™À`šÀ`¦À`İÀaÀa3ÀauÀa{Àa|Àa¬ÀaêÀağÀaôÀaõÀbÀbÀbPÀbeÀbiÀbjÀbÜÀbİÀcÀc)Àc*Àc6ÀclÀcmÀcyÀc¡ÀcÆÀd!ÀdDÀdHÀdIÀdUÀdzÀd¤ÀdÑÀdåÀdëÀeÀe(Àe.ÀeZÀenÀetÀe´ÀeæÀfGÀf›ÀfŸÀf Àf¬ÀfÀÀgÀg9ÀgQÀgWÀgÀgöÀgúÀgûÀhÀh.ÀhGÀhKÀhMÀhNÀh~ÀhÀh·ÀhÏÀhÕÀhÖÀi3ÀiFÀiGÀiSÀiÀi±ÀiŞÀiåÀjÀj0ÀjDÀjŠÀjÀj¬ÀjÛÀkÀkÀk#Àk7ÀkLÀkRÀkVÀkXÀkYÀkšÀkÀkïÀl:Àl†ÀlÉÀmÀmiÀmtÀmxÀmÈÀmßÀmãÀmñÀmõÀn:ÀnrÀnÃÀnûÀo+ÀoSÀoTÀojÀokÀo¼ÀoèÀp1ÀpxÀp»Àp¿ÀpÀÀpÌÀpüÀq%Àq8Àq>ÀqWÀqgÀqmÀq‘Àq¬Àq²ÀqÏÀqæÀqìÀqíÀrÀr.ÀrBÀrFÀrGÀrSÀr„Àr¹ÀrÌÀrÒÀrêÀrúÀs Às(ÀsCÀsIÀsfÀs}ÀsƒÀs„Às²ÀsÉÀsáÀsåÀsçÀsèÀt9Àt”ÀtäÀtåÀuÀu7ÀufÀugÀusÀu©ÀuåÀvÀvÀvÀv;ÀvƒÀvÇÀvéÀw3Àw\ÀwÁÀxÀxÀx6ÀxHÀxœÀx¥Àx«Àx¬ÀyÀyÀyEÀyfÀyÊÀzÀz9Àz@Àz[ÀzkÀzÅÀzÌÀzĞÀzÑÀzİÀ{5À{7À{8À{À{¼À{ÌÀ{æÀ|À|3À|NÀ|nÀ|tÀ|uÀ|–À|ÀÀ|×À|óÀ}$À}RÀ}SÀ}~À}À}ÉÀ}áÀ~À~BÀ~„À~«À~²ÀÀZÀ^À_À¥À¿À÷À€$À€hÀ€oÀ€¡À€şÀÀÀÀEÀÀ À¡À‚ À‚WÀ‚”À‚ªÀƒÀƒ-Àƒ7Àƒ=Àƒ>ÀƒjÀƒ¹ÀƒğÀ„À„OÀ„nÀ„À„šÀ„áÀ… À…!À…LÀ…WÀ…_À…eÀ…fÀ†À†‹À†ÿÀ‡-À‡§À‡¨À‡èÀˆ[ÀˆĞÀ‰DÀ‰HÀ‰IÀ‰UÀ‰“À‰•À‰–ÀŠÀŠ:ÀŠ;ÀŠ\ÀŠ]ÀŠÀŠ¯ÀŠ°ÀŠäÀ‹À‹;À‹gÀ‹uÀ‹{À‹§À‹õÀŒRÀŒ°ÀÀ2ÀUÀqÀwÀ{À|ÀˆÀ»ÀçÀèÀGÀ—À»ÀÉÀÏÀĞÀÀ%ÀAÀGÀHÀÀïÀğÀDÀ¦ÀòÀ‘ À‘;À‘À‘ÖÀ’À’1À’2À’FÀ’VÀ’¨À’¯À’áÀ“
+À“.À“4À“8À“9À“EÀ“ƒÀ“…À“†À“ÊÀ“êÀ“ëÀ”À”À”À”aÀ”|À”ŒÀ”©À”¿À•À•#À•,À•3À•7À•8À•DÀ•À•ƒÀ•„À•ĞÀ•ôÀ•õÀ–À–À–#À–lÀ–À–¸À–ÅÀ–îÀ–ôÀ–øÀ–ùÀ—À—jÀ—lÀ—mÀ—¨À—³À—ÉÀ—áÀ—úÀ˜À˜À˜À˜BÀ˜XÀ˜YÀ˜‚À˜–À˜˜À˜™À˜×À˜øÀ˜üÀ™GÀ™mÀ™±À™½À™òÀ™óÀ™ÿÀšÀš:Àš>Àš@    +€¥  €º€Ñ €Ö€ë€í€û€ş *OQ  { ¢¸º  ã  ‚  ‚5  ‚L  ‚d  ‚ˆ  ‚  ‚´  ‚Í  ‚õ  ƒ
+  ƒ1  ƒ_  ƒ|  ƒ—  ƒ¶  ƒÏ  ƒì  „  „   „D  „e  „ƒ  „¢  „¼  „Ş  „÷  …  …,  …@  …d  …‚  …°  …Ï  …ë  …ÿ  ††B†Ç ß‚¼å  $d *> AP  bq  y€   ‹+¥  ºÅ   Ñ€Šê  ı  ÑÒ^;o  ‚  ˜'´  ^_ ‚´£  ÙB Ùó ôú  ‘‘   ‘+‘9  ‘N‘\  ‘‘• ‘ ‘p‘y    ‘©€Ó‘­  ‘µ‘»   ’€€Ï’‘  ’—’¨  ’°’»  ’€’ “S¢§œÜ‰‚/// A controller for an editable text field.
+///
+/// Whenever the user modifies a text field with an associated
+/// [TextEditingController], the text field updates [value] and the controller
+/// notifies its listeners. Listeners can then read the [text] and [selection]
+/// properties to learn what the user has typed or how the selection has been
+/// updated.
+///
+/// Similarly, if you modify the [text] or [selection] properties, the text
+/// field will be notified and will update itself appropriately.
+///
+/// A [TextEditingController] can also be used to provide an initial value for a
+/// text field. If you build a text field with a controller that already has
+/// [text], the text field will use that text as its initial value.
+///
+/// The [value] (as well as [text] and [selection]) of this controller can be
+/// updated from within a listener added to this controller. Be aware of
+/// infinite loops since the listener will also be notified of the changes made
+/// from within itself. Modifying the composing region from within a listener
+/// can also have a bad interaction with some input methods. Gboard, for
+/// example, will try to restore the composing region of the text if it was
+/// modified programmatically, creating an infinite loop of communications
+/// between the framework and the input method. Consider using
+/// [TextInputFormatter]s instead for as-you-type text modification.
+///
+/// If both the [text] or [selection] properties need to be changed, set the
+/// controller's [value] instead.
+///
+/// Remember to [dispose] of the [TextEditingController] when it is no longer
+/// needed. This will ensure we discard any resources used by the object.
+/// {@tool dartpad}
+/// This example creates a [TextField] with a [TextEditingController] whose
+/// change listener forces the entered text to be lower case and keeps the
+/// cursor at the end of the input.
+///
+/// ** See code in examples/api/lib/widgets/editable_text/text_editing_controller.0.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [TextField], which is a Material Design text field that can be controlled
+///    with a [TextEditingController].
+///  * [EditableText], which is a raw region of editable text that can be
+///    controlled with a [TextEditingController].
+///  * Learn how to use a [TextEditingController] in one of our [cookbook recipes](https://flutter.dev/docs/cookbook/forms/text-field-changes#2-use-a-texteditingcontroller).  ¶Ë€/// Creates a controller for an editable text field.
+///
+/// This constructor treats a null [text] argument as if it were the empty
+/// string.Î×  äé.÷ïêòù	
+"-'#)4‚^ŸŸŸ€»/// Creates a controller for an editable text field from an initial [TextEditingValue].
+///
+/// This constructor treats a null [value] argument as if it were
+/// [TextEditingValue.empty].ŸŸ+  &Ÿ7Ÿ=Ÿ bŸqŸUŸMŸGŸPŸXŸYŸ^Ÿ_ŸhŸiŸtŸyŸzŸ™Ÿ¯Ÿ°ŸµŸéŸêŸûŸìŸñŸòŸü : k p  w q z Š ‹  –L Ï+/// The current string the user is editing.    å‚á£‚/// Setting this will notify all the listeners of this [TextEditingController]
+/// that they need to update (it calls [notifyListeners]). For this reason,
+/// this value should only be set between frames, e.g. in response to user
+/// actions, not during the build, layout, or paint phases.
+///
+/// This property can be set from a listener added to this
+/// [TextEditingController]; however, one should not also set [selection]
+/// in a separate statement. To change both the [text] and the [selection]
+/// change the controller's [value]. ££#   £Êu£Ú  £à£ò  £Ê£Ëªq€È«€/// The currently selected [text].
+///
+/// If the selection is collapsed, then this property gives the offset of the
+/// cursor within the text.   «<„X­é‚/// Setting this will notify all the listeners of this [TextEditingController]
+/// that they need to update (it calls [notifyListeners]). For this reason,
+/// this value should only be set between frames, e.g. in response to user
+/// actions, not during the build, layout, or paint phases.
+///
+/// This property can be set from a listener added to this
+/// [TextEditingController]; however, one should not also set [text]
+/// in a separate statement. To change both the [text] and the [selection]
+/// change the controller's [value].
+///
+/// If the new selection is of non-zero length, or is outside the composing
+/// range, the composing range is cleared. ­ó®   ¥C…*¦€Â/// Builds [TextSpan] from current editing value.
+///
+/// By default makes text in composing range appear as underlined. Descendants
+/// can override this method to customize appearance of text. ¦&¦=  ¦E¦Q  ¦X¦g   ¯˜‚<±tÄ/// Set the [value] to empty.
+///
+/// After calling this function, [text] will be the empty string and the
+/// selection will be collapsed at zero offset.
+///
+/// Calling this will notify all the listeners of this [TextEditingController]
+/// that they need to update (it calls [notifyListeners]). For this reason,
+/// this method should only be called between frames, e.g. in response to user
+/// actions, not during the build, layout, or paint phases.   ±Ø‚f³ğş/// Set the composing region to an empty range.
+///
+/// The composing region is the range of text that is still being composed.
+/// Calling this function indicates that the user is done composing that
+/// region.
+///
+/// Calling this will notify all the listeners of this [TextEditingController]
+/// that they need to update (it calls [notifyListeners]). For this reason,
+/// this method should only be called between frames, e.g. in response to user
+/// actions, not during the build, layout, or paint phases.   ´B€Î´‹A/// Check that the [selection] is inside of the bounds of [text]. ´§´¶   µ€äµ\@/// Check that the [selection] is inside of the composing range. µ}µŒ    µü†M¸—/// Toolbar configuration for [EditableText].
+///
+/// Toolbar is a context menu that will show up when user right click or long
+/// press the [EditableText]. It includes several options: cut, copy, paste,
+/// and select all.
+///
+/// [EditableText] and its derived widgets have their own default [ToolbarOptions].
+/// Create a custom [ToolbarOptions] if you want explicit control over the toolbar
+/// option. ¸t ¹¹%{/// Create a toolbar configuration with given options.
+///
+/// All options default to false if they are not explicitly set.¹,¹2  ¹C¹I  ¹Y¹_  ¹q¹w  
+¸œ¸¸§¹¸­¸Ö¹8¹N¹f¹‚¹’s¹í</// An instance of [ToolbarOptions] with no options enabled.¹õººº
+\ºbF/// Whether to show copy option in toolbar.
+///
+/// Defaults to false. ºk€²»€™/// Whether to show cut option in toolbar.
+///
+/// If [EditableText.readOnly] is set to true, cut will be disabled regardless.
+///
+/// Defaults to false. »"€¸»Õ€/// Whether to show paste option in toolbar.
+///
+/// If [EditableText.readOnly] is set to true, paste will be disabled regardless.
+///
+/// Defaults to false. »ßg¼=L/// Whether to show select all option in toolbar.
+///
+/// Defaults to false.   ·”·•·Ÿ·ÿ·£·Ê¼K‰©½«Y/// Configures the ability to insert media content through the soft keyboard.
+///
+/// The configuration provides a handler for any rich content inserted through
+/// the system input method, and also provides the ability to limit the mime
+/// types of the inserted content.
+///
+/// See also:
+///
+/// * [EditableText.contentInsertionConfiguration] ½Íî ¿¿)0/// Creates a content insertion configuration with the specified options.
+///
+/// A handler for inserted content, in the form of [onContentInserted], must
+/// be supplied.
+///
+/// The allowable mime types of inserted content may also
+/// be provided via [allowedMimeTypes], which cannot be an empty list.¿0¿?  ¿U9¿[  ¿m¿—¿¿¹¿¿®¿¯¿¿‚vÀ B$‚/// Called when a user inserts content through the virtual / on-screen keyboard,
+/// currently only used on Android.
+///
+/// [KeyboardInsertedContent] holds the data representing the inserted content.
+///
+/// {@tool dartpad}
+///
+/// This example shows how to access the data for inserted content in your
+/// `TextField`.
+///
+/// ** See code in examples/api/lib/widgets/editable_text/editable_text.on_content_inserted.0.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * <https://developer.android.com/guide/topics/text/image-keyboard> À B:ƒ·À Eáƒe/// {@template flutter.widgets.contentInsertionConfiguration.allowedMimeTypes}
+/// Used when a user inserts image-based content through the device keyboard,
+/// currently only used on Android.
+///
+/// The passed list of strings will determine which MIME types are allowed to
+/// be inserted via the device keyboard.
+///
+/// The default mime types are given by [kDefaultContentInsertionMimeTypes].
+/// These are all the mime types that are able to be handled and inserted
+/// from keyboards.
+///
+/// This field cannot be an empty list.
+///
+/// {@tool dartpad}
+/// This example shows how to limit image insertion to specific file types.
+///
+/// ** See code in examples/api/lib/widgets/editable_text/editable_text.on_content_inserted.0.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * <https://developer.android.com/guide/topics/text/image-keyboard>
+/// {@endtemplate}    À F8‚¯À F>  À FL' À FRÀ F[ À F\	À Fb  À Fg
+À Fm   À F¡ÖÀ F¾ <À FåÀ HvÀ FÚÀ FäÀ FÛÀ FëÀ FôÀ FÿÀ FõÀ FşÀ GÀ GÀ G#À GÀ G"À G3À G<À GJÀ G=À GFÀ GWÀ G`À GmÀ GaÀ GjÀ G{À G„À G’À G…À GÀ GŸÀ G¨À G³À G©À G²À GÃÀ GÌÀ G×À GÍÀ GÖÀ GçÀ GğÀ GşÀ GñÀ GúÀ HÀ HÀ H!À HÀ HÀ H/À H8À HFÀ H9À HBÀ HSÀ H\À HgÀ H]À HfÀ H½À HÊ  À HÒÀ Hß     À Hé‡©À Hï  À I"`À I=À I>À IN  	À ISÀ IWÀ IXÀ IYÀ I€À IZÀ IcÀ IdÀ IÀ I…¦À I À I¡À I¢ À I£À I©  À I´À Iº  À IÌÀ IÒÀ IèÀ IÓÀ IİÀ IŞÀ IñÀ I÷À JÀ JÀ IøÀ JÀ JÀ JÀ JÀ JÀ J$À J*À J÷À K)À J+À JôÀ JõÀ JöÀ JùÀ K/À K<  À KL À Kb  À L)À L- À LB À Kq(À K„  À K‡À K  À KqÀ KrÀ K<À K®  À KµÀ K½  À KÀ KÀ LH„HÀ L[  À L]À Le  À LHÀ LI À P”À#ğÀ n°Ó/// A basic text input field.
+///
+/// This widget interacts with the [TextInput] service to let the user edit the
+/// text it contains. It also provides scrolling, selection, and cursor
+/// movement.
+///
+/// The [EditableText] widget is a low-level widget that is intended as a
+/// building block for custom widget sets. For a complete user experience,
+/// consider using a [TextField] or [CupertinoTextField].
+///
+/// ## Handling User Input
+///
+/// Currently the user may change the text this widget contains via keyboard or
+/// the text selection menu. When the user inserted or deleted text, you will be
+/// notified of the change and get a chance to modify the new text value:
+///
+/// * The [inputFormatters] will be first applied to the user input.
+///
+/// * The [controller]'s [TextEditingController.value] will be updated with the
+///   formatted result, and the [controller]'s listeners will be notified.
+///
+/// * The [onChanged] callback, if specified, will be called last.
+///
+/// ## Input Actions
+///
+/// A [TextInputAction] can be provided to customize the appearance of the
+/// action button on the soft keyboard for Android and iOS. The default action
+/// is [TextInputAction.done].
+///
+/// Many [TextInputAction]s are common between Android and iOS. However, if a
+/// [textInputAction] is provided that is not supported by the current
+/// platform in debug mode, an error will be thrown when the corresponding
+/// EditableText receives focus. For example, providing iOS's "emergencyCall"
+/// action when running on an Android device will result in an error when in
+/// debug mode. In release mode, incompatible [TextInputAction]s are replaced
+/// either with "unspecified" on Android, or "default" on iOS. Appropriate
+/// [textInputAction]s can be chosen by checking the current platform and then
+/// selecting the appropriate action.
+///
+/// {@template flutter.widgets.EditableText.lifeCycle}
+/// ## Lifecycle
+///
+/// Upon completion of editing, like pressing the "done" button on the keyboard,
+/// two actions take place:
+///
+///   1st: Editing is finalized. The default behavior of this step includes
+///   an invocation of [onChanged]. That default behavior can be overridden.
+///   See [onEditingComplete] for details.
+///
+///   2nd: [onSubmitted] is invoked with the user's input value.
+///
+/// [onSubmitted] can be used to manually move focus to another input widget
+/// when a user finishes with the currently focused input widget.
+///
+/// When the widget has focus, it will prevent itself from disposing via
+/// [AutomaticKeepAliveClientMixin.wantKeepAlive] in order to avoid losing the
+/// selection. Removing the focus will allow it to be disposed.
+/// {@endtemplate}
+///
+/// Rather than using this widget directly, consider using [TextField], which
+/// is a full-featured, material-design text input field with placeholder text,
+/// labels, and [Form] integration.
+///
+/// ## Text Editing [Intent]s and Their Default [Action]s
+///
+/// This widget provides default [Action]s for handling common text editing
+/// [Intent]s such as deleting, copying and pasting in the text field. These
+/// [Action]s can be directly invoked using [Actions.invoke] or the
+/// [Actions.maybeInvoke] method. The default text editing keyboard [Shortcuts]
+/// also use these [Intent]s and [Action]s to perform the text editing
+/// operations they are bound to.
+///
+/// The default handling of a specific [Intent] can be overridden by placing an
+/// [Actions] widget above this widget. See the [Action] class and the
+/// [Action.overridable] constructor for more information on how a pre-defined
+/// overridable [Action] can be overridden.
+///
+/// ### Intents for Deleting Text and Their Default Behavior
+///
+/// | **Intent Class**                 | **Default Behavior when there's selected text**      | **Default Behavior when there is a [caret](https://en.wikipedia.org/wiki/Caret_navigation) (The selection is [TextSelection.collapsed])**  |
+/// | :------------------------------- | :--------------------------------------------------- | :----------------------------------------------------------------------- |
+/// | [DeleteCharacterIntent]          | Deletes the selected text                            | Deletes the user-perceived character before or after the caret location. |
+/// | [DeleteToNextWordBoundaryIntent] | Deletes the selected text and the word before/after the selection's [TextSelection.extent] position | Deletes from the caret location to the previous or the next word boundary |
+/// | [DeleteToLineBreakIntent]        | Deletes the selected text, and deletes to the start/end of the line from the selection's [TextSelection.extent] position | Deletes from the caret location to the logical start or end of the current line |
+///
+/// ### Intents for Moving the [Caret](https://en.wikipedia.org/wiki/Caret_navigation)
+///
+/// | **Intent Class**                                                                     | **Default Behavior when there's selected text**                  | **Default Behavior when there is a caret ([TextSelection.collapsed])**  |
+/// | :----------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :---------------------------------------------------------------------- |
+/// | [ExtendSelectionByCharacterIntent](`collapseSelection: true`)                        | Collapses the selection to the logical start/end of the selection | Moves the caret past the user-perceived character before or after the current caret location. |
+/// | [ExtendSelectionToNextWordBoundaryIntent](`collapseSelection: true`)                 | Collapses the selection to the word boundary before/after the selection's [TextSelection.extent] position | Moves the caret to the previous/next word boundary. |
+/// | [ExtendSelectionToNextWordBoundaryOrCaretLocationIntent](`collapseSelection: true`)  | Collapses the selection to the word boundary before/after the selection's [TextSelection.extent] position, or [TextSelection.base], whichever is closest in the given direction | Moves the caret to the previous/next word boundary. |
+/// | [ExtendSelectionToLineBreakIntent](`collapseSelection: true`)                        | Collapses the selection to the start/end of the line at the selection's [TextSelection.extent] position | Moves the caret to the start/end of the current line .|
+/// | [ExtendSelectionVerticallyToAdjacentLineIntent](`collapseSelection: true`)           | Collapses the selection to the position closest to the selection's [TextSelection.extent], on the previous/next adjacent line | Moves the caret to the closest position on the previous/next adjacent line. |
+/// | [ExtendSelectionVerticallyToAdjacentPageIntent](`collapseSelection: true`)           | Collapses the selection to the position closest to the selection's [TextSelection.extent], on the previous/next adjacent page | Moves the caret to the closest position on the previous/next adjacent page. |
+/// | [ExtendSelectionToDocumentBoundaryIntent](`collapseSelection: true`)                 | Collapses the selection to the start/end of the document | Moves the caret to the start/end of the document. |
+///
+/// #### Intents for Extending the Selection
+///
+/// | **Intent Class**                                                                     | **Default Behavior when there's selected text**                  | **Default Behavior when there is a caret ([TextSelection.collapsed])**  |
+/// | :----------------------------------------------------------------------------------- | :--------------------------------------------------------------- | :---------------------------------------------------------------------- |
+/// | [ExtendSelectionByCharacterIntent](`collapseSelection: false`)                       | Moves the selection's [TextSelection.extent] past the user-perceived character before/after it |
+/// | [ExtendSelectionToNextWordBoundaryIntent](`collapseSelection: false`)                | Moves the selection's [TextSelection.extent] to the previous/next word boundary |
+/// | [ExtendSelectionToNextWordBoundaryOrCaretLocationIntent](`collapseSelection: false`) | Moves the selection's [TextSelection.extent] to the previous/next word boundary, or [TextSelection.base] whichever is closest in the given direction | Moves the selection's [TextSelection.extent] to the previous/next word boundary. |
+/// | [ExtendSelectionToLineBreakIntent](`collapseSelection: false`)                       | Moves the selection's [TextSelection.extent] to the start/end of the line |
+/// | [ExtendSelectionVerticallyToAdjacentLineIntent](`collapseSelection: false`)          | Moves the selection's [TextSelection.extent] to the closest position on the previous/next adjacent line |
+/// | [ExtendSelectionVerticallyToAdjacentPageIntent](`collapseSelection: false`)          | Moves the selection's [TextSelection.extent] to the closest position on the previous/next adjacent page |
+/// | [ExtendSelectionToDocumentBoundaryIntent](`collapseSelection: false`)                | Moves the selection's [TextSelection.extent] to the start/end of the document |
+/// | [SelectAllTextIntent]  | Selects the entire document |
+///
+/// ### Other Intents
+///
+/// | **Intent Class**                        | **Default Behavior**                                 |
+/// | :-------------------------------------- | :--------------------------------------------------- |
+/// | [DoNothingAndStopPropagationTextIntent] | Does nothing in the input field, and prevents the key event from further propagating in the widget tree. |
+/// | [ReplaceTextIntent]                     | Replaces the current [TextEditingValue] in the input field's [TextEditingController], and triggers all related user callbacks and [TextInputFormatter]s. |
+/// | [UpdateSelectionIntent]                 | Updates the current selection in the input field's [TextEditingController], and triggers the [onSelectionChanged] callback. |
+/// | [CopySelectionTextIntent]               | Copies or cuts the selected text into the clipboard |
+/// | [PasteTextIntent]                       | Inserts the current text in the clipboard after the caret location, or replaces the selected text if the selection is not collapsed. |
+///
+/// ## Gesture Events Handling
+///
+/// When [rendererIgnoresPointer] is false (the default), this widget provides
+/// rudimentary, platform-agnostic gesture handling for user actions such as
+/// tapping, long-pressing, and scrolling.
+///
+/// To provide more complete gesture handling, including double-click to select
+/// a word, drag selection, and platform-specific handling of gestures such as
+/// long presses, consider setting [rendererIgnoresPointer] to true and using
+/// [TextSelectionGestureDetectorBuilder].
+///
+/// {@template flutter.widgets.editableText.showCaretOnScreen}
+/// ## Keep the caret visible when focused
+///
+/// When focused, this widget will make attempts to keep the text area and its
+/// caret (even when [showCursor] is `false`) visible, on these occasions:
+///
+///  * When the user focuses this text field and it is not [readOnly].
+///  * When the user changes the selection of the text field, or changes the
+///    text when the text field is not [readOnly].
+///  * When the virtual keyboard pops up.
+/// {@endtemplate}
+///
+/// {@template flutter.widgets.editableText.accessibility}
+/// ## Troubleshooting Common Accessibility Issues
+///
+/// ### Customizing User Input Accessibility Announcements
+///
+/// To customize user input accessibility announcements triggered by text
+/// changes, use [SemanticsService.announce] to make the desired
+/// accessibility announcement.
+///
+/// On iOS, the on-screen keyboard may announce the most recent input
+/// incorrectly when a [TextInputFormatter] inserts a thousands separator to
+/// a currency value text field. The following example demonstrates how to
+/// suppress the default accessibility announcements by always announcing
+/// the content of the text field as a US currency value (the `\$` inserts
+/// a dollar sign, the `$newText` interpolates the `newText` variable):
+///
+/// ```dart
+/// onChanged: (String newText) {
+///   if (newText.isNotEmpty) {
+///     SemanticsService.announce('\$$newText', Directionality.of(context));
+///   }
+/// }
+/// ```
+///
+/// {@endtemplate}
+///
+/// See also:
+///
+///  * [TextField], which is a full-featured, material-design text input field
+///    with placeholder text, labels, and [Form] integration. À –—h À „[À „g‚ª/// Creates a basic text input control.
+///
+/// The [maxLines] property can be set to null to remove the restriction on
+/// the number of lines. By default, it is one, meaning this is a single-line
+/// text field. [maxLines] must be null or greater than zero.
+///
+/// If [keyboardType] is not set or is null, its value will be inferred from
+/// [autofillHints], if [autofillHints] is not empty. Otherwise it defaults to
+/// [TextInputType.text] if [maxLines] is exactly one, and
+/// [TextInputType.multiline] if [maxLines] is null or greater than one.
+///
+/// The text cursor is not shown if [showCursor] is false or if [showCursor]
+/// is null (the default) and [readOnly] is true.GÀ „n	À „u  À „}À „Œ  À „›À „ª  À „¸À „¾  À „ÓÀ „Ù  À „öÀ „ü  À …À …  À …1 À …C  À …W À …i  À …}À …ƒ  À … À …¯  À …¹À …Æ  À …ÕÀ …ä  À …ô#À †  À † À †#  À †CÀ †I  À †[À †a  À †l€÷À ‡U  À ‡iÀ ‡o  À ‡~À ‡„  À ‡•À ‡›  À ‡¨À ‡®  À ‡ÂÀ ‡È  À ‡İÀ ‡ã  À ‡ú+À ˆ   À ˆ+À ˆ1  À ˆGÀ ˆN  À ˆ]!À ˆc  À ˆ„À ˆŠ  À ˆÀ ˆ£  À ˆ¹À ˆÉ  À ˆÚÀ ˆà  À ˆô1À ˆú  À ‰+À ‰1  À ‰?À ‰E  À ‰[À ‰a  À ‰qÀ ‰w  À ‰À ‰•  À ‰¬À ‰²  À ‰ÎÀ ‰Ô  À ‰å)À Š   À ŠÀ Š  À Š*#À Š0  À ŠSÀ ŠY  À ŠoÀ Šu  À Š†À ŠŒ  À Š"À Š£  À ŠÅÀ ŠË  À ŠÜ!À Šâ  À ‹3À ‹	  À ‹<1À ‹B  À ‹s/À ‹y  À ‹¨*À ‹®  À ‹Ø0À ‹Ş  À Œ À Œ  À Œ4À Œ:  À ŒOÀ ŒU  À Œg À Œm  À Œ€›À   À .%À 4  À YÀ _  À r!À x  À ™À Ÿ  À ±À ·  À ÊÀ Ğ  À ë)À ñ  À "À    À BÀ H  À _À e  À AÀ ‡  À ÈÀ Î  EÀ „ÈÀ „íÀ …	À …'À …–À †.À †7À †8À †lÀ †mÀ †wÀ ‡IÀ †À † À ‡À ‡À ‡·À ‡ÓÀ ˆÀ ˆÀ ˆÀ ˆ<À ˆyÀ ‰À ‰ À ‰!À ŠHÀ ŠfÀ ŠºÀ ŠøÀ ‹À ‹!À ‹"À ‹0À ‹1À ‹WÀ ‹YÀ ‹ZÀ ‹gÀ ‹hÀ ‹ˆÀ ‹À ‹˜À ‹™À ‹œÀ ‹¡À ‹À ‹ÂÀ ‹ÌÀ ‹ÍÀ ‹ñÀ ŒÀ ŒÀ ŒÀ ŒÀ Œ˜À À Œ À ŒËÀ CÀ QÀ RÀ IÀ PÀ JÀ †À ŠÀ ‹À áÀ À ŸÀ ¹À ºÀ äÀ êÀ 	À À ëÀ ıÀ şÀ À #À À 5À %À 8À yÀ EÀ `À 9À GÀ VÀ WÀ bÀ qÀ rÀ “À ƒÀ ¥À •À ¨À éÀ µÀ ĞÀ ©À ·À ÆÀ ÇÀ ÒÀ áÀ âÀ óÀ ùÀ À À À úÀ À À À À $À *À wÀ ´À ^À HÀ 5À FÀ ?À 6À BÀ KÀ \À UÀ LÀ XÀ aÀ vÀ kÀ bÀ nÀ ‚À ¾À ÄÀ ‘À ‘OÀ ØÀ ÏÀ ĞÀ ÛÀ ‘ À íÀ åÀ ÜÀ èÀ ùÀ ğÀ üÀ ‘À ‘YÀ ‘_À ‘}À ‘¥À ‘mÀ ‘`À ‘aÀ ‘yÀ ‘pÀ ‘|À ‘À ‘ÊÀ ‘¯À ‘çÀ ‘ÌÀ ‘êÀ ’À ‘õÀ ‘ëÀ ‘ìÀ ‘øÀ ‘ùÀ ’À ’À ’jÀ ’À ’PÀ ’1À ’À ’4À ’bÀ ’SÀ ’eÀ ’lÀ ’zÀ ’{À ’’À ’ƒÀ ’ À •ùÀ ’¼À ”0À ’¡À ’¾À ”À “MÀ “¥À ’¿À “OÀ “]À “^À “§À “­À “»À ”À “İÀ “ÔÀ “ßÀ ”À “üÀ ”À ”2À •øÀ ”~À •9À ”3À ”€À ”†À ””À ”öÀ ”¶À ”­À ”¸À ”ÙÀ ”ÕÀ ”ÛÀ •;À •AÀ •OÀ •÷À •lÀ •hÀ •nÀ •À •‹À •À •¶À •­À •¸À •ÚÀ •ÕÀ •ÜÀ –À –	À –ÆÀ —:À –†À –5À –-À –À –0À –ZÀ –BÀ –]À –cÀ –zÀ –{À –ƒÀ –„À –¿À –“À –ªÀ –«À –ÂÀ –ÒÀ —PÀ —DÀ —RÀ —rÀ —eÀ —À —tÀ —„À —–À —ÇÀ —¤À ——À —¦À —½À —µÀ —¿À —áÀ —ÑÀ —üÀ ˜¿À —ìÀ —ãÀ —ïÀ ˜À ˜²À —şÀ ˜À —ÿÀ ˜#À ˜>À ˜?À ˜cÀ ˜vÀ ˜fÀ ˜yÀ ˜À ˜‡À ˜šÀ ˜ˆÀ ˜›À ˜œÀ ˜¡À ˜¢À ˜ÁÀ ˜äÀ ˜ÙÀ ˜ñÀ ˜æÀ ˜ôÀ ˜õGÀ ™LÀ ™D#/// Controls the text being edited. À ™SPÀ ™š4/// Controls whether this widget has keyboard focus. À ™¨À š´€ò/// {@template flutter.widgets.editableText.obscuringCharacter}
+/// Character used for obscuring text if [obscureText] is true.
+///
+/// Must be only a single character.
+///
+/// Defaults to the character U+2022 BULLET (â€¢).
+/// {@endtemplate} À šËÆÀ œ†›/// {@template flutter.widgets.editableText.obscureText}
+/// Whether to hide the text being edited (e.g., for passwords).
+///
+/// When this is set to true, all the characters in the text field are
+/// replaced by [obscuringCharacter], and the text in the field cannot be
+/// copied with copy or cut. If [readOnly] is also true, then the text cannot
+/// be selected.
+///
+/// Defaults to false.
+/// {@endtemplate} À œ–VÀ œÚ'/// {@macro dart.ui.textHeightBehavior} À œñ^À A8/// {@macro flutter.painting.textPainter.textWidthBasis} À T3À /// {@template flutter.widgets.editableText.readOnly}
+/// Whether the text can be changed.
+///
+/// When this is set to true, the text cannot be modified
+/// by any shortcut or keyboard operation. The text is still selectable.
+///
+/// Defaults to false.
+/// {@endtemplate} À ŒjÀ ŸíA/// Whether the text will take the full width regardless of the text width.
+///
+/// When this is set to false, the width will be based on text width, which
+/// will also be affected by [textWidthBasis].
+///
+/// Defaults to true.
+///
+/// See also:
+///
+///  * [textWidthBasis], which controls the calculation of text width. À ŸûeÀ ¡R5/// Configuration of toolbar options.
+///
+/// By default, all options are enabled. If [readOnly] is true, paste and cut
+/// will be disabled regardless. If [obscureText] is true, cut and copy will
+/// be disabled regardless. If [readOnly] and [obscureText] are both true,
+/// select all will also be disabled. À ¡eqÀ ¢Â?/// Whether to show selection handles.
+///
+/// When a selection is active, there will be two handles at each side of
+/// boundary, or one handle if the selection is collapsed. The handles can be
+/// dragged to adjust the selection.
+///
+/// See also:
+///
+///  * [showCursor], which controls the visibility of the cursor. À ¢ÛOÀ ¤ '/// {@template flutter.widgets.editableText.showCursor}
+/// Whether to show cursor.
+///
+/// The cursor refers to the blinking caret when the [EditableText] is focused.
+/// {@endtemplate}
+///
+/// See also:
+///
+///  * [showSelectionHandles], which controls the visibility of the selection handles. À ¤/€¬À ¤Ğ€‹/// {@template flutter.widgets.editableText.autocorrect}
+/// Whether to enable autocorrection.
+///
+/// Defaults to true.
+/// {@endtemplate} À ¤àlÀ ¥=D/// {@macro flutter.services.TextInputConfiguration.smartDashesType} À ¥QlÀ ¥®D/// {@macro flutter.services.TextInputConfiguration.smartQuotesType} À ¥ÂeÀ ¦F/// {@macro flutter.services.TextInputConfiguration.enableSuggestions} À ¦,HÀ ¦o0/// The text style to use for the editable text. À ¦y€µÀ § €ƒ/// Controls the undo state of the current editable text.
+///
+/// If null, this widget will create its own [UndoHistoryController]. À ­À ­-  À ­=€ÅÀ ­ù€¡/// {@template flutter.widgets.editableText.textAlign}
+/// How the text should be aligned horizontally.
+///
+/// Defaults to [TextAlign.start].
+/// {@endtemplate} À ®‚âÀ °Ü‚¡/// {@template flutter.widgets.editableText.textDirection}
+/// The directionality of the text.
+///
+/// This decides how [textAlign] values like [TextAlign.start] and
+/// [TextAlign.end] are interpreted.
+///
+/// This is also used to disambiguate how to render bidirectional text. For
+/// example, if the text is an English phrase followed by a Hebrew phrase,
+/// in a [TextDirection.ltr] context the English phrase will be on the left
+/// and the Hebrew phrase to its right, while in a [TextDirection.rtl]
+/// context, the English phrase will be on the right and the Hebrew phrase on
+/// its left.
+///
+/// Defaults to the ambient [Directionality], if any.
+/// {@endtemplate} À °î‚À ²ëÇ/// {@template flutter.widgets.editableText.textCapitalization}
+/// Configures how the platform keyboard will select an uppercase or
+/// lowercase keyboard.
+///
+/// Only supports text keyboards, other keyboard types will ignore this
+/// configuration. Capitalization is locale-aware.
+///
+/// Defaults to [TextCapitalization.none].
+///
+/// See also:
+///
+///  * [TextCapitalization], for a description of each capitalization behavior.
+///
+/// {@endtemplate} À ³iÀ ´eF/// Used to select a font when the same Unicode character can
+/// be rendered differently, depending on the locale.
+///
+/// It's rarely necessary to set this property. By default its value
+/// is inherited from the enclosing app with `Localizations.localeOf(context)`.
+///
+/// See [RenderEditable.locale] for more information. À ´p‚øÀ ·Yé/// {@template flutter.widgets.editableText.textScaleFactor}
+/// Deprecated. Will be removed in a future version of Flutter. Use
+/// [textScaler] instead.
+///
+/// The number of font pixels for each logical pixel.
+///
+/// For example, if the text scale factor is 1.5, text will be 50% larger than
+/// the specified font size.
+///
+/// Defaults to the [MediaQueryData.textScaleFactor] obtained from the ambient
+/// [MediaQuery], or 1.0 if there is no [MediaQuery] in scope.
+/// {@endtemplate}À ¶rÀ ¶sÀ ¶}À ·GÀ ¶ƒÀ ¶¢À ·À ·mSÀ ·¶4/// {@macro flutter.painting.textPainter.textScaler} À ·ÅHÀ ¸./// The color to use when painting the cursor. À ¸òÀ ¹éµ/// The color to use when painting the autocorrection Rect.
+///
+/// For [CupertinoTextField]s, the value is set to the ambient
+/// [CupertinoThemeData.primaryColor] with 20% opacity. For [TextField]s, the
+/// value is null on non-iOS platforms and the same color used in [CupertinoTextField]
+/// on iOS.
+///
+/// Currently the autocorrection Rect only appears on iOS.
+///
+/// Defaults to null, which disables autocorrection Rect painting. À º	€èÀ ºÜ€¾/// The color to use when painting the background cursor aligned with the text
+/// while rendering the floating cursor.
+///
+/// Typically this would be set to [CupertinoColors.inactiveGray]. À ºöˆÂÀ Ã°ˆD/// {@template flutter.widgets.editableText.maxLines}
+/// The maximum number of lines to show at one time, wrapping if necessary.
+///
+/// This affects the height of the field itself and does not limit the number
+/// of lines that can be entered into the field.
+///
+/// If this is 1 (the default), the text will not wrap, but will scroll
+/// horizontally instead.
+///
+/// If this is null, there is no limit to the number of lines, and the text
+/// container will start with enough vertical space for one line and
+/// automatically grow to accommodate additional lines as they are entered, up
+/// to the height of its constraints.
+///
+/// If this is not null, the value must be greater than zero, and it will lock
+/// the input to the given number of lines and take up enough horizontal space
+/// to accommodate that number of lines. Setting [minLines] as well allows the
+/// input to grow and shrink between the indicated range.
+///
+/// The full set of behaviors possible with [minLines] and [maxLines] are as
+/// follows. These examples apply equally to [TextField], [TextFormField],
+/// [CupertinoTextField], and [EditableText].
+///
+/// Input that occupies a single line and scrolls horizontally as needed.
+/// ```dart
+/// const TextField()
+/// ```
+///
+/// Input whose height grows from one line up to as many lines as needed for
+/// the text that was entered. If a height limit is imposed by its parent, it
+/// will scroll vertically when its height reaches that limit.
+/// ```dart
+/// const TextField(maxLines: null)
+/// ```
+///
+/// The input's height is large enough for the given number of lines. If
+/// additional lines are entered the input scrolls vertically.
+/// ```dart
+/// const TextField(maxLines: 2)
+/// ```
+///
+/// Input whose height grows with content between a min and max. An infinite
+/// max is possible with `maxLines: null`.
+/// ```dart
+/// const TextField(minLines: 2, maxLines: 4)
+/// ```
+///
+/// See also:
+///
+///  * [minLines], which sets the minimum number of lines visible.
+/// {@endtemplate}
+///  * [expands], which determines whether the field should fill the height of
+///    its parent. À Ã½‡‡À Ë<‡/// {@template flutter.widgets.editableText.minLines}
+/// The minimum number of lines to occupy when the content spans fewer lines.
+///
+/// This affects the height of the field itself and does not limit the number
+/// of lines that can be entered into the field.
+///
+/// If this is null (default), text container starts with enough vertical space
+/// for one line and grows to accommodate additional lines as they are entered.
+///
+/// This can be used in combination with [maxLines] for a varying set of behaviors.
+///
+/// If the value is set, it must be greater than zero. If the value is greater
+/// than 1, [maxLines] should also be set to either null or greater than
+/// this value.
+///
+/// When [maxLines] is set as well, the height will grow between the indicated
+/// range of lines. When [maxLines] is null, it will grow as high as needed,
+/// starting from [minLines].
+///
+/// A few examples of behaviors possible with [minLines] and [maxLines] are as follows.
+/// These apply equally to [TextField], [TextFormField], [CupertinoTextField],
+/// and [EditableText].
+///
+/// Input that always occupies at least 2 lines and has an infinite max.
+/// Expands vertically as needed.
+/// ```dart
+/// TextField(minLines: 2)
+/// ```
+///
+/// Input whose height starts from 2 lines and grows up to 4 lines at which
+/// point the height limit is reached. If additional lines are entered it will
+/// scroll vertically.
+/// ```dart
+/// const TextField(minLines:2, maxLines: 4)
+/// ```
+///
+/// Defaults to null.
+///
+/// See also:
+///
+///  * [maxLines], which sets the maximum number of lines visible, and has
+///    several examples of how minLines and maxLines interact to produce
+///    various behaviors.
+/// {@endtemplate}
+///  * [expands], which determines whether the field should fill the height of
+///    its parent. À ËIƒÀ ÎI‚Ê/// {@template flutter.widgets.editableText.expands}
+/// Whether this widget's height will be sized to fill its parent.
+///
+/// If set to true and wrapped in a parent widget like [Expanded] or
+/// [SizedBox], the input will expand to fill the parent.
+///
+/// [maxLines] and [minLines] must both be null when this is set to true,
+/// otherwise an error is thrown.
+///
+/// Defaults to false.
+///
+/// See the examples in [maxLines] for the complete picture of how [maxLines],
+/// [minLines], and [expands] interact to produce various behaviors.
+///
+/// Input that matches the height of its parent:
+/// ```dart
+/// const Expanded(
+///   child: TextField(maxLines: null, expands: true),
+/// )
+/// ```
+/// {@endtemplate} À ÎUîÀ Ğ:\/// {@template flutter.widgets.editableText.autofocus}
+/// Whether this text field should focus itself if nothing else is already
+/// focused.
+///
+/// If true, the keyboard will open as soon as this text field obtains focus.
+/// Otherwise, the keyboard is only shown after the user taps the text field.
+///
+/// Defaults to false.
+/// {@endtemplate} À ĞH¤À ÑŞx/// The color to use when painting the selection.
+///
+/// If this property is null, this widget gets the selection color from the
+/// [DefaultSelectionStyle].
+///
+/// For [CupertinoTextField]s, the value is set to the ambient
+/// [CupertinoThemeData.primaryColor] with 20% opacity. For [TextField]s, the
+/// value is set to the ambient [TextSelectionThemeData.selectionColor]. À ÑñƒáÀ ÕÁƒ/// {@template flutter.widgets.editableText.selectionControls}
+/// Optional delegate for building the text selection handles.
+///
+/// Historically, this field also controlled the toolbar. This is now handled
+/// by [contextMenuBuilder] instead. However, for backwards compatibility, when
+/// [selectionControls] is set to an object that does not mix in
+/// [TextSelectionHandleControls], [contextMenuBuilder] is ignored and the
+/// [TextSelectionControls.buildToolbar] method is used instead.
+/// {@endtemplate}
+///
+/// See also:
+///
+///  * [CupertinoTextField], which wraps an [EditableText] and which shows the
+///    selection toolbar upon user events that are appropriate on the iOS
+///    platform.
+///  * [TextField], a Material Design themed wrapper of [EditableText], which
+///    shows the selection toolbar upon appropriate user events based on the
+///    user's platform set in [ThemeData.platform]. À Õ×À Öå€í/// {@template flutter.widgets.editableText.keyboardType}
+/// The type of keyboard to use for editing the text.
+///
+/// Defaults to [TextInputType.text] if [maxLines] is one and
+/// [TextInputType.multiline] otherwise.
+/// {@endtemplate} À ÖöeÀ ×L</// The type of action button to use with the soft keyboard. À ×`‰ÎÀ á%‰P/// {@template flutter.widgets.editableText.onChanged}
+/// Called when the user initiates a change to the TextField's
+/// value: when they have inserted or deleted text.
+///
+/// This callback doesn't run when the TextField's text is changed
+/// programmatically, via the TextField's [controller]. Typically it
+/// isn't necessary to be notified of such changes, since they're
+/// initiated by the app itself.
+///
+/// To be notified of all changes to the TextField's text, cursor,
+/// and selection, one can add a listener to its [controller] with
+/// [TextEditingController.addListener].
+///
+/// [onChanged] is called before [onSubmitted] when user indicates completion
+/// of editing, such as when pressing the "done" button on the keyboard. That
+/// default behavior can be overridden. See [onEditingComplete] for details.
+///
+/// {@tool dartpad}
+/// This example shows how onChanged could be used to check the TextField's
+/// current value each time the user inserts or deletes a character.
+///
+/// ** See code in examples/api/lib/widgets/editable_text/editable_text.on_changed.0.dart **
+/// {@end-tool}
+/// {@endtemplate}
+///
+/// ## Handling emojis and other complex characters
+/// {@template flutter.widgets.EditableText.onChanged}
+/// It's important to always use
+/// [characters](https://pub.dev/packages/characters) when dealing with user
+/// input text that may contain complex characters. This will ensure that
+/// extended grapheme clusters and surrogate pairs are treated as single
+/// characters, as they appear to the user.
+///
+/// For example, when finding the length of some user input, use
+/// `string.characters.length`. Do NOT use `string.length` or even
+/// `string.runes.length`. For the complex character "ğŸ‘¨â€ğŸ‘©â€ğŸ‘¦", this
+/// appears to the user as a single character, and `string.characters.length`
+/// intuitively returns 1. On the other hand, `string.length` returns 8, and
+/// `string.runes.length` returns 5!
+/// {@endtemplate}
+///
+/// See also:
+///
+///  * [inputFormatters], which are called before [onChanged]
+///    runs and can validate and change ("format") the input value.
+///  * [onEditingComplete], [onSubmitted], [onSelectionChanged]:
+///    which are more specialized input change notifications.
+///  * [TextEditingController], which implements the [Listenable] interface
+///    and notifies its listeners on [TextEditingValue] changes. À á3ƒ¥À äÇƒ[/// {@template flutter.widgets.editableText.onEditingComplete}
+/// Called when the user submits editable content (e.g., user presses the "done"
+/// button on the keyboard).
+///
+/// The default implementation of [onEditingComplete] executes 2 different
+/// behaviors based on the situation:
+///
+///  - When a completion action is pressed, such as "done", "go", "send", or
+///    "search", the user's content is submitted to the [controller] and then
+///    focus is given up.
+///
+///  - When a non-completion action is pressed, such as "next" or "previous",
+///    the user's content is submitted to the [controller], but focus is not
+///    given up because developers may want to immediately move focus to
+///    another input widget within [onSubmitted].
+///
+/// Providing [onEditingComplete] prevents the aforementioned default behavior.
+/// {@endtemplate} À äİƒ–À èhƒF/// {@template flutter.widgets.editableText.onSubmitted}
+/// Called when the user indicates that they are done editing the text in the
+/// field.
+///
+/// By default, [onSubmitted] is called after [onChanged] when the user
+/// has finalized editing; or, if the default behavior has been overridden,
+/// after [onEditingComplete]. See [onEditingComplete] for details.
+///
+/// ## Testing
+/// The following is the recommended way to trigger [onSubmitted] in a test:
+///
+/// ```dart
+/// await tester.testTextInput.receiveAction(TextInputAction.done);
+/// ```
+///
+/// Sending a `LogicalKeyboardKey.enter` via `tester.sendKeyEvent` will not
+/// trigger [onSubmitted]. This is because on a real device, the engine
+/// translates the enter key to a done action, but `tester.sendKeyEvent` sends
+/// the key to the framework only.
+/// {@endtemplate} À èx„À ì{ƒ¿/// {@template flutter.widgets.editableText.onAppPrivateCommand}
+/// This is used to receive a private command from the input method.
+///
+/// Called when the result of [TextInputClient.performPrivateCommand] is
+/// received.
+///
+/// This can be used to provide domain-specific features that are only known
+/// between certain input methods and their clients.
+///
+/// See also:
+///   * [performPrivateCommand](https://developer.android.com/reference/android/view/inputmethod/InputConnection#performPrivateCommand\(java.lang.String,%20android.os.Bundle\)),
+///     which is the Android documentation for performPrivateCommand, used to
+///     send a command from the input method.
+///   * [sendAppPrivateCommand](https://developer.android.com/reference/android/view/inputmethod/InputMethodManager#sendAppPrivateCommand),
+///     which is the Android documentation for sendAppPrivateCommand, used to
+///     send a command to the input method.
+/// {@endtemplate} À ì“€éÀ íj€®/// {@template flutter.widgets.editableText.onSelectionChanged}
+/// Called when the user changes the selection of text (including the cursor
+/// location).
+/// {@endtemplate} À ísÀ íİE/// {@macro flutter.widgets.SelectionOverlay.onSelectionHandleTapped} À íù‡ÄÀ õ±‡R/// {@template flutter.widgets.editableText.onTapOutside}
+/// Called for each tap that occurs outside of the[TextFieldTapRegion] group
+/// when the text field is focused.
+///
+/// If this is null, [FocusNode.unfocus] will be called on the [focusNode] for
+/// this text field when a [PointerDownEvent] is received on another part of
+/// the UI. However, it will not unfocus as a result of mobile application
+/// touch events (which does not include mouse clicks), to conform with the
+/// platform conventions. To change this behavior, a callback may be set here
+/// that operates differently from the default.
+///
+/// When adding additional controls to a text field (for example, a spinner, a
+/// button that copies the selected text, or modifies formatting), it is
+/// helpful if tapping on that control doesn't unfocus the text field. In
+/// order for an external widget to be considered as part of the text field
+/// for the purposes of tapping "outside" of the field, wrap the control in a
+/// [TextFieldTapRegion].
+///
+/// The [PointerDownEvent] passed to the function is the event that caused the
+/// notification. It is possible that the event may occur outside of the
+/// immediate bounding box defined by the text field, although it will be
+/// within the bounding box of a [TextFieldTapRegion] member.
+/// {@endtemplate}
+///
+/// {@tool dartpad}
+/// This example shows how to use a `TextFieldTapRegion` to wrap a set of
+/// "spinner" buttons that increment and decrement a value in the [TextField]
+/// without causing the text field to lose keyboard focus.
+///
+/// This example includes a generic `SpinnerField<T>` class that you can copy
+/// into your own project and customize.
+///
+/// ** See code in examples/api/lib/widgets/tap_region/text_field_tap_region.0.dart **
+/// {@end-tool}
+///
+/// See also:
+///
+///  * [TapRegion] for how the region group is determined. À õÂ‚ÜÀ ø‚/// {@template flutter.widgets.editableText.inputFormatters}
+/// Optional input validation and formatting overrides.
+///
+/// Formatters are run in the provided order when the user changes the text
+/// this widget contains. When this parameter changes, the new formatters will
+/// not be applied until the next time the user inserts or deletes text.
+/// Similar to the [onChanged] callback, formatters don't run when the text is
+/// changed programmatically via [controller].
+///
+/// See also:
+///
+///  * [TextEditingController], which implements the [Listenable] interface
+///    and notifies its listeners on [TextEditingValue] changes.
+/// {@endtemplate} À ø£ØÀ úp§/// The cursor for a mouse pointer when it enters or is hovering over the
+/// widget.
+///
+/// If this property is null, [SystemMouseCursors.text] will be used.
+///
+/// The [mouseCursor] is the only property of [EditableText] that controls the
+/// appearance of the mouse pointer. All other properties related to "cursor"
+/// stands for the text cursor, which is usually a blinking vertical line at
+/// the editing position. À ú€„?À ş©ƒñ/// Whether the caller will provide gesture handling (true), or if the
+/// [EditableText] is expected to handle basic gestures (false).
+///
+/// When this is false, the [EditableText] (or more specifically, the
+/// [RenderEditable]) enables some rudimentary gestures (tap to position the
+/// cursor, long-press to select all, and some scrolling behavior).
+///
+/// These behaviors are sufficient for debugging purposes but are inadequate
+/// for user-facing applications. To enable platform-specific behaviors, use a
+/// [TextSelectionGestureDetectorBuilder] to wrap the [EditableText], and set
+/// [rendererIgnoresPointer] to true.
+///
+/// When [rendererIgnoresPointer] is true true, the [RenderEditable] created
+/// by this widget will not handle pointer events.
+///
+/// This property is false by default.
+///
+/// See also:
+///
+///  * [RenderEditable.ignorePointer], which implements this feature.
+///  * [TextSelectionGestureDetectorBuilder], which implements platform-specific
+///    gestures and behaviors. À şÄ‚ À ¹Ñ/// {@template flutter.widgets.editableText.cursorWidth}
+/// How thick the cursor will be.
+///
+/// Defaults to 2.0.
+///
+/// The cursor will draw under the text. The cursor width will extend
+/// to the right of the boundary between characters for left-to-right text
+/// and to the left for right-to-left text. This corresponds to extending
+/// downstream relative to the selected position. Negative values may be used
+/// to reverse this behavior.
+/// {@endtemplate} À É€çÀ¤€Â/// {@template flutter.widgets.editableText.cursorHeight}
+/// How tall the cursor will be.
+///
+/// If this property is null, [RenderEditable.preferredLineHeight] will be used.
+/// {@endtemplate} Àµ€ÔÀ}€¯/// {@template flutter.widgets.editableText.cursorRadius}
+/// How rounded the corners of the cursor should be.
+///
+/// By default, the cursor has no radius.
+/// {@endtemplate} ÀaÀÚ2/// {@template flutter.widgets.editableText.cursorOpacityAnimates}
+/// Whether the cursor will animate from fully transparent to fully opaque
+/// during each cursor blink.
+///
+/// By default, the cursor opacity will animate on iOS platforms and will not
+/// animate on Android platforms.
+/// {@endtemplate} ÀôVÀ>9///{@macro flutter.rendering.RenderEditable.cursorOffset} ÀOcÀA///{@macro flutter.rendering.RenderEditable.paintCursorAboveText} À·€»À^€ˆ/// Controls how tall the selection highlight boxes are computed to be.
+///
+/// See [ui.BoxHeightStyle] for details on available styles. Àw€¸À€‡/// Controls how wide the selection highlight boxes are computed to be.
+///
+/// See [ui.BoxWidthStyle] for details on available styles. À4€®ÀĞ€€/// The appearance of the keyboard.
+///
+/// This setting is only honored on iOS devices.
+///
+/// Defaults to [Brightness.light]. Àç‚ƒÀ	]‚P/// {@template flutter.widgets.editableText.scrollPadding}
+/// Configures padding to edges surrounding a [Scrollable] when the Textfield scrolls into view.
+///
+/// When this widget receives focus and is not completely visible (for example scrolled partially
+/// off the screen or overlapped by the keyboard)
+/// then it will attempt to make itself visible by scrolling a surrounding [Scrollable], if one is present.
+/// This value controls how far from the edges of a [Scrollable] the TextField will be positioned after the scroll.
+///
+/// Defaults to EdgeInsets.all(20.0).
+/// {@endtemplate} À	o‚|ÀÑ‚:/// {@template flutter.widgets.editableText.enableInteractiveSelection}
+/// Whether to enable user interface affordances for changing the
+/// text selection.
+///
+/// For example, setting this to true will enable features such as
+/// long-pressing the TextField to select text and show the
+/// cut/copy/paste menu, and tapping to move the text caret.
+///
+/// When this is false, the text selection cannot be adjusted by
+/// the user, text cannot be copied, and the user cannot paste into
+/// the text field from the clipboard.
+///
+/// Defaults to true.
+/// {@endtemplate} Àğ¡Àqd/// Setting this property to true makes the cursor stop blinking or fading
+/// on and off once the cursor appears on focus. This property is useful for
+/// testing purposes.
+///
+/// It does not affect the necessity to focus the EditableText for the cursor
+/// to appear in the first place.
+///
+/// Defaults to false, resulting in a typical blinking cursor.ÀŒÀ–eÀê9/// {@macro flutter.widgets.scrollable.dragStartBehavior} À 0À €ù/// {@template flutter.widgets.editableText.scrollController}
+/// The [ScrollController] to use when vertically scrolling the input.
+///
+/// If null, it will instantiate a new ScrollController.
+///
+/// See [Scrollable.controller].
+/// {@endtemplate} À5ãÀª/// {@template flutter.widgets.editableText.scrollPhysics}
+/// The [ScrollPhysics] to use when vertically scrolling the input.
+///
+/// If not specified, it will behave according to the current platform.
+///
+/// See [Scrollable.physics].
+/// {@endtemplate}
+///
+/// If an explicit [ScrollBehavior] is provided to [scrollBehavior], the
+/// [ScrollPhysics] provided by that behavior will take precedence after
+/// [scrollPhysics]. À€õÀ€Ì/// {@template flutter.widgets.editableText.scribbleEnabled}
+/// Whether iOS 14 Scribble features are enabled for this widget.
+///
+/// Only available on iPads.
+///
+/// Defaults to true.
+/// {@endtemplate} À;ùÀ"'G/// {@template flutter.widgets.editableText.autofillHints}
+/// A list of strings that helps the autofill service identify the type of this
+/// text input.
+///
+/// When set to null, this text input will not send its autofill information
+/// to the platform, preventing it from participating in autofills triggered
+/// by a different [AutofillClient], even if they're in the same
+/// [AutofillScope]. Additionally, on Android and web, setting this to null
+/// will disable autofill for this text field.
+///
+/// The minimum platform SDK version that supports Autofill is API level 26
+/// for Android, and iOS 10.0 for iOS.
+///
+/// Defaults to an empty list.
+///
+/// ### Setting up iOS autofill:
+///
+/// To provide the best user experience and ensure your app fully supports
+/// password autofill on iOS, follow these steps:
+///
+/// * Set up your iOS app's
+///   [associated domains](https://developer.apple.com/documentation/safariservices/supporting_associated_domains_in_your_app).
+/// * Some autofill hints only work with specific [keyboardType]s. For example,
+///   [AutofillHints.name] requires [TextInputType.name] and [AutofillHints.email]
+///   works only with [TextInputType.emailAddress]. Make sure the input field has a
+///   compatible [keyboardType]. Empirically, [TextInputType.name] works well
+///   with many autofill hints that are predefined on iOS.
+///
+/// ### Troubleshooting Autofill
+///
+/// Autofill service providers rely heavily on [autofillHints]. Make sure the
+/// entries in [autofillHints] are supported by the autofill service currently
+/// in use (the name of the service can typically be found in your mobile
+/// device's system settings).
+///
+/// #### Autofill UI refuses to show up when I tap on the text field
+///
+/// Check the device's system settings and make sure autofill is turned on,
+/// and there are available credentials stored in the autofill service.
+///
+/// * iOS password autofill: Go to Settings -> Password, turn on "Autofill
+///   Passwords", and add new passwords for testing by pressing the top right
+///   "+" button. Use an arbitrary "website" if you don't have associated
+///   domains set up for your app. As long as there's at least one password
+///   stored, you should be able to see a key-shaped icon in the quick type
+///   bar on the software keyboard, when a password related field is focused.
+///
+/// * iOS contact information autofill: iOS seems to pull contact info from
+///   the Apple ID currently associated with the device. Go to Settings ->
+///   Apple ID (usually the first entry, or "Sign in to your iPhone" if you
+///   haven't set up one on the device), and fill out the relevant fields. If
+///   you wish to test more contact info types, try adding them in Contacts ->
+///   My Card.
+///
+/// * Android autofill: Go to Settings -> System -> Languages & input ->
+///   Autofill service. Enable the autofill service of your choice, and make
+///   sure there are available credentials associated with your app.
+///
+/// #### I called `TextInput.finishAutofillContext` but the autofill save
+/// prompt isn't showing
+///
+/// * iOS: iOS may not show a prompt or any other visual indication when it
+///   saves user password. Go to Settings -> Password and check if your new
+///   password is saved. Neither saving password nor auto-generating strong
+///   password works without properly setting up associated domains in your
+///   app. To set up associated domains, follow the instructions in
+///   <https://developer.apple.com/documentation/safariservices/supporting_associated_domains_in_your_app>.
+///
+/// {@endtemplate}
+/// {@macro flutter.services.AutofillConfiguration.autofillHints} À"9À#/€×/// The [AutofillClient] that controls this input field's autofill behavior.
+///
+/// When null, this widget's [EditableTextState] will be used as the
+/// [AutofillClient]. This property may override [autofillHints]. À#BvÀ#¬X/// {@macro flutter.material.Material.clipBehavior}
+///
+/// Defaults to [Clip.hardEdge]. À#½‚îÀ&‚°/// Restoration ID to save and restore the scroll offset of the
+/// [EditableText].
+///
+/// If a restoration id is provided, the [EditableText] will persist its
+/// current scroll offset and restore it during state restoration.
+///
+/// The scroll offset is persisted in a [RestorationBucket] claimed from
+/// the surrounding [RestorationScope] using the provided restoration ID.
+///
+/// Persisting and restoring the content of the [EditableText] is the
+/// responsibility of the owner of the [controller], who may use a
+/// [RestorableTextEditingController] for that purpose.
+///
+/// See also:
+///
+///  * [RestorationManager], which explains how state restoration works in
+///    Flutter. À&°‚öÀ)˜‚³/// {@template flutter.widgets.shadow.scrollBehavior}
+/// A [ScrollBehavior] that will be applied to this widget individually.
+///
+/// Defaults to null, wherein the inherited [ScrollBehavior] is copied and
+/// modified to alter the viewport decoration, like [Scrollbar]s.
+/// {@endtemplate}
+///
+/// [ScrollBehavior]s also provide [ScrollPhysics]. If an explicit
+/// [ScrollPhysics] is provided in [scrollPhysics], it will take precedence,
+/// followed by [scrollBehavior], and then the inherited ancestor
+/// [ScrollBehavior].
+///
+/// The [ScrollBehavior] of the inherited [ScrollConfiguration] will be
+/// modified by default to only apply a [Scrollbar] if [maxLines] is greater
+/// than 1. À)«}À*R/// {@macro flutter.services.TextInputConfiguration.enableIMEPersonalizedLearning} À*-…À/‘…/// {@template flutter.widgets.editableText.contentInsertionConfiguration}
+/// Configuration of handler for media content inserted via the system input
+/// method.
+///
+/// Defaults to null in which case media content insertion will be disabled,
+/// and the system will display a message informing the user that the text field
+/// does not support inserting media content.
+///
+/// Set [ContentInsertionConfiguration.onContentInserted] to provide a handler.
+/// Additionally, set [ContentInsertionConfiguration.allowedMimeTypes]
+/// to limit the allowable mime types for inserted content.
+///
+/// {@tool dartpad}
+///
+/// This example shows how to access the data for inserted content in your
+/// `TextField`.
+///
+/// ** See code in examples/api/lib/widgets/editable_text/editable_text.on_content_inserted.0.dart **
+/// {@end-tool}
+///
+/// If [contentInsertionConfiguration] is not provided, by default
+/// an empty list of mime types will be sent to the Flutter Engine.
+/// A handler function must be provided in order to customize the allowable
+/// mime types for inserted content.
+///
+/// If rich content is inserted without a handler, the system will display
+/// a message informing the user that the current text input does not support
+/// inserting rich content.
+/// {@endtemplate} À/³‡SÀ6ô†Ê/// {@template flutter.widgets.EditableText.contextMenuBuilder}
+/// Builds the text selection toolbar when requested by the user.
+///
+/// `primaryAnchor` is the desired anchor position for the context menu, while
+/// `secondaryAnchor` is the fallback location if the menu doesn't fit.
+///
+/// `buttonItems` represents the buttons that would be built by default for
+/// this widget.
+///
+/// For backwards compatibility, when [selectionControls] is set to an object
+/// that does not mix in [TextSelectionHandleControls], [contextMenuBuilder]
+/// is ignored and the [TextSelectionControls.buildToolbar] method is used
+/// instead.
+///
+/// {@tool dartpad}
+/// This example shows how to customize the menu, in this case by keeping the
+/// default buttons for the platform but modifying their appearance.
+///
+/// ** See code in examples/api/lib/material/context_menu/editable_text_toolbar_builder.0.dart **
+/// {@end-tool}
+///
+/// {@tool dartpad}
+/// This example shows how to show a custom button only when an email address
+/// is currently selected.
+///
+/// ** See code in examples/api/lib/material/context_menu/editable_text_toolbar_builder.1.dart **
+/// {@end-tool}
+///
+/// See also:
+///   * [AdaptiveTextSelectionToolbar], which builds the default text selection
+///     toolbar for the current platform, but allows customization of the
+///     buttons.
+///   * [AdaptiveTextSelectionToolbar.getAdaptiveButtons], which builds the
+///     button Widgets for the current platform given
+///     [ContextMenuButtonItem]s.
+///   * [BrowserContextMenu], which allows the browser's context menu on web
+///     to be disabled and Flutter-rendered context menus to appear.
+/// {@endtemplate}
+///
+/// If not provided, no context menu will be shown. À7‚§À9›‚X/// {@template flutter.widgets.EditableText.spellCheckConfiguration}
+/// Configuration that details how spell check should be performed.
+///
+/// Specifies the [SpellCheckService] used to spell check text input and the
+/// [TextStyle] used to style text with misspelled words.
+///
+/// If the [SpellCheckService] is left null, spell check is disabled by
+/// default unless the [DefaultSpellCheckService] is supported, in which case
+/// it is used. It is currently supported only on Android and iOS.
+///
+/// If this configuration is left null, then spell check is disabled by default.
+/// {@endtemplate} À9·À:©€Æ/// {@macro flutter.widgets.magnifier.TextMagnifierConfiguration.intro}
+///
+/// {@macro flutter.widgets.magnifier.intro}
+///
+/// {@macro flutter.widgets.magnifier.TextMagnifierConfiguration.details} À §3…åÀ ¬i„ö/// {@template flutter.widgets.editableText.strutStyle}
+/// The strut style used for the vertical layout.
+///
+/// [StrutStyle] is used to establish a predictable vertical layout.
+/// Since fonts may vary depending on user input and due to font
+/// fallback, [StrutStyle.forceStrutHeight] is enabled by default
+/// to lock all lines to the height of the base [TextStyle], provided by
+/// [style]. This ensures the typed text fits within the allotted space.
+///
+/// If null, the strut used will inherit values from the [style] and will
+/// have [StrutStyle.forceStrutHeight] set to true. When no [style] is
+/// passed, the theme's [TextStyle] will be used to generate [strutStyle]
+/// instead.
+///
+/// To disable strut-based vertical alignment and allow dynamic vertical
+/// layout based on the glyphs typed, use [StrutStyle.disabled].
+///
+/// Flutter's strut is based on [typesetting strut](https://en.wikipedia.org/wiki/Strut_(typesetting))
+/// and CSS's [line-height](https://www.w3.org/TR/CSS2/visudet.html#line-height).
+/// {@endtemplate}
+///
+/// Within editable text and text fields, [StrutStyle] will not use its standalone
+/// default values, and will instead inherit omitted/null properties from the
+/// [TextStyle] instead. See [StrutStyle.inheritFromTextStyle].   À À€Û/// {@template flutter.widgets.editableText.selectionEnabled}
+/// Same as [enableInteractiveSelection].
+///
+/// This getter exists primarily for consistency with
+/// [RenderEditable.selectionEnabled].
+/// {@endtemplate}   À:Ä\À:Í    À;$ÜÀ>ÄƒZ/// Returns the [ContextMenuButtonItem]s representing the buttons in this
+/// platform's default selection menu for an editable field.
+///
+/// For example, [EditableText] uses this to generate the default buttons for
+/// its context menu.
+///
+/// See also:
+///
+/// * [EditableTextState.contextMenuButtonItems], which gives the
+///   [ContextMenuButtonItem]s for a specific EditableText.
+/// * [SelectableRegion.getSelectableButtonItems], which performs a similar
+///   role but for content that is selectable but not editable.
+/// * [AdaptiveTextSelectionToolbar], which builds the toolbar itself, and can
+///   take a list of [ContextMenuButtonItem]s with
+///   [AdaptiveTextSelectionToolbar.buttonItems].
+/// * [AdaptiveTextSelectionToolbar.getAdaptiveButtons], which builds the button
+///   Widgets for the current platform given [ContextMenuButtonItem]s. 	À>á/À?  À?#À?4  À??"À?]  À?g$À?…  À?‘(À?¯  À?¿%À?İ  À?ê(À@  À@$À@6  À@B,À@`   ÀIMmÀIb  ÀI{(ÀI—  ÀI©ÀI¸   Àg¾CÀgÜ   Àg¾Àg¿ÀhŒ}Àh  Àh*&ÀhG  ÀhÀh Àt†ÀÌÖÀt¬/// State for a [EditableText].  0Àu‘Àu˜  Àvj9Àv  Àv§`Àv½ ÀvÙÀvôÀvõÀwÀwÀwOÀw& ÀwBÀwOÀwTÀwPÀwUÀwZÀwVÀw_*Àwo Àw~Àw‡ÀwˆÀwàÀwÛ,/// Detects whether the clipboard can paste.	Ày-ÀySÀwíÀy/ÀyJÀyKÀyUÀylÀymÀys	Àz2€“/// Detects whether the Live Text input is enabled.
+///
+/// See also:
+///  * [LiveText], where the availability of Live Text input can be obtained.ÀzVÀz]ÀzOÀzXÀz_ÀzzÀz{Àz)Àz–  Àzú'À{  À{&,À{6 À{GÀ{PÀ{QÀ{V+À{h  À|/À| À|%À|.À|/À|43À|D À|\À|eÀ|fÀ|k1À|{ À|‘À|šÀ|›À|¡À|¦ À|¶À|À)À|Ô  À}5À}¬  À}ÈÀ}×  À€dNÀ¡/// The most up-to-date spell check results for text input.
+///
+/// These results will be updated via calls to spell check through a
+/// [SpellCheckService] and used by this widget to build the [TextSpan] tree
+/// for text input and menus for replacement suggestions of misspelled words. À‚B€¡À‚²T/// The text processing service used to retrieve the native text processing actions.À‚ÈÀ‚áÀ‚âÀ‚è€’ÀƒOF/// The list of native text processing actions provided by the engine.ÀƒxÀƒyÀƒeÀƒwÀƒfÀ†LÀ†¤ À†¿À†ÇÀ†ÙÀ†ÔÀ†ÈÀ†ÖÀ†ß3À†ô  À‡À‡$  Àß9Àß> ÀßPÀöŞ‚ÀøÉÆ/// The last known [TextEditingValue] of the platform text input plugin.
+///
+/// This value is updated when the platform text input plugin sends a new
+/// update via [updateEditingValue], or when [EditableText] calls
+/// [TextInputConnection.setEditingState] to overwrite the platform text input
+/// plugin's [TextEditingValue].
+///
+/// Used in [_updateRemoteEditingValueIfNeeded] to determine whether the
+/// remote value is outdated and needs updating. ÀøÀ   ÀtÀ‚  ÀâÀê  À7À?  À-WÀ-[ À-mÀEù(ÀEş ÀFÀN'ÀN$ ÀNAÀa[KÀaq Àa‹Àa“Àa¥Àa Àa”Àa¢Àaª>Àa½ ÀaÔÀaÚÀaÛÀaí(Àaò ÀbÀnö Ào  À‰$À‰ À‰;À‰@À‰E  Àğ$ÀŸ  À²g&À³:€°/// The renderer for this widget's descendant.
+///
+/// This property is typically used to notify the renderer of input gestures
+/// when [RenderEditable.ignorePointer] is true.À³|À³zÀ³fÀ³KÀ³WÀ³XÀ³gÀ³hÀ³xÀ³yÀ³ÀÉSÀÉW ÀÉnÀÉoÀÒå"ÀÒğ  Àì9€“Àìf 	ÀìƒÀì‘Àì«Àì’Àì¬ÀìËÀìµÀì­Àì·ÀïKsÀïp 	Àï…Àï“Àï¥Àï”Àï¦Àï½Àï¯Àï§Àï±À [€ƒÀ „ 	À À «À ÁÀ ¬À ÂÀ İÀ ËÀ ÃÀ ÍÀ ã€ÁÀ3 ÀZÀ~ÀÀÀÀ£ÀŸÀoóÀ” OÀµÀaÀŸÀ´À À¦À¬À³À­ÀàÀ»ÀâÀñÀÀıÀòÀÿÀÀÀÀKÀ6ÀMÀÀiÀÀ—À˜À¤À¥À¹À¬À»ÀÉÀ×ÀÊÀØÀøÀáÀÙÀãÀ	#À	À	%À	5À	‘À	6À	GÀ	]À	HÀ	^À	À	_À	eÀ	yÀ	¶À	˜À	¸À	ÈÀ
+,À	ÉÀ	ÚÀ	ùÀ	ÛÀ	úÀ
++À	ûÀ
+À
+À
+JÀ
+3À
+LÀ
+\À
+®À
+]À
+nÀ
+†À
+oÀ
+‡À
+­À
+ˆÀ
+À
+šÀ
+óÀ
+ÓÀ
+õÀÀ™ÀÀ ÀAÀ!ÀBÀ˜ÀCÀIÀ]À‘ÀvÀ“À»À À½ÀÍÀÀÎÀÜÀøÀİÀùÀÀÀúÀÀIÀ"ÀKÀ[ÀôÀ\ÀvÀÀwÀŸÀóÀ À¦À¹ÀíÀÒÀïÀ(ÀûÀ*À:ÀÙÀ;ÀUÀ‚ÀVÀƒÀØÀ„ÀŠÀÀÒÀ·ÀÔÀ ÀàÀÀÀ™ÀÀ-ÀNÀ.ÀOÀ˜ÀPÀVÀbÀ’ÀwÀ”ÀÍÀ ÀÏÀßÀşÀàÀ2ÀÀ4ÀDÀcÀEÀ¥ÀjÀ§À·ÀeÀ¸ÀÒÀÀÓÀÀdÀÀÀ*À^ÀCÀ`À“ÀlÀ•À¥À>À¦ÀÀÀèÀÁÀéÀ=ÀêÀğÀÀ7ÀÀ9À{ÀEÀ}ÀÀ5ÀÀ¨ÀßÀ©ÀàÀ4ÀáÀçÀúÀ.ÀÀ0ÀZÀ<À\ÀlÀÀÀmÀ{ÀšÀ|À›À¿À¤ÀœÀ¦ÀÓÀÇÀÕÀãÀğÀäÀñÀÀúÀòÀüÀCÀ#ÀEÀUÀìÀVÀpÀ‘ÀqÀ’ÀëÀ“À™À¥ÀÕÀºÀ×ÀåÀİÀçÀÀóÀÀ,ÀæÀ-ÀGÀoÀHÀpÀåÀqÀwÀŠÀºÀŸÀ¼ÀÊÀÂÀÌÀßÀÒÀáÀÀ ÀÀ%À<À&À6À;À7ÀZÀCÀ\ÀlÀ‡ÀmÀÀ†À‚ÀÀÀŸÀ¯ÀÀ°À¾ÀÎÀ¿ÀÏÀÀØÀĞÀÚÀÀ/ÀÀ1ÀAÀ\ÀB(Àu¨€¿ÀuÀ    Àz®HÀz·    À{…xÀ{š    À|íMÀ}   À|íÀ|îÀ}>MÀ}Q    À}â—ÀE#/// Configuration that determines how spell check will be performed.
+///
+/// If possible, this configuration will contain a default for the
+/// [SpellCheckService] if it is not otherwise specified.
+///
+/// See also:
+///  * [DefaultSpellCheckService], the spell check service used by default.  ÀÀÀ}€ãÀ€ €‘/// Whether or not spell check is enabled.
+///
+/// Spell check is enabled when a [SpellCheckConfiguration] has been specified
+/// for the widget.   À·€‡ÀÀ    Àƒ‚ƒÀ…Ç‚$/// Whether to create an input connection with the platform for text editing
+/// or not.
+///
+/// Read-only input fields do not need a connection with the platform since
+/// there's no need for text editing capabilities (e.g. virtual keyboard).
+///
+/// On the web, we always need a connection because we want some browser
+/// functionalities to continue to work on read-only input fields like:
+///
+/// - Relevant context menu.
+/// - cmd/ctrl+c shortcut to copy.
+/// - cmd/ctrl+a to select all.
+/// - Changing the selection using a physical keyboard.   À‡9@À‡N   À‡9À‡:À‡}€ÎÀ‡‡    ÀˆO1Àˆd   ÀˆOÀˆPÀ‰„À‰™   À‰„À‰…ÀŠ‹ÀŠ    ÀŠ‹ÀŠŒÀ‹›ƒ©À‹°   À‹›À‹œÀH!À]   ÀHÀIÀm%À‚   ÀmÀnÀ‘–æÀ‘«   À‘–À‘—À“€€ãÀ“•   À“€À“À•‹À•     Àœ]À¥    ÀËƒÔÀÌR/// {@template flutter.widgets.EditableText.getAnchors}
+/// Returns the anchor points for the default context menu.
+/// {@endtemplate}
+///
+/// See also:
+///
+///  * [contextMenuButtonItems], which provides the [ContextMenuButtonItem]s
+///    for the default context menu buttons.   ÀÎãˆÀÒ‹ƒg/// Returns the [ContextMenuButtonItem]s representing the buttons in this
+/// platform's default selection menu for [EditableText].
+///
+/// See also:
+///
+/// * [EditableText.getEditableButtonItems], which performs a similar role,
+///   but for any editable field, not just specifically EditableText.
+/// * [SelectableRegionState.contextMenuButtonItems], which performs a similar
+///   role but for content that is selectable but not editable.
+/// * [contextMenuAnchors], which provides the anchor points for the default
+///   context menu.
+/// * [AdaptiveTextSelectionToolbar], which builds the toolbar itself, and can
+///   take a list of [ContextMenuButtonItem]s with
+///   [AdaptiveTextSelectionToolbar.buttonItems].
+/// * [AdaptiveTextSelectionToolbar.getAdaptiveButtons], which builds the
+///   button Widgets for the current platform given [ContextMenuButtonItem]s.   ÀÖè„ˆÀ×    ÀøîCÀù   ÀøîÀøïÀ=VÀH    À2>7À2S    À2xMÀ2|  À2ƒÀ2•   À2É0À2Ò    À2ü.À3    À<€ÈÀ<÷Z/// Whether to send the autofill information to the autofill service. True by
+/// default.   À†rÀ†#    À†€áÀ‡/|/// Whether the blinking cursor is actually visible at this precise moment
+/// (it's hidden half the time, since it blinks).  À‡À‡À‡uÀˆT€¶/// The cursor blink interval (the amount of time the cursor is in the "on"
+/// state or the "off" state). A complete cursor blink period is twice this
+/// value (half on, half off).  Àˆ2Àˆ3Àˆ‡€Àˆî5/// The current status of the text selection handles.  Àˆ¿ÀˆÀÀ²WÀ²    À³’<À³³   À³’À³“À³ÒGÀ³İ    ÀÌœ>ÀÌ³   ÀÌœÀÌÀÌŞ…„ÀÍ   ÀÌŞÀÌßcÀ”g€ŠÀ”l    À”õ€’À”ú    À–›„…À–Ù*/// Copy current selection to [Clipboard]. À–çÀ–ş  À–ÈÀ–ÉÀ›$ƒtÀ›a)/// Cut current selection to [Clipboard]. À›nÀ›…  À›PÀ›QÀı£ÀŸ9 /// Paste text from [Clipboard]. ÀŸCÀŸZ  ÀŸ ÀŸ!À ¤ƒæÀ ©  À ´À Ë  À ÑÀ Ù   À¤„|À¤Ã!/// Select the entire text value. À¤ÍÀ¤ä  À¤²À¤³À©‚-À©ï€Ç/// Look up the current selection,
+/// as in the "Look Up" edit menu button on iOS.
+///
+/// Currently this is only implemented for iOS.
+///
+/// Throws an error if the selection is empty or collapsed. À©ÿÀª   À«?‚ˆÀ¬Y€ş/// Launch a web search on the current selection,
+/// as in the "Search Web" edit menu button on iOS.
+///
+/// Currently this is only implemented for iOS.
+///
+/// When 'obscureText' is true or the selection is empty,
+/// this function will not do anything À¬oÀ¬†   À­Ë‚À®÷/// Launch the share interface for the current selection,
+/// as in the "Share..." edit menu button on iOS.
+///
+/// Currently this is only implemented for iOS and Android.
+///
+/// When 'obscureText' is true or the selection is empty,
+/// this function will not do anything À¯À¯   À°^À°c  À°wÀ°   À±i…hÀ²Ã9/// Finds specified [SuggestionSpan] that matches the provided index using
+/// binary search.
+///
+/// See also:
+///
+///  * [SpellCheckSuggestionsToolbar], the Material style spell check
+///    suggestions toolbar that uses this method to render the correct
+///    suggestions in the toolbar for a misspelled word. À²ãÀ²è   À¶Õ‡bÀ·¹€¼/// Infers the [SpellCheckConfiguration] used to perform spell check.
+///
+/// If spell check is enabled, this will try to infer a value for
+/// the [SpellCheckService] if left unspecified. À·×&À·ñ   À¾;…†À¿,H/// Returns the [ContextMenuButtonItem]s for the given [ToolbarOptions]. À¿JÀ¿[  À¾†À¾‡À¾‘À¿À¾—À¾ÔÀÃÅ‡BÀÄ>f/// Gets the line heights at the start and end of the selection for the given
+/// [EditableTextState].   ÀÛ‹‚ÀÛœ   ÀÛ‹ÀÛŒÀİ¬ÀŞ/q/// Query the engine to initialize the list of text processing actions to show
+/// in the text selection toolbar.   ÀßY‡eÀßj   ÀßYÀßZÀæÂ‹¯ÀæÓ  ÀæãÀæñ  ÀæÂÀæÃÀòu„?Àò†   ÀòuÀòvÀù5ŒHÀùF  ÀùYÀùk  Àù5Àù6ÀjÀ†  À À²   Àï„1À   ÀÀ  ÀïÀğÀ$€ŠÀ5  ÀKÀS  ÀZÀp  À$À%À²€øÀÃ  ÀÑÀê  À²À³À—ŠÀ¨  À½ÀÕ  À—À˜À9ˆ€À>    À"½Š–À"ï  À# À#  À#À#(  À"½À"¾À"ÄÀ"æÀ"ÅÀ-sˆÀ.ËF/// Begins a new batch edit, within which new updates made to the text editing
+/// value will not be sent to the platform text input plugin.
+///
+/// Batch edits nest. When the outermost batch edit finishes, [endBatchEdit]
+/// will attempt to send [currentTextEditingValue] to the text input plugin if
+/// it detected a change.   À.ÿÖÀ0 €ñ/// Ends the current batch edit started by the last call to [beginBatchEdit],
+/// and send [currentTextEditingValue] to the text input plugin if needed.
+///
+/// Throws an error in debug mode if this [EditableText] is not in a batch
+/// edit.   À0ÙaÀ0Ş    À5.‡]À5=  À5U	À5[   À=·†/À=¼    ÀCêÀCï    ÀDóÀDø    ÀF%€½ÀF*    ÀGşƒ¨ÀH    ÀK«€ÎÀK¼  ÀKÒÀKå  ÀKğÀL  ÀK«ÀK¬ÀL}€úÀL   ÀL}ÀL~ÀN­€ƒÀN²    ÀO4€‰ÀO9    ÀOÁ‚‰ÀQ]ˆ/// Express interest in interacting with the keyboard.
+///
+/// If this control is already attached to the keyboard, this function will
+/// request that the keyboard become visible. Otherwise, this function will
+/// ask the focus system that it become focused. If successful in acquiring
+/// focus, the control will then attach to the keyboard and request that the
+/// keyboard become visible.   ÀRNÀRS    ÀSSfÀSX    ÀS½ƒíÀSÒ    ÀW®‰dÀWà  ÀWøÀX  ÀXÀX)  ÀW®ÀW¯ÀWµÀW×ÀW¶ÀbŒØÀb  Àb;ÀbJ   Ào‚ÄÀo,   ÀoÀoÀqãƒıÀqğ  ÀrÀr   Àuä‹cÀv  Àv)Àv;  ÀvAÀvY  Àv`Àvf  ÀuäÀuåÀuëÀvÀuìÀvwÀKƒQÀP  ÀoÀ~  À‹Àš  À§À¿   À„ vÀ„¥    À‰a‚†À‰f    À‹ëƒ™À‹ğ    Àˆ€çÀ  À À¦  À¶Às€®Àx    À‘%ƒÎÀ‘*    À”÷ƒ"À”ü    À˜‚’À˜,    Àš³‰Àš¸  ÀšËÀšÒ   Àœœ€ÚÀœ¡    ÀzsÀ  À¤À¯   ÀŸ‹PÀŸ  ÀŸ5ÀŸ;  ÀŸBÀ«®‚ZÀ«³    À°‡À°†    À´ƒÕÀ´.  À´IÀ´[  À´aÀ´y  À´À´À·ö?À¸  À¸À¸#  À·öÀ·÷À¹9ƒ†Àº,€Ù/// Shows the selection toolbar at the location of the current cursor.
+///
+/// Returns `false` if a toolbar couldn't be shown, such as when the toolbar
+/// is already shown, or when no text selection currently exists.  ÀºÀºÀ¼ÃAÀ¼Ô  À¼áÀ¼ç  À¼ÃÀ¼ÄÀ¼ôÀ¾9À¾:*/// Toggles the visibility of the toolbar. À¾IÀ¾O  À¾\À¿E…¶À¿¿p/// Shows toolbar with spell check suggestions of misspelled words that are
+/// available for click-and-replace.   ÀÄÿ‚~ÀÆcN/// Shows the magnifier at the position given by `positionToShow`,
+/// if there is no magnifier visible.
+///
+/// Updates the magnifier to the position given by `positionToShow`,
+/// if there is a magnifier visible.
+///
+/// Does nothing if a magnifier couldn't be shown, such as when the selection
+/// overlay does not currently exist. ÀÆqÀÆy   ÀÇ€áÀÇ²)/// Hides the magnifier if it is visible.   ÀÉu!ÀÉ†  ÀÉœ	ÀÉ¢  ÀÉuÀÉvÀÊš€¿ÀÊ«   ÀÊšÀÊ›ÀË];ÀËn  ÀË~ÀË†  ÀË]ÀË^ÀÒfOÀÒw  ÀÒ€ÀÒ’  ÀÒfÀÒgÀÓ€¤ÀÓ  ÀÓ:	ÀÓ?  ÀÓEÀÓJ  ÀÓÀÓÀÓ´©ÀÓÂ  ÀÓÓÀÓë   ÀÕa£ÀÕo  ÀÕÀÕ—   À×êÀ×  À×(À×@   ÀÙ±‚dÀÙ¾  ÀÙÖÀÙä  ÀÙëÀÙñ  ÀÙùÀÚ   ÀİÓ†HÀİà  ÀİôÀŞ  ÀŞ	ÀŞ  ÀŞÀŞ%   Àär{Àä    Àäğ€€Àäı    ÀåseÀå€    ÀåÛDÀåè    Àæ"BÀæ/    Àæh€Àær ÀæƒÀæƒÀæ•Àæ    Àç	…-Àè(/// Transpose the characters immediately before and after the current
+/// collapsed selection.
+///
+/// When the cursor is at the end of the text, transposes the last two
+/// characters, if they exist.
+///
+/// When the cursor is at the start of the text, does nothing. Àè= ÀèX   ÀìÑ‚wÀìÖ  ÀìãÀìö   Àğ3€ëÀğ8  ÀğR%Àğr   Àñ"„Àñ‚V/// Handles [ScrollIntent] by scrolling the [Scrollable] inside of
+/// [EditableText]. ÀñŠÀñ˜   Àõ=ˆHÀõ­f/// Extend the selection down by page if the `forward` parameter is true, or
+/// up by page otherwise. ÀõÄ"Àõá   Àı‰‚ÏÀı  ÀıŸÀı¶   À©€ĞÀ±  ÀÇÀÖ   À~„íÀ€/// The default behavior used if [onTapOutside] is null.
+///
+/// The `event` argument is the [PointerDownEvent] that caused the notification. À,À>   ÀgÔÀz  À€À  ÀgÀhÀ5?ŒÀ6€Â/// Builds [TextSpan] from current editing value.
+///
+/// By default makes text in composing range appear as underlined.
+/// Descendants can override this method to customize appearance of text.    ÀA^–’ÀAd  ÀA—… ÀA—ÀA  'ÀA§	ÀA®  ÀA¶ÀAÅ  ÀAÔÀAã  ÀAí"ÀAü  ÀB ÀB$  ÀB;ÀBA  ÀBQÀBW  ÀBqÀB€  ÀBÀB  ÀB¬ÀB»  ÀBÈÀBÎ  ÀBåÀBô  ÀCÀC  ÀC#ÀC2  ÀC?ÀCE  ÀCRÀCa  ÀCmÀCs  ÀC‚ÀCˆ  ÀC›ÀCª  ÀC¹ÀCÈ  ÀCÖÀCå  ÀC÷ÀCı  ÀD ÀD  ÀD.ÀD=  ÀDMÀD\  ÀDg#ÀDm  ÀDÀDŸ  ÀD¯ÀDµ  ÀDÆÀDÌ  ÀDİÀDì  ÀDı"ÀE  ÀE%3ÀE+  ÀE^1ÀEd  ÀE•&ÀE›  ÀEÁ#ÀEĞ  ÀEêÀEù  ÀFÀF  ÀF(ÀF.  ÀFBÀFQ  ÀD…ÀEAÀECÀEDÀERÀESÀEyÀE{ÀE|ÀE‰ÀEŠÀE·ÀFeÀFjÀF­ÀFsÀFkÀFuÀFÀF€ÀF•ÀF¬ÀF–ÀF¢&ÀF³ÀFÄ  ÀFÒÀFé  ÀFòÀFÿ  ÀG$ÀG  ÀG6"ÀGF  ÀG\"ÀGi  ÀG‚$ÀGœ  ÀGªÀGµ  ÀGÂÀGÍ  ÀGÙÀGä  ÀGğÀGû  ÀHÀH  ÀHÀH)  ÀH4ÀHF  ÀHTÀHa  ÀHsÀH„  ÀH’ÀH¢  ÀH¯!ÀHÃ  ÀHÔÀHâ  ÀHìÀHù  ÀIÀI  ÀI),ÀIC  ÀIY#ÀIn  ÀI€ÀI•  ÀIŸ!ÀIª  ÀIÄÀIÑ  ÀIàÀIî  ÀIşÀJ  ÀJÀJ)  ÀJ9ÀJD  ÀJ\,ÀJt  ÀJŒ*ÀJ£  ÀJº%ÀJÅ  ÀJã1ÀJÿ  ÀKÀK%  ÀK9 ÀKJ  ÀK]ÀKj  ÀK}ÀKˆ   ÀK™† ÀK´  ÀKÇÀKÕ  ÀK™ÀKšÀQ†QÀQ®  ÀQÁÀQÏ  ÀQ×ÀQç  ÀQÀQ ÀWò…zÀX  ÀX/ ÀX ÀX1 	ÀX8ÀXG  ÀXVÀXe  ÀXsÀX‚  ÀX”ÀX£  ÀX² ÀXÁ  ÀXØÀXç  ÀXòÀY  ÀYÀY   ÀY0ÀY?   	ÀYMÀY]  ÀYj!ÀY~  ÀYÀY   ÀY®,ÀYÈ  ÀYŞÀYì  ÀYöÀZ  ÀZÀZ   ÀZ/ÀZ:  ÀZBÀZS   ÀZbƒÀZs  ÀZ{ÀZ   ÀWòÀWóÀ]nÕÀ]t  À]¢€¸ À]¨À]º À]ÁÀ]Ğ  À]ÚÀ]é  À]÷À^  À^"À^%  À^>À^M   À^^À^k  À^tÀ^„  À^‘À^¡  À^°'À^Ã  À^ÛÀ^æ   À^òOÀ_   À^òÀ^ó À_E‰À_K  À_£V À_£À_º  
+À_ÑÀ_¾À_ÓÀ_ìÀ_êÀ_ÔÀ_íÀ_îÀ_öÀ_÷Àbß%Àbê ÀcÀcÀc  ÀbloÀb€    Àc,?ÀcC   Àc,Àc-Àf¢WÀf·   Àf¢Àf£À_ı€›À`   À_ıÀ_şÀ`œWÀ`­  À`½À`Ñ  À`œÀ`Àa÷qÀb   Àa÷ÀaøÀco€ØÀc€  ÀcÀc˜  ÀcoÀcpÀdK‚SÀd\  Àdm	Àds  ÀdKÀdLÀgıMÀh  ÀhÀh$  ÀgıÀgş ÀhNƒ	ÀhT  Àh€T Àh†Àhš Àh¡Àh±  Àh»ÀhÊ   ÀhØlÀi@Z/// The size of the span, used in place of adding a placeholder size to the [TextPainter].  ÀiI‚ÀiZ  Ài`Àiu  Àiƒ,Ài  Àiµ'ÀiÓ  ÀiIÀiJÀi›Ài¥Ài¦ ÀkYˆÀoƒ«/// A text boundary that uses code points as logical boundaries.
+///
+/// A code point represents a single character. This may be smaller than what is
+/// represented by a user-perceived character, or grapheme. For example, a
+/// single grapheme (in this case a Unicode extended grapheme cluster) like
+/// "ğŸ‘¨â€ğŸ‘©â€ğŸ‘¦" consists of five code points: the man emoji, a zero
+/// width joiner, the woman emoji, another zero width joiner, and the boy emoji.
+/// The [String] has a length of eight because each emoji consists of two code
+/// units.
+///
+/// Code units are the units by which Dart's String class is measured, which is
+/// encoded in UTF-16.
+///
+/// See also:
+///
+///  * [String.runes], which deals with code points like this class.
+///  * [String.characters], which deals with graphemes.
+///  * [CharacterBoundary], which is a [TextBoundary] like this class, but whose
+///    boundaries are graphemes instead of code points. Ào-% Ào3ÀoE ÀoF
+ÀoL   ÀoVÀoc   Ào¾ ÀoÃ  ÀoØÀoİ   ÀpÂƒÀpÓ  ÀpìÀpñ  ÀpÂÀpÃÀrI›ÀrZ  ÀrtÀry  ÀrIÀrJ Àt9†ıÀt? ÀtQ&ÀtQÀt–M Àt–Àt§ Àt¨
+Àt®  Àt´Àtº  ÀtÊÀtĞ   ÀtçÀtÿ  Àu-Àu&  Àu9+ÀuR  ÀzÓaÀzè   ÀzÓÀzÔÀui…fÀu}  Àu„Àu‡  ÀuÀu  ÀuiÀuj À{8\À{> À{Y(À{YÀ{ €Ó À{ À{º À{À
+À{Æ  À{ĞÀ{Ö  À{êÀ{ğ  À|)À|  À|7À|=  À|RÀ|X  À|GÀ|gÀ|wÀ|  À|˜&À|£  À|ÂÀ|Í  À|ÙÀ|ä  À|õ-À}  À}&*À}?  À}U'À}f À}zÀ‰KGÀ‰`   À‰KÀ‰LÀ}ãzÀ}è  À}şÀ~   ÀÁ@ÀÆ  ÀŞÀì   ÀˆBÀ  À À#  À+À:  ÀÀ À‰–‰îÀ‰œ À‰Á(À‰ÁÀŠ1 ÀŠÀŠ, ÀŠ-
+ÀŠ3   ÀŠ=ÀŠU  ÀŠ_.ÀŠy  ÀŠ‘ÀŠ   À“;GÀ“P   À“;À“<ÀŠ²‚ÈÀŠ·    À~…¹À  À–À™  À¡À°  À~À À“†üÀ“Œ  À“Ì À“ÌÀ“Ü À“İ
+À“ã   À“íÀ”  À•:FÀ•O   À•:À•;À”'À”#  À”*À”?  À”GÀ”V  À”À” À•„çÀ•Š  À•Ò! À•ÒÀ•æ À•ç
+À•í   À•÷À–  À–ûnÀ—   À–ûÀ–üÀ–€ŞÀ–*  À–1À–J  À–RÀ–a  À–À– À—m*À—¹:/// The start and end glyph heights of some range of text. À—ËK À—ÑÀ—Ş À—åÀ—ô  À—şÀ˜   À˜<À˜Q'/// The glyph height of the first line. À˜[9À˜‘&/// The glyph height of the last line.   À—¨À—©À˜™¦À™s€Ó/// A [ClipboardStatusNotifier] whose [value] is hardcoded to
+/// [ClipboardStatus.pasteable].
+///
+/// Useful to avoid showing a permission dialog on web, which happens when
+/// [Clipboard.hasStrings] is called.  À™³=À™Ï À™³À™´À™×À™æÀ™ç À™õHÀš   À™õÀ™ö        ‡€İ‡›t/// Signature for the callback that reports when the user changes the selection
+/// (including the cursor location).  ‡Ä‡Ó  ‡İ‡õ   ‡ı€©ˆRL/// Signature for the callback that reports the app private command results.  ˆ|ˆ„  ˆ‹ˆ¡   ˆ¨_‰”€ã/// Signature for a widget builder that builds a context menu for the given
+/// [EditableTextState].
+///
+/// See also:
+///
+///  * [SelectableRegionContextMenuBuilder], which performs the same role for
+///    [SelectableRegion].  ‰È‰Ö  ‰à#‰ó   Š‘UŠ™   ŠÄ   ŠÒ   ŠØ     ‹©D‹¸ ‹Ò‹Ú‹ì‹ç‹Û‹éŒb0Œl Œ‘Œ•GB€™/// The default mime types to be used when allowedMimeTypes is not provided.
+///
+/// The default value supports inserting images of any supported format.nÛfmgrŸ¯¾Î  –{ <€†€¤€¥€º€Ö€ı€şQ{ºã‚‚4‚5‚L‚d‚ˆ‚‚´‚Í‚õƒ
+ƒ1ƒ_ƒ|ƒ—ƒ¶ƒÏƒì„„ „D„e„ƒ„¢„¼„Ş„÷……,…@…d…‚…°…Ï…ë…ÿ†††É†Ê†â‡ ‡‡‡n‡“‡ü‡ıˆJˆ§ˆ¨ˆô‰‰‰‰#‰q‰Œ‰Æ‰ŞŠŠŠ	ŠVŠ‘ŠçŠè‹/‹~‹©‹ï‹ğŒ;ŒbŒ”Œ•ŒâŒæ/p­¼ÌÛŞß"‰¸ÎÏÛX\hÃø1r–šœ×‘‘‘L‘m‘n‘‘§‘Æ‘ß‘ô’’1’[’s’y’}’~’Š’Ä’×“$“*“L“P“R“S“€“„“Ã””a”¯”¼”À••M•Q•¢•ï–3–7–…–Î——l—µ˜˜L˜‹˜Ğ˜Ô™!™C™G™•™ß™óš?šŠš®š²›››"›0›4›…›¬›öœ(œÖSY¦´Ş12Œ’ÖöŸ1Ÿ?Ÿ‘Ÿá 2 \ e “ ” Â ã¡4¡‚¡Ï¢¢¢P¢œ¢é££-£I£^£š£¼£Ã£Ç£È£Ô£ı¤	¤N¤Ÿ¤ñ¥¥ ¥<¥@¥A¥u¥{¥Ì¦¦x¦Ï§ §p§¼¨¨¨=¨n¨t¨u¨Ş© ©5©I©e©¥©·©ØªªªZªcªjªnªoª”ªšªê««:«‹«Ù¬&¬d¬j¬§¬î­;­b­h­¶­ã®®G®Š®®³¯¯$¯C¯‘¯•¯–¯¶¯¼°°9°?°°Ş±/±m±~±Ñ±Õ±Ö²²²\²§²µ²»³³Z³«³é´´;´?´@´„´ÂµµµµUµ˜µõµùµûµü¶*¶.¶|¶É¶İ¶á·5·ˆ·”·¡·È·ÿ¸¸¸Q¸W¸š¸©¸Ò¹¹¹(¹?¹U¹m¹‰¹¹¹Ïººº6º<ºUºhºiº–ºœºîºô»»» »O»U»©»¯»È»Ü»İ¼¼¼0¼H¼J¼K¼™¼¼ì½9½\½`½n½r½¥½Ë¾¾¾l¾¾…¾Á¿
+¿,¿Q¿¿¼¿½À @À @6À @<À @À @”À @ªÀ @°À @ıÀ AÀ AÀ A~À AÀ A–À A¦À A¬À AöÀ B7À B8À B‰À BÙÀ BÿÀ CÀ CUÀ C€À C†À CÕÀ D!À D7À D=À DgÀ DmÀ DƒÀ DÑÀ D×À E?À EQÀ EWÀ EgÀ EmÀ E·À EÌÀ EóÀ EõÀ EöÀ F8À FJÀ FtÀ FŸÀ FçÀ GÀ G/À GSÀ GwÀ G›À G¿À GãÀ HÀ H+À HOÀ HtÀ HyÀ HzÀ H»À HĞÀ HæÀ HèÀ HéÀ I À IƒÀ IÆÀ IëÀ JÀ J0À JlÀ J©À JÃÀ JÏÀ JÙÀ JîÀ K,À K-À KIÀ KJÀ KnÀ KoÀ K{À KšÀ K›À K§À KÚÀ KÛÀ L'À LEÀ LFÀ LRÀ LlÀ L–À L—À LæÀ M0À MTÀ MiÀ MÀ M·À NÀ N#À N:À N_À NlÀ N”À N­À N³À N´À NıÀ OKÀ OtÀ O¨À OâÀ P À PÀ PÀ P/À P5À P6À P\À PÀ P‘À P“À P”À P²À P¶À QÀ QNÀ Q\À Q`À QªÀ QõÀ R/À R3À RNÀ RRÀ R¢À RóÀ S=À SAÀ S†À SŠÀ SÚÀ T%À T)À TlÀ TpÀ T…À T‰À TÔÀ U#À UBÀ UFÀ U”À UÛÀ V&À VtÀ VÁÀ WÀ WZÀ W©À WÏÀ WÓÀ X
+À XÀ XÀ XpÀ XŒÀ XÀ XÜÀ Y)À YTÀ YXÀ Y™À YÀ YêÀ Z,À Z0À ZyÀ ZÈÀ [À [À [À [mÀ [½À [áÀ [åÀ \À \#À \oÀ \¼À ] À ]PÀ ]—À ]¹À ]½À ^À ^TÀ ^£À ^ÏÀ ^ÓÀ _À _À `À `¬À aWÀ b2À c(À c,À cƒÀ c‡À dqÀ e[À f\À g[À h À iŸÀ jÊÀ kõÀ lÁÀ lÅÀ lòÀ löÀ màÀ nÊÀ oˆÀ p7À q~À r'À rîÀ sµÀ tbÀ tŸÀ t£À t¹À t½À u$À u‹À v&À vñÀ wŸÀ xÀ x¼À xÀÀ xßÀ xãÀ y2À yÀ yªÀ y®À yşÀ zMÀ z›À zÆÀ zÊÀ {	À {4À {8À {‡À {ÒÀ {ÖÀ |À |jÀ |À |ÇÀ |ÚÀ |ŞÀ }À }LÀ }PÀ }‹À }À }ÙÀ ~À ~:À ~>À ~„À ~ÑÀ À fÀ ±À ùÀ ıÀ €	À €+À €KÀ €˜À € À €¦À €®À €²À €ÅÀ €ÉÀ €×À €ÛÀ *À hÀ ”À ¾À ÄÀ ‚À ‚bÀ ‚¢À ‚¨À ‚÷À ƒHÀ ƒ…À ƒĞÀ ƒÖÀ „%À „YÀ „jÀ „yÀ „—À „´À „ÏÀ „òÀ …À …-À …SÀ …yÀ …œÀ …µÀ …ÑÀ …ğÀ †À †?À †WÀ †hÀ †yÀ †šÀ ‡	À ‡EÀ ‡KÀ ‡eÀ ‡zÀ ‡‘À ‡¤À ‡¾À ‡ÙÀ ‡öÀ ˆ'À ˆCÀ ˆYÀ ˆ€À ˆ™À ˆµÀ ˆÖÀ ˆğÀ ‰'À ‰;À ‰WÀ ‰mÀ ‰‹À ‰¨À ‰ÊÀ ‰áÀ ŠÀ Š&À ŠOÀ ŠkÀ Š‚À Š™À ŠÁÀ ŠØÀ ŠÿÀ ‹8À ‹oÀ ‹¤À ‹ÔÀ Œ
+À Œ0À ŒKÀ ŒcÀ Œ‰À ŒšÀ ŒÅÀ  À À *À UÀ nÀ •À ­À ÆÀ çÀ À >À [À }À ÄÀ İÀ À |À ìÀ À ,À yÀ ­À ·À ÆÀ ‘À ‘HÀ ‘RÀ ‘¨À ’À ’•À ’­À ’ÈÀ “À “:À “dÀ “’À “½À “åÀ ”	À ”!À ”<À ”kÀ ”–À ”¾À ”áÀ ”øÀ •&À •QÀ •tÀ •–À •¾À •âÀ •üÀ –À –8À –‰À –ÈÀ —3À —=À —^À —ÊÀ —ñÀ ˜À ˜TÀ ˜¥À ˜´À ˜ÒÀ ˜ÿÀ ™ À ™&À ™PÀ ™QÀ ™ˆÀ ™¥À ™¦À ™èÀ š*À š0À šWÀ š]À šÀ š¥À šÈÀ šÉÀ ›À ›GÀ ›MÀ ›–À ›âÀ œ2À œEÀ œKÀ œdÀ œyÀ œ“À œ”À œ¾À œîÀ œïÀ *À QÀ RÀ ŠÀ ±À ·À óÀ >À DÀ ]À rÀ ‰À ŠÀ ØÀ ŞÀ Ÿ,À Ÿ]À ŸcÀ Ÿ{À ŸÀ Ÿ‘À Ÿ—À ŸàÀ ŸøÀ ŸùÀ  !À  'À  wÀ  ÆÀ ¡À ¡;À ¡bÀ ¡cÀ ¡ŒÀ ¡’À ¡ŞÀ ¢.À ¢UÀ ¢[À ¢kÀ ¢qÀ ¢µÀ ¢ØÀ ¢ÙÀ £À £1À £7À £‰À £À £¤À £´À £ºÀ ¤À ¤,À ¤-À ¤hÀ ¤À ¤–À ¤®À ¤ÃÀ ¤İÀ ¤ŞÀ ¥%À ¥NÀ ¥OÀ ¥–À ¥¿À ¥ÀÀ ¦	À ¦)À ¦*À ¦]À ¦vÀ ¦wÀ ¦³À ¦¹À §À §0À §1À §kÀ §ŸÀ §¥À §ìÀ ¨/À ¨sÀ ¨¾À ©	À ©À ©[À ©¤À ©ğÀ ©ÿÀ ªÀ ªPÀ ª“À ª™À «À «VÀ «kÀ «qÀ «ÆÀ ¬À ¬XÀ ¬vÀ ¬•À ¬ÛÀ ¬áÀ ­À ­À ­:À ­;À ­tÀ ­§À ­­À ­ÒÀ ­çÀ ®À ®À ®BÀ ®hÀ ®nÀ ®³À ®ÚÀ ®àÀ ¯.À ¯{À ¯ÉÀ °À °bÀ °rÀ °xÀ °°À °ÅÀ °ëÀ °ìÀ ±.À ±uÀ ±À ±•À ±ßÀ ²À ²À ²GÀ ²MÀ ²]À ²cÀ ²µÀ ²»À ²ĞÀ ²ÿÀ ³ À ³@À ³xÀ ³~À ³ÅÀ ´À ´À ´UÀ ´mÀ ´nÀ ´­À ´óÀ µÀ µÀ µMÀ µSÀ µ¤À µÃÀ µÉÀ ¶À ¶[À ¶pÀ ¶À ¶À ·À ·EÀ ·IÀ ·jÀ ·kÀ ·¢À ·ÂÀ ·ÃÀ ·ôÀ ¸À ¸À ¸NÀ ¸TÀ ¸•À ¸åÀ ¹>À ¹LÀ ¹RÀ ¹À ¹•À ¹ÚÀ ºÀ ºÀ ºXÀ ºƒÀ º‰À ºÎÀ ºóÀ ºôÀ »,À »zÀ »€À »ĞÀ ¼À ¼	À ¼SÀ ¼oÀ ¼uÀ ¼ÃÀ ½
+À ½[À ½ƒÀ ½‰À ½ÚÀ ¾+À ¾|À ¾¸À ¾¾À ¿À ¿ZÀ ¿ŠÀ ¿À ¿ÜÀ ¿êÀ ÀÀ ÀÀ ÀÀ ÀaÀ À±À ÀòÀ Á À Á&À Á0À Á6À ÁÀ ÁÂÀ ÁĞÀ ÁóÀ ÁıÀ ÂÀ ÂRÀ ÂÀ ÂÀ Â½À ÂÇÀ ÂÍÀ ÂİÀ ÂãÀ Ã(À Ã=À ÃÀ Ã£À ÃºÀ Ã»À ÃóÀ ÄCÀ ÄIÀ Ä™À ÄÌÀ ÄÒÀ Å$À ÅvÀ Å|À ÅÒÀ ÅØÀ Æ)À ÆtÀ Æ†À ÆŒÀ ÆİÀ Ç,À ÇLÀ ÇRÀ Ç¬À ÇıÀ ÈÀ ÈÀ ÈhÀ ÈŒÀ ÈšÀ È·À ÈÁÀ ÈÇÀ ÉÀ ÉfÀ ÉÀ ÉÀ É¼À ÉÆÀ ÉÌÀ ÉäÀ ÉêÀ ÉúÀ Ê À ÊMÀ Ê˜À Ê´À ÊÉÀ ËÀ Ë/À ËFÀ ËGÀ Ë~À ËÃÀ ËÉÀ ÌÀ ÌLÀ ÌRÀ ÌÀ ÌÂÀ ÌÈÀ ÌáÀ ÌçÀ Í8À ÍÀ Í…À Í¸À ÍÆÀ ÍÜÀ ÎÀ ÎÀ Î'À Î<À ÎRÀ ÎSÀ ÎŒÀ ÎÙÀ ÎèÀ ÎîÀ Ï>À ÏÀ Ï”À Ï­À ÏÂÀ ĞÀ Ğ-À ĞEÀ ĞFÀ ĞzÀ Ğ€À ĞÎÀ ĞíÀ ĞóÀ Ñ4À Ñ„À ÑÏÀ ÑîÀ ÑïÀ Ò0À ÒqÀ ÒwÀ ÒÇÀ ÓÀ Ó\À Ó©À ÓìÀ ÔÀ ÔÀ ÔÀ ÔÀ ÔnÀ ÔºÀ ÔÍÀ ÕÀ ÕlÀ Õ¢À ÕÔÀ ÕÕÀ ÖÀ ÖIÀ ÖOÀ ÖÀ ÖºÀ ÖÏÀ ÖóÀ ÖôÀ ×3À ×]À ×^À ×—À ×ØÀ ØÀ ØÀ ØYÀ Ø À ØäÀ ÙÀ ÙÀ ÙRÀ Ù—À ÙÂÀ ÙÈÀ ÚÀ ÚhÀ Ú·À Ú½À ÚÓÀ Û!À ÛhÀ ÛnÀ ÛÍÀ ÛßÀ ÛôÀ ÛúÀ Ü0À ÜiÀ ÜŒÀ ÜÛÀ İ'À İrÀ İ À İ¦À İéÀ Ş.À ŞvÀ ŞÆÀ ßÀ ß<À ßQÀ ßWÀ ßgÀ ßmÀ ß­À ßóÀ à6À àvÀ àÄÀ áÀ á0À á1À árÀ áÅÀ áäÀ áêÀ â7À â_À âeÀ â´À ãÀ ã À ã&À ãvÀ ãÅÀ äÀ äDÀ äJÀ äœÀ ä±À äÚÀ äÛÀ åÀ åfÀ åsÀ åyÀ åÃÀ æÀ æWÀ æ]À ænÀ æ½À æÃÀ æÑÀ çÀ ç!À ç'À çuÀ ç¿À èÀ è5À èJÀ èuÀ èvÀ è¹À é À éÀ éQÀ éaÀ égÀ é¶À éíÀ éóÀ êÀ ê·À ëÀ ë7À ëÅÀ ìÀ ìCÀ ìXÀ ìÀ ì‘À ìÓÀ í"À í3À íHÀ í~À íÀ íÇÀ íöÀ í÷À î3À î‚À î¨À î®À îÿÀ ïNÀ ï›À ïéÀ ğ9À ğkÀ ğqÀ ğÂÀ ñÀ ñYÀ ñ§À ñ÷À òÀ òÀ òjÀ òµÀ óÀ óAÀ óVÀ ó\À órÀ ó¾À ôÀ ôKÀ ôQÀ ô¡À ôÌÀ ôÒÀ õ+À õ=À õCÀ õSÀ õYÀ õ–À õ¿À õÀÀ õÿÀ ö9À ö?À öÀ öŞÀ ÷)À ÷zÀ ÷«À ÷±À ÷ÁÀ ÷ÇÀ øÀ øXÀ ømÀ ø À ø¡À øíÀ øûÀ ùÀ ùIÀ ùOÀ ù À ùğÀ ú?À ú[À ú}À ú~À úÇÀ û
+À ûÀ ûXÀ û§À ûíÀ ûóÀ üBÀ ü“À üãÀ ıÀ ıÀ ı`À ı•À ı›À ıÄÀ ıÊÀ ıÚÀ ıàÀ ş(À ş{À şœÀ şÁÀ şÂÀ şıÀ ÿ!À ÿ'À ÿ>À ÿDÀ ÿŒÀ ÿÙÀ %À uÀ •À ªÀ ÆÀ ÇÀÀ&À,ÀÀ”À²À³ÀïÀ&À,ÀXÀmÀ‹ÀŒÀÑÀÀ>ÀDÀ”À¸ÀÍÀñÀòÀ.ÀLÀMÀ‘À´ÀµÀÿÀÀDÀtÀuÀ¿ÀÅÀÀ1À2ÀXÀ^À‘À—À½ÀäÀåÀ"À…À‹ÀïÀ#À‘À	À	À	5À	JÀ	lÀ	mÀ	·À	ûÀ
+À
+À
+\À
+šÀ
+ÙÀ
+ßÀ"ÀhÀ‘À—À¯ÀÄÀíÀîÀ;ÀŠÀ¢À¨ÀøÀÀ"ÀcÀ“À”ÀĞÀıÀşÀ>À‡ÀÀÈÀÎÀñÀÀ2À3ÀpÀ¶À¼ÀÀÀ,ÀAÀGÀ’ÀİÀôÀÀÀZÀÀ¤ÀÃÀÉÀáÀöÀÀÀUÀÀ‡À¿ÀèÀıÀ8À9ÀvÀÈÀÚÀàÀ/À~ÀÁÀÀ@ÀFÀ”À½ÀÃÀäÀêÀÀÀ`À”ÀšÀ¸À:ÀŒÀáÀ7À‡ÀÄÀÊÀíÀóÀCÀ”ÀàÀÀÀNÀTÀ¢ÀìÀòÀ?ÀÀÛÀ)ÀwÀÇÀÍÀÀhÀ¶ÀÀWÀhÀnÀ¹ÀÀOÀUÀ¡À¼ÀÂÀ À ^À ¬À úÀ!@À!®À!´À!ÉÀ"À"6À"7À"†À"ŒÀ"ÓÀ#À#?À#@À#vÀ#|À#ŸÀ#ºÀ#»À#ıÀ$À$À$dÀ$©À$¯À$úÀ%FÀ%LÀ%”À%ÙÀ&À&À&)À&/À&|À&À&­À&®À&æÀ'1À'7À'„À'ÈÀ'İÀ'ãÀ((À(wÀ(»À(ÓÀ(ÙÀ)#À)rÀ)€À)¨À)©À)şÀ**À*+À*xÀ*ÇÀ*ÕÀ*ÛÀ+*À+}À+­À+³À,À,NÀ,ŒÀ,’À,¨À,®À,ûÀ-À-À-|À-À-”À-ÙÀ.À.mÀ.”À.šÀ.çÀ/7À/UÀ/jÀ/°À/±À/óÀ07À0=À0À0ØÀ0ŞÀ1,À1?À1EÀ1•À1äÀ21À2@À2FÀ2\À2¬À2óÀ2ùÀ3]À3oÀ3uÀ3‹À3ÛÀ3øÀ3şÀ4bÀ4tÀ4zÀ4ŠÀ4ÜÀ5(À5;À5‰À5ÁÀ5åÀ64À6{À6À6–À6ÌÀ7À7	À7PÀ7–À7œÀ7ëÀ8'À8-À8wÀ8ÇÀ9À9À9eÀ9zÀ9´À9µÀ9ÿÀ:À:4À::À:†À:ÁÀ:ÂÀ;!À;"À;nÀ;­À;³À<À<À<!À<1À<7À<{À<¹À=À=IÀ=šÀ=ÏÀ>À>VÀ>ŸÀ>İÀ?À?;À?cÀ?À?»À?æÀ@À@>À@pÀ@wÀ@ËÀ@ÌÀ@úÀACÀA’ÀAßÀAïÀAğÀB7ÀB”ÀB•ÀBÌÀBçÀCÀC&ÀCSÀC`ÀC|ÀCÀC¼ÀCêÀC÷ÀDÀD5ÀDUÀD„ÀD‘ÀDÊÀDëÀEÀE:ÀEGÀEhÀE‰ÀE­ÀEàÀEíÀFÀF,ÀFMÀF}ÀFŠÀF«ÀFÌÀFğÀG#ÀG0ÀGjÀG‹ÀG«ÀGÚÀGçÀGñÀG÷ÀGøÀH#ÀHFÀHxÀHœÀHÏÀHÙÀHßÀHàÀHıÀIÀIÀIKÀIwÀI¥ÀIÁÀIÈÀJÀJMÀJSÀJTÀJŠÀJ‹ÀJÜÀK/ÀKÀKÕÀKÜÀL-ÀL~ÀLµÀLÈÀLïÀMÀM3ÀMŠÀMÆÀN#ÀN`ÀNœÀNòÀO0ÀOkÀO­ÀOçÀPDÀP¡ÀPşÀQ3ÀQÀQíÀR)ÀReÀRÂÀS ÀS]ÀS–ÀSÑÀTÀTqÀTÎÀUÀUkÀU¤ÀU±ÀU²ÀV ÀV&ÀVGÀVSÀVxÀVÀVÀÀVåÀVöÀVşÀWÀWÀWÀWDÀWJÀWKÀWÀWİÀX$ÀXdÀX›ÀXÕÀYÀYLÀY„ÀYºÀZÀZGÀZÀZÖÀ[À[SÀ[’À[ËÀ\À\KÀ\„À\¼À\ñÀ]6À]gÀ]›À]ÉÀ]üÀ^/À^kÀ^£À^ØÀ_À_<À_qÀ_§À_İÀ`À`FÀ`À`´À`äÀa%ÀanÀaºÀañÀb8ÀbÀbÆÀcÀcSÀc™ÀcßÀdÀdYÀdœÀdâÀe#ÀegÀe§ÀeíÀf3ÀfvÀfÎÀgÀg9ÀglÀgsÀgtÀg·Àg»Àg¼ÀgÈÀhÀhÀhÀhTÀhÀhÙÀi%Ài…ÀißÀj>ÀjåÀkŒÀk÷Àl"Àl{ÀlàÀm7ÀmšÀmâÀn-Àn…ÀnáÀoKÀoÀÀp,Àp›ÀqÀq}Àr Àr}ÀróÀs}ÀtÀtƒÀt…Àt†Àt¦ÀuÀu¦ÀuàÀv)Àv<ÀvdÀvhÀv¥Àw	Àw
+Àw]Àw‹ÀwŒÀw»ÀwôÀxEÀx–ÀxãÀy'ÀyMÀypÀyqÀy§Ày­Ày½ÀzÀzIÀz~ÀzÀz¬Àz÷ÀzøÀ{#À{$À{TÀ{ƒÀ{şÀ{ÿÀ|2À|iÀ|À|ŸÀ|½À|¾À|ëÀ|÷À};À}<À}ŒÀ}À}ÆÀ}ßÀ}àÀ~'À~-À~rÀ~®À~´À~ÄÀÀ'ÀzÀ{À¨À®ÀÿÀ€À€aÀ€bÀ€ À€¦À€íÀ<ÀŒÀ´ÀµÀ‚?À‚@À‚—À‚åÀ‚æÀƒ/Àƒ|Àƒ}ÀƒÌÀƒÚÀƒàÀ„.À„{À„À„ÌÀ…À…À…;À…`À…‚À…¼À†À†À†OÀ†ŒÀ†ÜÀ†İÀ‡À‡À‡6À‡7À‡CÀ‡zÀ‡{À‡–ÀˆÀˆHÀˆLÀˆMÀˆYÀˆqÀˆµÀ‰À‰À‰*À‰IÀ‰}À‰À‰‚À‰À‰§À‰ëÀŠ+ÀŠ1ÀŠPÀŠ„ÀŠˆÀŠ‰ÀŠ•ÀŠ¯ÀŠóÀ‹1À‹7À‹SÀ‹”À‹˜À‹™À‹¥À‹ÃÀŒÀŒ‡ÀŒÀŒÀŒ¹ÀŒÕÀŒûÀÀÀÀ;À\ÀrÀ‘ÀÁÀøÀÀ>À_À‚À²ÀèÀ;ÀAÀEÀFÀRÀmÀ¤À¸À¾ÀİÀÀfÀjÀkÀwÀ•ÀÌÀàÀæÀçÀ‘À‘9À‘À‘“À‘”À‘ À‘ºÀ‘ßÀ’À’!À’DÀ’{À’ÕÀ’öÀ“À“:À“]À“sÀ“yÀ“}À“~À“ŠÀ“¬À“õÀ”À”0À”`À”dÀ”eÀ”ŠÀ”œÀ”æÀ”îÀ”òÀ”óÀ•À•.À•|À•„À•ˆÀ•‰À•ÈÀ–À–7À–mÀ–sÀ–”À–˜À–™À–ÆÀ–ÒÀ—À—FÀ—}À—‹À—‘À—ÀÀ˜À˜:À˜rÀ˜ŒÀ˜À˜´À˜ÕÀ˜øÀ™À™@À™QÀ™vÀ™›À™áÀšÀš%ÀšPÀšªÀš¹ÀšäÀšñÀšùÀšÿÀ›À›!À›"À›NÀ›ZÀ›À›¾À›ÌÀ›ÒÀœÀœAÀœbÀœpÀœvÀœ¾ÀÀ=À‡ÀÂÀÙÀÀÀ\ÀqÀwÀ•À™ÀšÀ³ÀöÀúÀûÀŸÀŸ*ÀŸhÀŸ€ÀŸÀŸ”ÀŸÄÀŸÿÀ NÀ fÀ tÀ zÀ À ¡À ¢À àÀ øÀ¡À¡À¡À¡ZÀ¡qÀ¡±À¢À¢^À¢¤À¢«À¢¬À¢ÌÀ£À£À£À£MÀ£—À£ÒÀ£éÀ¤%À¤/À¤lÀ¤À¤‡À¤‹À¤ŒÀ¤°À¤¼À¤ìÀ¥À¥gÀ¥~À¥ŒÀ¥’À¥²À¥ÓÀ¦0À¦9À¦FÀ¦MÀ¦NÀ¦€À¦§À¦ÌÀ¦íÀ§À§#À§FÀ§iÀ§À§§À§¯À§ÖÀ§ûÀ¨ À¨CÀ¨hÀ¨¤À¨ÇÀ¨èÀ¨ùÀ©À©À©À©À©1À©dÀ©jÀ©œÀ©¢À©àÀª$ÀªEÀªFÀªœÀªÊÀªØÀªŞÀ«À«%À«1À«8À«<À«=À«qÀ«§À«­À«ßÀ«åÀ¬!À¬JÀ¬”À¬µÀ¬ÓÀ¬áÀ¬çÀ¬èÀ­>À­YÀ­‹À­§À­µÀ­¾À­ÄÀ­ÈÀ­ÉÀ®À®9À®?À®}À®ƒÀ®¿À®èÀ¯+À¯LÀ¯jÀ¯xÀ¯~À¯À¯ÕÀ¯ğÀ°"À°:À°HÀ°QÀ°WÀ°[À°\À°–À°·À°ÅÀ°ËÀ°êÀ±À±À±GÀ±\À±bÀ±fÀ±gÀ±´À±ÉÀ±ÏÀ±ßÀ±åÀ²-À²vÀ²±À²öÀ³À³hÀ³¶À³åÀ³øÀ³şÀ³ÿÀ´TÀ´kÀ´œÀ´²À´³À´ÙÀµÀµ\Àµ¢Àµ£ÀµñÀ¶À¶#À¶UÀ¶xÀ¶€À¶À¶¯À¶·À¶½À¶ÎÀ¶ÒÀ¶ÓÀ·À·!À·eÀ·˜À¸À¸TÀ¸ÙÀ¹À¹ÚÀº'ÀºrÀº¥Àº·À»	À»-À»NÀ»uÀ»ÆÀ¼À¼\À¼¬À¼åÀ¼öÀ½À½HÀ½WÀ½dÀ½nÀ½ƒÀ½À½ÆÀ½ÌÀ½ÍÀ¾4À¾8À¾9À¾„À¾“À¾ĞÀ¿	À¿À¿mÀ¿®À¿àÀ¿óÀ¿ùÀÀÀÀIÀÀhÀÀ‚ÀÀ»ÀÀÈÀÀóÀÀşÀÁ,ÀÁKÀÁeÀÁŸÀÁ¬ÀÁØÀÁãÀÂÀÂ2ÀÂLÀÂ‚ÀÂÀÂ¼ÀÂÇÀÂÿÀÃÀÃ8ÀÃnÀÃ{ÀÃ¬ÀÃ·ÀÃ¾ÀÃÂÀÃÃÀÄÀÄ.ÀÄSÀÄ“ÀÄ”ÀÄÙÀÅ#ÀÅsÀÅ»ÀÆ
+ÀÆRÀÆ{ÀÆ­ÀÆİÀÇÀÇ_ÀÇ{ÀÇ®ÀÇßÀÇèÀÇîÀÇïÀÈ4ÀÈ‹ÀÈãÀÉÀÉ;ÀÉCÀÉ˜ÀÉîÀÊ'ÀÊAÀÊIÀÊcÀÊ²ÀÊıÀËÀËÀË	ÀËCÀËÀË–ÀËœÀË¬ÀË²ÀÌÀÌ0ÀÌgÀÌ¦ÀÌĞÀÍÀÍÀÍ$ÀÍ%ÀÍ`ÀÍ ÀÍÌÀÎÀÎ>ÀÎ_ÀÎ‹ÀÎ³ÀÎÕÀÎÜÀÎàÀÎáÀÏ-ÀÏiÀÏoÀÏÀÏ…ÀÏÓÀĞÀĞlÀĞ®ÀĞıÀÑÀÑdÀÑ™ÀÑÍÀÒÀÒiÀÒ¤ÀÒöÀÓ$ÀÓ>ÀÓ}ÀÓÀÓ§ÀÓåÀÓ÷ÀÔÀÔNÀÔ`ÀÔ„ÀÔ¿ÀÔÑÀÔïÀÕ0ÀÕBÀÕfÀÕ­ÀÕ¿ÀÕÛÀÖÀÖ-ÀÖYÀÖÀÖ°ÀÖáÀÖåÀÖæÀ×+À×zÀ×ºÀØÀØ!ÀØ'ÀØ(ÀØjÀØ—ÀØ´ÀØÒÀÙ%ÀÙNÀÙÏÀÚ(ÀÚnÀÚ¦ÀÚîÀÛÀÛ ÀÛ.ÀÛ:ÀÛEÀÛOÀÛUÀÛmÀÛqÀÛrÀÛˆÀÛ‰ÀÛ•ÀÛªÀÛÁÀÜÀÜCÀÜ‚ÀÜ¹ÀÜïÀİ(Àİ†Àİ¥Àİ©ÀİªÀİûÀŞ ÀŞQÀŞrÀŞÀÀŞÄÀŞÅÀßÀß7ÀßVÀßWÀßcÀß„Àß§Àß¨ÀßÔÀàÀà7Àà8Àà‰Àà½ÀàòÀá"ÀácÀáiÀájÀá˜Àá´ÀáïÀâ Àâ@Àâ~ÀâˆÀâ¸Àâ¾Àâ¿ÀãÀã=ÀãlÀã–Àã·ÀãÔÀäÀä-Àä5Àä;Àä<Àä¦Àä´ÀäºÀä»ÀåÀåMÀåqÀå—Àå¥Àå«ÀåÖÀåüÀæ5ÀæQÀæYÀæ–Àæ­ÀæµÀæ»Àæ¿ÀæÀÀæÌÀæıÀç#ÀçXÀçŸÀçàÀèÀèÀèZÀèƒÀè‰ÀèÎÀèÏÀéÀéiÀéªÀé°Àé±ÀéäÀê#Àê\ÀêuÀê{Àê|Àê½Àë!ÀëYÀë_Àë`Àë‰Àë°ÀëâÀì6ÀìtÀì¸ÀìØÀíÀíÀíÀíBÀíuÀíÒÀíÚÀíàÀíáÀî Àî9Àî–ÀîÀî¤Àî¥ÀîĞÀï!Àï@ÀïnÀï»ÀïÕÀïöÀğÀğGÀğlÀğ•Àğ¾ÀğåÀğğÀğøÀğşÀğÿÀñ4Àñ]ÀñcÀñµÀñÌÀò	ÀòHÀòhÀònÀòrÀòsÀòÀò’Àò¼ÀòïÀó1Àó`Àó‹Àó°ÀóÒÀóîÀôÀô<ÀômÀôÀô­ÀôçÀõÀõbÀõ‡ÀõÆÀõåÀöÀöNÀöcÀö±ÀöµÀö¶ÀöÛÀöÜÀ÷'À÷-À÷yÀ÷½ÀøÀø1Àø7Àø‚ÀøµÀøëÀøìÀøøÀù2Àù3Àù?ÀùsÀùÀÀúÀúYÀúZÀú¨ÀúÉÀúòÀû ÀûÀûÀû3Àû›Àû¡Àû¢Àû½ÀüÀü(ÀücÀüiÀü—Àü˜Àü³ÀüÿÀı9Àı{Àı‰ÀıÀıÀıÜÀşÀş(ÀşgÀş—ÀşÆÀÿÀÿDÀÿSÀÿƒÀÿ‹ÀÿÂÀÿÏÀÿöÀ EÀ ‹À åÀÀ	À/À0ÀkÀ¥ÀÀ_À`ÀÃÀÀ^ÀdÀeÀœÀìÀÀ6À<À=ÀŒÀÚÀ'ÀEÀzÀ~ÀÀºÀÀ-ÀrÀ«ÀèÀìÀíÀùÀ(À>ÀbÀ­ÀõÀ	À&À_ÀiÀŠÀ©ÀÊÀïÀ	À	3À	jÀ	•À	¿À	àÀ
+À
+#À
+KÀ
+–À
+ßÀÀÀ!À"À.ÀwÀ«À¯À°À¼ÀôÀ\À§À«À¬ÀöÀÀÀeÀrÀ•À–ÀàÀşÀÿÀ5ÀSÀTÀ¥ÀõÀ;À”À•À¡ÀİÀÀ,À\ÀwÀ¡ÀÜÀÀ6À@ÀwÀ¨ÀÛÀ,ÀNÀyÀzÀ¡ÀÑÀ÷À@ÀkÀÀÚÀëÀÀ™À÷ÀÀÀ0ÀÔÀÀeÀÀÚÀ=À>À¡À,ÀŒÀ´À×ÀôÀ,ÀsÀªÀ"À,À2À6À7À]ÀÚÀÀyÀÂÀÀWÀ¡ÀÁÀÂÀÀaÀ°ÀÿÀCÀDÀÀÖÀÀ`À“À À …À À ­À ÍÀ îÀ!À!À!bÀ!ÂÀ""À"#À"°À"¶À"ºÀ"»À"èÀ#9À#„À#°À#¼À#áÀ$À$:À$ZÀ$rÀ$À$äÀ$ğÀ$øÀ%À%CÀ%“À%ÔÀ%şÀ&À&3À&XÀ&„À&©À&ÌÀ&óÀ'À'GÀ'lÀ'’À'ÀÀ'èÀ(À(5À(_À(ˆÀ(¶À(ÀÀ(ÈÀ(ÎÀ(ÏÀ)À)0À)>À)DÀ)EÀ)ˆÀ)’À)²À)ÓÀ*À*%À*;À*WÀ*£À*­À*³À*´À+À+SÀ+ À+ÍÀ,	À,À,aÀ,±À,ÿÀ-À-&À-JÀ-PÀ-TÀ-UÀ-pÀ-qÀ-ÂÀ.À.À.WÀ.¨À.ÄÀ.ŞÀ.øÀ.üÀ.ıÀ/MÀ/šÀ/ À/íÀ/ùÀ0À0+À07À0SÀ0¢À0©À0ÒÀ0ÖÀ0×À1À1;À1IÀ1OÀ1À1¹À1ÇÀ1ÍÀ2À27À2;À2<À2vÀ2À2ÂÀ2ÆÀ2ÇÀ2úÀ3+À3,À3yÀ3ÈÀ4À4+À40À4|À4ÍÀ5À5,À5bÀ5 À5ëÀ5ñÀ5òÀ6%À6HÀ6eÀ6fÀ6À6¹À6åÀ7À7`À7¡À7éÀ8À8À8kÀ8¼À8òÀ9#À9@À9[À9¦À9¯À9°À9ôÀ:/À:ˆÀ:¯À:µÀ:¶À;À;À;DÀ;wÀ;©À;ÛÀ;âÀ;ãÀ<+À<ˆÀ<ŒÀ<À<İÀ<ìÀ=XÀ=YÀ={À=µÀ=ÕÀ=şÀ>À>À>2À>dÀ>eÀ>´À>ùÀ?À?À?eÀ?²À@À@$À@pÀ@ÎÀA!ÀABÀAoÀA‹ÀAŸÀAÈÀAíÀBÀB?ÀBfÀBpÀB–ÀB¨ÀBÄÀCÀC>ÀCoÀCwÀC¬ÀC¹ÀCİÀCãÀCçÀCèÀDÀD0ÀDUÀDxÀD§ÀDÇÀDæÀDìÀDğÀDñÀE ÀE`ÀE~ÀE›ÀEÂÀEìÀEòÀEöÀE÷ÀF#ÀFIÀFpÀF~ÀF„ÀF¬ÀFßÀFãÀG.ÀG3ÀG€ÀGÍÀGüÀH"ÀHKÀHŒÀHšÀH ÀHÃÀHäÀIÀIÀIuÀIŞÀJ0ÀJZÀJ[ÀJmÀJ|ÀJÀJµÀJØÀJÿÀK&ÀKKÀKSÀKtÀK£ÀK§ÀK¨ÀK©ÀKµÀLÀL<ÀLVÀLpÀLvÀLzÀL{ÀL‡ÀL£ÀLÂÀLúÀMÀMLÀMnÀMtÀMxÀMyÀM½ÀN	ÀNÀNHÀNIÀN–ÀN«ÀNÉÀNğÀO-ÀO1ÀO2ÀORÀOzÀOºÀO¾ÀO¿ÀOøÀOşÀPLÀPšÀPèÀQ7ÀQVÀQqÀQ†ÀQ¤ÀQ±ÀQÍÀRAÀRGÀRKÀRLÀR€ÀR¥ÀR¼ÀRçÀRöÀSÀS>ÀSFÀSLÀSPÀSQÀSnÀS˜ÀS¶ÀSºÀS»ÀSîÀTHÀTÀT¸ÀTĞÀTåÀUÀU0ÀUcÀU’ÀU¶ÀUéÀVÀV;ÀVzÀV¯ÀV¾ÀVáÀWÀWÀW-ÀW:ÀWEÀW‚ÀW‰ÀWŠÀW§ÀW«ÀW¬ÀWÙÀX1ÀX€ÀXÎÀXñÀY6ÀYDÀYJÀYKÀYxÀYyÀY½ÀZÀZEÀZƒÀZ±ÀZÆÀZ×À[À[*À[WÀ[ƒÀ[®À[ÔÀ[şÀ\À\DÀ\]À\zÀ\„À\ŠÀ\ÛÀ\ÿÀ]À],À]SÀ]ŠÀ]™À]ÄÀ]ÌÀ^À^;À^AÀ^À^µÀ^íÀ^÷À_0À_QÀ_…À_£À_¹À_ÕÀ`'À`1À`7À`8À`ˆÀ`¿À`îÀa	ÀaÀaÀaÀaYÀa¨ÀaêÀaëÀbÀbÀb[Àb‚ÀbÀb–Àb¾Àc Àc+ÀcxÀcÃÀcğÀd>Àd_ÀdšÀdÈÀdØÀdàÀdáÀe%Àe&ÀetÀe®ÀeèÀf"ÀflÀf™ÀfÒÀfêÀgÀgÀg]ÀgyÀg¨ÀgÀÀgÍÀhÀh1ÀhgÀh€Àh‹Àh“Àh”ÀhÏÀhùÀhúÀi^Ài¬Ài­ÀiÌÀjÀj1Àj[ÀjjÀjÇÀkÀkbÀkˆÀk®ÀkÚÀkëÀl4Àl~ÀlˆÀlÀl‘Àl¬ÀlÑÀlğÀmÀmDÀmOÀmtÀm¬ÀmÙÀn ÀnÀnÀnQÀnvÀn®Àn¹ÀnÁÀnïÀnóÀnôÀoÀoÀo%ÀoAÀoUÀocÀoiÀo›ÀoÕÀpÀpGÀp}Àp¸ÀqÀqaÀq›Àq£Àq©ÀqÜÀqàÀqáÀrÀr(ÀrŒÀrÀr›ÀrÃÀsÀs"Às#ÀsYÀszÀs˜ÀsàÀsáÀtÀt_ÀtoÀtwÀtxÀt¸ÀtåÀuÀu:ÀuXÀunÀuŠÀuÍÀu×ÀuİÀuáÀuâÀvÀvÀv¯ÀvéÀwHÀw‘Àw’ÀwºÀxÀx_ÀxnÀx½ÀyÀy\Ày¬ÀyæÀyòÀz2ÀzCÀz¸ÀzÌÀzÍÀ{$À{NÀ{XÀ{{À{±À{ÑÀ{éÀ|À|OÀ|[À|cÀ|iÀ|jÀ|±À|²À|ÿÀ}@À}VÀ}jÀ}»À~À~YÀ~iÀ~…À~¡À~ÖÀÀDÀ”ÀšÀÆÀîÀúÀ€'À€JÀ€€À€ À€¸À€ÖÀÀ"À*À0ÀDÀHÀIÀÇÀìÀ‚À‚,À‚dÀ‚—À‚ÅÀ‚ÏÀ‚ğÀƒÀƒ6ÀƒYÀƒŒÀƒĞÀƒşÀ„MÀ„}À„‰À„“À„™À„À„À„¼À…1À…„À†À†À†À†À†À†ÛÀ‡À‡$À‡rÀ‡sÀ‡ÁÀˆÀˆ0ÀˆEÀˆ„Àˆ…Àˆ½ÀˆÒÀ‰À‰À‰>À‰^À‰_À‰|À‰íÀŠÀŠÀŠÀŠ;ÀŠIÀŠOÀŠkÀŠšÀŠËÀŠÙÀŠßÀ‹À‹oÀ‹|À‹ŞÀ‹äÀ‹èÀ‹éÀŒÀŒ.ÀŒ’ÀŒ½ÀŒÊÀŒùÀÀÀ!À"ÀJÀhÀ·ÀÎÀaÀnÀ±ÀÀÀ{ÀÀ…À†ÀÀÀïÀÀ$À>ÀfÀlÀpÀqÀœÀ¼ÀÖÀıÀ‘À‘À‘"À‘#À‘IÀ‘{À‘ÏÀ’!À’FÀ’˜À’ÜÀ“"À“cÀ“iÀ“’À“¹À“éÀ”9À”ZÀ”¡À”ğÀ”ôÀ”õÀ•À•?À•fÀ•–À•«À•ùÀ–*À–kÀ–‰À–ÂÀ–ÊÀ—À—?À—xÀ—€À—À—ÁÀ—ùÀ—ÿÀ˜À˜À˜À˜NÀ˜lÀ˜¯À˜èÀ™À™NÀ™^À™À™–À™ÀÀ™ÉÀ™õÀšIÀšÀš–Àš¬Àš°Àš±ÀšÚÀ›À›fÀ›…À›ÁÀ›ÏÀ›ÕÀ›êÀœÀœ9Àœ=Àœ>Àœ`ÀœšÀœ½ÀœèÀ+ÀsÀwÀxÀ»ÀÛÀéÀïÀÀ0ÀPÀ„À¯ÀãÀêÀîÀŸÀŸÀŸLÀŸÀŸ¬ÀŸ²ÀŸ³À À BÀ PÀ VÀ WÀ À ñÀ¡+À¡}À¡ÍÀ¡ÔÀ¡ÕÀ¢À¢0À¢SÀ¢xÀ¢ŸÀ£À£À£EÀ£nÀ£À£–À£—À£ÅÀ£åÀ¤1À¤mÀ¤{À¤À¤¦À¤§À¤àÀ¤ûÀ¥HÀ¥WÀ¥«À¥ğÀ¦À¦eÀ¦¬À¦ùÀ§À§À§BÀ§[À§˜À§çÀ¨"À¨OÀ¨`À¨jÀ¨³À¨àÀ©À©:À©ŠÀ©÷ÀªÀª	Àª,Àª2ÀªfÀªjÀªkÀª¶Àª»À«
+À«YÀ«‚À«‡À«¬À«ÔÀ¬À¬ À¬sÀ¬¹À¬ÚÀ­À­kÀ­ÄÀ­ÊÀ®À®	À®
+À®QÀ®VÀ®£À®ğÀ¯/À¯4À¯€À¯ÏÀ°À°QÀ°VÀ°À°£À°âÀ±À±#À±)À±}À±ÒÀ²À²	À²
+À²dÀ²eÀ²–À²œÀ²ëÀ³À³À³À³œÀ³ÏÀ³ĞÀ´À´À´'À´À´ÅÀµÀµDÀµpÀµ‰Àµ¤ÀµÛÀµáÀµâÀ¶2À¶À¶ÊÀ¶ïÀ·À·5À·^À·•À·À·«À·±À·²À·ïÀ·óÀ·ôÀ¸ À¸.À¸xÀ¸ÄÀ¸ÅÀ¸øÀ¹2À¹6À¹7À¹€À¹†À¹ÕÀºÀº%Àº<ÀºÀºİÀ»-À»xÀ»¹À»éÀ»ıÀ¼À¼À¼)À¼=À¼CÀ¼gÀ¼…À¼«À¼¼À¼ÀÀ¼ÁÀ¼ÍÀ¼ıÀ½À½?À½`À½ŸÀ½ÓÀ½ûÀ¾À¾À¾À¾3À¾eÀ¾ÈÀ¾ÉÀ¾öÀ¿À¿#À¿8À¿>À¿BÀ¿CÀ¿‘À¿¸À¿äÀÀ0ÀÀ~ÀÀ«ÀÀäÀÁ0ÀÁKÀÁkÀÁ†ÀÁ«ÀÁÒÀÂ1ÀÂ|ÀÂËÀÂßÀÂåÀÂæÀÂòÀÃ>ÀÃ~ÀÃÂÀÃ×ÀÃŞÀÃßÀÃöÀÄÀÄ@ÀÄjÀÄÀÄ´ÀÄÈÀÄÕÀÄàÀÄçÀÄøÀÄüÀÄıÀÅBÀÅjÀÅpÀÅ·ÀÅŞÀÅäÀÆ4ÀÆ\ÀÆŠÀÆ¯ÀÆ½ÀÆÃÀÆÄÀÆõÀÇ/ÀÇ<ÀÇtÀÇzÀÇ~ÀÇÀÇ«ÀÇÄÀÇéÀÇ÷ÀÇıÀÇşÀÈ/ÀÈYÀÈ_ÀÈcÀÈdÀÈ°ÀÈ»ÀÈÀÀÉÀÉQÀÉrÀÉsÀÉÀÉ©ÀÉÌÀÉÚÀÉàÀÉáÀÊÀÊÀÊ%ÀÊ&ÀÊ8ÀÊ‹ÀÊ“ÀÊ—ÀÊ˜ÀÊ¤ÀÊÅÀËÀËÀËÀËÀË-ÀËNÀËVÀËZÀË[ÀËgÀË•ÀËÖÀË×ÀËñÀÌ3ÀÌWÀÌ‡ÀÌÀÌ•ÀÌ™ÀÌšÀÌ¦ÀÌÛÀÌÜÀÌèÀÍÀÍuÀÍÃÀÍâÀÎ
+ÀÎ2ÀÎjÀÎtÀÎœÀÎÀÎÀÀÎæÀÏÀÏ.ÀÏUÀÏ„ÀÏ³ÀÏæÀĞ&ÀĞƒÀĞ¥ÀĞÄÀĞÍÀÑÀÑ7ÀÑkÀÑ¶ÀÑûÀÒÀÒXÀÒ_ÀÒcÀÒdÀÒpÀÒ¶ÀÒ·ÀÒãÀÓ	ÀÓ
+ÀÓÀÓPÀÓbÀÓ¥ÀÓ­ÀÓ±ÀÓ²ÀÓöÀÔÀÔ.ÀÔrÀÔŒÀÔİÀÔêÀÕÀÕDÀÕLÀÕZÀÕ^ÀÕ_ÀÕ¢ÀÕÅÀÕÚÀÖÀÖ7ÀÖ†ÀÖ“ÀÖ¶ÀÖëÀÖóÀ×À×À×À×KÀ×nÀ×ƒÀ×ÇÀ×âÀØ5ÀØuÀØ‚ÀØ§ÀØÙÀØáÀØïÀØóÀØôÀÙFÀÙ’ÀÙ¯ÀÚÀÚ6ÀÚXÀÚ¬ÀÚÿÀÛQÀÛŸÀÛæÀÜÀÜÀÜÀÜbÀÜ˜ÀÜÀÜêÀİ9Àİ‡ÀİÑÀŞ4ÀŞTÀŞoÀŞÀŞ°ÀŞİÀßÀß4Àß>ÀßÀßËÀàÀàCÀà©ÀàßÀáÀá(Àá.ÀávÀá®ÀáúÀâKÀâ’ÀâÜÀã%Àã8ÀãÁÀäÀäÀäÀäoÀäpÀäîÀåqÀåÙÀæ ÀæeÀæfÀæ°ÀçÀçÀçÀçOÀçjÀçpÀç¹ÀçÚÀçàÀè!ÀèaÀèŒÀèµÀèäÀèòÀèøÀèùÀéÀéTÀéÀéæÀé÷ÀêÀê#ÀêPÀêVÀêÀêÀê®ÀêÆÀêíÀëÀëPÀëwÀë£ÀëòÀëıÀìÀì,Àì3Àì7ÀìÎÀìÏÀìÿÀí-Àí|Àí›Àí¹ÀíÀÀíøÀíùÀîDÀî‘ÀîàÀîûÀïÀï?ÀïEÀïIÀïÀÀïÁÀğÀğ1Àğ{Àğ•ÀğÔÀğáÀñÀñÀñÀñ ÀñeÀñ{Àñ¡ÀñÔÀñâÀñèÀñéÀò)ÀòIÀòƒÀò‘Àò—Àò˜ÀòéÀó-Àó{Àó‰ÀóÀóÀóäÀô7ÀôcÀô†Àô¦ÀôÆÀôÍÀô÷ÀõÀõÀõ6Àõ:Àõ;ÀõŠÀõ¦ÀõêÀö
+ÀöÀöÀöÀöFÀö‡Àö¦Àö­À÷À÷DÀ÷RÀ÷fÀ÷±À÷ÙÀ÷âÀ÷éÀø)ÀøCÀø„Àø”ÀøœÀøÂÀùÀùTÀùªÀùßÀúÀúMÀú\ÀúÀú¶Àú¿ÀúÌÀúüÀûÀûÀû:ÀûyÀûÊÀûôÀü$ÀübÀüqÀü¢ÀüËÀüÔÀüÚÀüÛÀıÀı$ÀıUÀı{Àı‚Àı†Àı‡Àı¿ÀıËÀşÀş§Àş®ÀşºÀÿÀÿ”Àÿ›ÀÿœÀÿËÀÿëÀ :À NÀ UÀ YÀ àÀ áÀTÀ¦À§ÀßÀÀ1ÀDÀJÀvÀzÀ{À|À·À½ÀÀFÀÀ¬ÀÑÀôÀÀ6À„ÀÒÀğÀÀ5À_ÀmÀ˜ÀÄÀøÀ%ÀMÀ{ÀÏÀÙÀúÀÀ>ÀbÀhÀlÀmÀ·ÀÀ2ÀeÀ¨ÀûÀüÀ	
+À	”À
+/À
+±À
+²À
+ÏÀœÀÀ÷ÀÜÀœÀÀfÀhÀAÀ8ÀÃÀÀÀÀïÀéÀêÀüÀ?ÀŠÀÀÀ_ÀdÀeÀqÀ˜ÀÆÀÀÀMÀ¯ÀéÀ;À‹À’À“À´ÀáÀÀ&À|À¶ÀÒÀÀ-ÀLÀ~À¦ÀÜÀ/À@ÀŸÀÒÀòÀÀÀ-ÀLÀ^À_ÀÀ»ÀèÀÀDÀsÀ¿À	À-ÀCÀrÀÍÀ)ÀFÀaÀsÀtÀ×ÀèÀ $À vÀ ÊÀ!À!TÀ!ÑÀ!âÀ"À">À"ZÀ"‡À"°À"òÀ#À#<À#jÀ#ÄÀ#õÀ$&À$eÀ$œÀ$ñÀ%CÀ%|À%áÀ&À&6À&KÀ&À&ÔÀ'À'+À'gÀ'¡À'ßÀ(À(IÀ(~À(¹À(îÀ)"À)bÀ)À)«À)ÚÀ*#À*hÀ*¡À*ÌÀ+À+TÀ+—À+ĞÀ,À,8À,oÀ,¦À,ÛÀ-À-yÀ-æÀ.À.\À.•À.ĞÀ/À/|À/¿À0
+À0GÀ0sÀ0ÆÀ1À1BÀ1À1ÏÀ2À2kÀ2ºÀ3À3IÀ3ŠÀ3ĞÀ4!À4`À4}À4˜À4±À4ÈÀ4İÀ4ğÀ5À5À5À5(À51À58À5<À5=À5qÀ5wÀ5¼À6À6%À6&À6DÀ6eÀ6›À6åÀ71À7MÀ7’À7ÊÀ7ÓÀ89À8‘À8²À9À9BÀ9‘À9›À9£À9ÕÀ9ÛÀ:.À:~À:ÏÀ:éÀ;RÀ;³À</À<>À<¦À<®À<ëÀ=4À=OÀ=•À= À=©À=¯À=íÀ>À>fÀ>¸À?À?aÀ?bÀ?ÀÀ?ÁÀ?öÀ@À@)À@9À@pÀ@ŒÀ@•À@›À@œÀ@ÓÀ@ÿÀAÀA,ÀAPÀAWÀA[ÀA]ÀA^ÀA•ÀA£ÀA²ÀAĞÀAéÀBÀB7ÀBMÀBmÀB‹ÀB¨ÀBÄÀBáÀCÀCÀC;ÀCNÀCiÀC~ÀC—ÀCµÀCÒÀCóÀDÀD*ÀDIÀDcÀDŒÀD«ÀDÂÀDÙÀDùÀE!ÀEZÀE‘ÀE½ÀEæÀF
+ÀF$ÀF>ÀF^ÀF°ÀF±ÀFĞÀFğÀGÀG4ÀGZÀG€ÀG¨ÀGÀÀG×ÀGîÀHÀHÀH2ÀHRÀHqÀHÀH­ÀHÒÀHêÀIÀI'ÀIWÀI~ÀIÀIÂÀIŞÀIüÀJÀJ7ÀJZÀJŠÀJ¸ÀJáÀKÀK7ÀK[ÀK{ÀK–ÀK—ÀK£ÀKßÀKúÀLÀL2ÀLdÀL’ÀLÆÀLäÀM ÀMÀM4ÀMNÀMhÀM€ÀMÀMÄÀMâÀMşÀN"ÀN`ÀN‚ÀN˜ÀNÅÀNóÀOÀOAÀOgÀO‡ÀO©ÀOËÀOíÀPÀPQÀPÀP¿ÀPóÀQÀQEÀQmÀQÀQ–ÀQšÀQ›ÀQ§ÀQöÀRÀR!ÀRCÀRwÀR§ÀRİÀRıÀSÀS7ÀSSÀSoÀS‹ÀS¥ÀSÅÀSíÀTÀT+ÀTQÀT‘ÀTµÀTÍÀTüÀU,ÀUTÀU„ÀU¦ÀUÈÀUìÀVÀV4ÀVhÀVšÀVÚÀWÀW<ÀWpÀWšÀW¾ÀWëÀWïÀWñÀWòÀWıÀXÀX4ÀXRÀXoÀXÀX®ÀXÔÀXîÀYÀY,ÀYDÀYJÀYKÀYhÀYÀY¬ÀYÜÀYôÀZÀZ-ÀZ@ÀZ_ÀZ`ÀZ–ÀZ¸ÀZáÀZçÀ[!À[cÀ[ŸÀ\+À\_À\À\ÛÀ]À]gÀ]kÀ]mÀ]nÀ] À]½À]ÖÀ]óÀ^À^:À^UÀ^[À^\À^rÀ^À^®À^ÙÀ^ïÀ^ğÀ^üÀ_BÀ_DÀ_EÀ_¡À_úÀ_ûÀ`À`À`3À`MÀ`À`•À`™À`šÀ`¦À`İÀaÀa3ÀauÀa{Àa|Àa¬ÀaêÀağÀaôÀaõÀbÀbÀbPÀbeÀbiÀbjÀbÜÀbİÀcÀc)Àc*Àc6ÀclÀcmÀcyÀc¡ÀcÆÀd!ÀdDÀdHÀdIÀdUÀdzÀd¤ÀdÑÀdåÀdëÀeÀe(Àe.ÀeZÀenÀetÀe´ÀeæÀfGÀf›ÀfŸÀf Àf¬ÀfÀÀgÀg9ÀgQÀgWÀgÀgöÀgúÀgûÀhÀh.ÀhGÀhKÀhMÀhNÀh~ÀhÀh·ÀhÏÀhÕÀhÖÀi3ÀiFÀiGÀiSÀiÀi±ÀiŞÀiåÀjÀj0ÀjDÀjŠÀjÀj¬ÀjÛÀkÀkÀk#Àk7ÀkLÀkRÀkVÀkXÀkYÀkšÀkÀkïÀl:Àl†ÀlÉÀmÀmiÀmtÀmxÀmÈÀmßÀmãÀmñÀmõÀn:ÀnrÀnÃÀnûÀo+ÀoSÀoTÀojÀokÀo¼ÀoèÀp1ÀpxÀp»Àp¿ÀpÀÀpÌÀpüÀq%Àq8Àq>ÀqWÀqgÀqmÀq‘Àq¬Àq²ÀqÏÀqæÀqìÀqíÀrÀr.ÀrBÀrFÀrGÀrSÀr„Àr¹ÀrÌÀrÒÀrêÀrúÀs Às(ÀsCÀsIÀsfÀs}ÀsƒÀs„Às²ÀsÉÀsáÀsåÀsçÀsèÀt9Àt”ÀtäÀtåÀuÀu7ÀufÀugÀusÀu©ÀuåÀvÀvÀvÀv;ÀvƒÀvÇÀvéÀw3Àw\ÀwÁÀxÀxÀx6ÀxHÀxœÀx¥Àx«Àx¬ÀyÀyÀyEÀyfÀyÊÀzÀz9Àz@Àz[ÀzkÀzÅÀzÌÀzĞÀzÑÀzİÀ{5À{7À{8À{À{¼À{ÌÀ{æÀ|À|3À|NÀ|nÀ|tÀ|uÀ|–À|ÀÀ|×À|óÀ}$À}RÀ}SÀ}~À}À}ÉÀ}áÀ~À~BÀ~„À~«À~²ÀÀZÀ^À_À¥À¿À÷À€$À€hÀ€oÀ€¡À€şÀÀÀÀEÀÀ À¡À‚ À‚WÀ‚”À‚ªÀƒÀƒ-Àƒ7Àƒ=Àƒ>ÀƒjÀƒ¹ÀƒğÀ„À„OÀ„nÀ„À„šÀ„áÀ… À…!À…LÀ…WÀ…_À…eÀ…fÀ†À†‹À†ÿÀ‡-À‡§À‡¨À‡èÀˆ[ÀˆĞÀ‰DÀ‰HÀ‰IÀ‰UÀ‰“À‰•À‰–ÀŠÀŠ:ÀŠ;ÀŠ\ÀŠ]ÀŠÀŠ¯ÀŠ°ÀŠäÀ‹À‹;À‹gÀ‹uÀ‹{À‹§À‹õÀŒRÀŒ°ÀÀ2ÀUÀqÀwÀ{À|ÀˆÀ»ÀçÀèÀGÀ—À»ÀÉÀÏÀĞÀÀ%ÀAÀGÀHÀÀïÀğÀDÀ¦ÀòÀ‘ À‘;À‘À‘ÖÀ’À’1À’2À’FÀ’VÀ’¨À’¯À’áÀ“
+À“.À“4À“8À“9À“EÀ“ƒÀ“…À“†À“ÊÀ“êÀ“ëÀ”À”À”À”aÀ”|À”ŒÀ”©À”¿À•À•#À•,À•3À•7À•8À•DÀ•À•ƒÀ•„À•ĞÀ•ôÀ•õÀ–À–À–#À–lÀ–À–¸À–ÅÀ–îÀ–ôÀ–øÀ–ùÀ—À—jÀ—lÀ—mÀ—¨À—³À—ÉÀ—áÀ—úÀ˜À˜À˜À˜BÀ˜XÀ˜YÀ˜‚À˜–À˜˜À˜™À˜×À˜øÀ˜üÀ™GÀ™mÀ™±À™½À™òÀ™óÀ™ÿÀšÀš:Àš>Àš@    _kCursorBlinkHalfPeriod"_kObscureShowLatestCharCursorTicks!kDefaultContentInsertionMimeTypes_CompositionCallback_RenderCompositionCallbackTextEditingControllerToolbarOptionsContentInsertionConfiguration	_KeyFrame_DiscreteKeyFrameSimulationEditableTextEditableTextState	_Editable_ScribbleCacheKey_ScribbleFocusable_ScribbleFocusableState_ScribblePlaceholder_CodePointBoundary_DeleteTextAction_UpdateTextSelectionAction$_UpdateTextSelectionVerticallyAction_SelectAllAction_CopySelectionAction_GlyphHeights_WebClipboardStatusNotifier K€
